@@ -5,6 +5,7 @@
 # See https://aboutcode.org for more information about nexB OSS projects.
 #
 
+import hashlib
 import json
 import os
 import re
@@ -13,11 +14,11 @@ from abc import abstractmethod
 from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urlparse
 
 import gitlab
 from aboutcode.pipeline import BasePipeline, LoopProgress
 from github import Github
+from packageurl.contrib.url2purl import url2purl
 
 github_token = os.environ.get("GITHUB_TOKEN")
 gitlab_token = os.environ.get("GITLAB_TOKEN")
@@ -32,28 +33,23 @@ class VCSCollector(BasePipeline):
     CVE_PATTERN = re.compile(r"(CVE-\d{4}-\d+)", re.IGNORECASE)
     SUPPORTED_IDENTIFIERS = ["CVE-"]
 
-    collected_items: dict = {}
-
-    def __init__(self, vcs_url: str, *args, **kwargs):
+    def __init__(self, vcs_url: str, purl, *args, **kwargs):
         self.vcs_url = vcs_url
+        self.purl = purl
+        self.repo_name = f"{self.purl.namespace}/{self.purl.name}"
+        self.collected_items = {
+            "vcs_url": self.vcs_url,
+            "vulnerabilities": defaultdict(lambda: {"Issues": [], "PRs": []}),
+        }
         super().__init__(*args, **kwargs)
 
     @classmethod
     def steps(cls):
         return (
-            cls.configure_target,
             cls.fetch_entries,
             cls.collect_items,
             cls.store_items,
         )
-
-    def configure_target(self):
-        parsed_url = urlparse(self.vcs_url)
-        parts = parsed_url.path.strip("/").split("/")
-        if len(parts) < 2:
-            raise ValueError(f"Invalid URL: {self.vcs_url}")
-
-        self.repo_name = f"{parts[0]}/{parts[1]}"
 
     def log(self, message):
         now_local = datetime.now(timezone.utc).astimezone()
@@ -70,18 +66,17 @@ class VCSCollector(BasePipeline):
         raise NotImplementedError
 
     def store_items(self):
-        self.log("Storing collected fix commit results.")
-        repo_name = self.vcs_url.replace("https://github.com", "")
-        path = Path(f"data/issues-prs/{repo_name}.json")
+        self.log("Storing collected fix commit results")
+        if not self.collected_items:
+            self.log("No collected fix commit results")
+            return
+
+        vcs_url_hash = hashlib.sha256(self.vcs_url.encode("utf-8")).hexdigest()[:8]
+        path = Path(f"data/issues-prs/{self.purl.name}-{vcs_url_hash}.json")
+
         path.parent.mkdir(parents=True, exist_ok=True)
         with open(path, "w", encoding="utf-8") as f:
-            serialized_data = {
-                cve: {i_type: list(set(urls)) for i_type, urls in type_data.items()}
-                for cve, type_data in self.collected_items.items()
-            }
-
-            json.dump(serialized_data, f, indent=2)
-        return
+            json.dump(self.collected_items, f, indent=2)
 
 
 class GitLabCollector(VCSCollector):
@@ -94,18 +89,20 @@ class GitLabCollector(VCSCollector):
         self.prs = project.search(scope="merge_requests", search=base_query)
 
     def collect_items(self):
-        self.collected_items = defaultdict(lambda: defaultdict(set))
-        for i_type, items in [("Issue", self.issues), ("PR", self.prs)]:
+        for i_type, items in [("Issues", self.issues), ("PRs", self.prs)]:
             for item in items:
                 title = item.get("title") or ""
                 description = item.get("description") or ""
                 matches = self.CVE_PATTERN.findall(title + " " + description)
+                seen_urls = set()
                 for match in matches:
                     cve_id = match.upper()
                     url = item.get("web_url")
-                    if not url:
+                    if not url or cve_id in seen_urls:
                         continue
-                    self.collected_items[cve_id][i_type].add(url)
+
+                    self.collected_items["vulnerabilities"][cve_id][i_type].append(url)
+                    seen_urls.add(cve_id)
 
 
 class GitHubCollector(VCSCollector):
@@ -119,13 +116,18 @@ class GitHubCollector(VCSCollector):
         self.prs = g.search_issues(f"{base_query} is:pr")
 
     def collect_items(self):
-        self.collected_items = defaultdict(lambda: defaultdict(set))
         for i_type, items in [("Issues", self.issues), ("PRs", self.prs)]:
             for item in items:
                 matches = self.CVE_PATTERN.findall(item.title + " " + (item.body or ""))
+                seen_urls = set()
                 for match in matches:
                     cve_id = match.upper()
-                    self.collected_items[cve_id][i_type].add(item.html_url)
+                    if not item.html_url or item.html_url in seen_urls:
+                        continue
+                    self.collected_items["vulnerabilities"][cve_id][i_type].append(
+                        item.html_url
+                    )
+                    seen_urls.add(item.html_url)
 
 
 if __name__ == "__main__":
@@ -137,10 +139,13 @@ if __name__ == "__main__":
         logger=print,
     )
     for vcs_url in progress.iter(vcs_urls):
-        if vcs_url.startswith("https://gitlab.com"):
-            collector = GitLabCollector(vcs_url=vcs_url)
-        elif vcs_url.startswith("https://github.com"):
-            collector = GitHubCollector(vcs_url=vcs_url)
+        purl = url2purl(vcs_url)
+        purl_type = purl.type
+
+        if purl_type == "gitlab":
+            collector = GitLabCollector(vcs_url=vcs_url, purl=purl)
+        elif purl_type == "github":
+            collector = GitHubCollector(vcs_url=vcs_url, purl=purl)
         else:
             print(f"Unsupported VCS URL: {vcs_url}")
             continue

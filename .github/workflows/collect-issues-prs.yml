@@ -33,5 +33,5 @@ jobs:
           git config user.email "automation@aboutcode.org"
           git add -A
           timestamp=$(date -u)
-          git commit -m "$(echo -e "Sync Collecting Fix Commits: $timestamp\n\nSigned-off-by: AboutCode Automation <automation@aboutcode.org>")" || exit 0
+          git commit -m "$(echo -e "Sync Collecting Issues and Pull requests related to vulnerabilities.: $timestamp\n\nSigned-off-by: AboutCode Automation <automation@aboutcode.org>")" || exit 0
           git push
