@@ -20,8 +20,8 @@ from aboutcode.pipeline import BasePipeline, LoopProgress
 from github import Github
 from packageurl.contrib.url2purl import url2purl
 
-github_token = os.environ.get("GITHUB_TOKEN")
-gitlab_token = os.environ.get("GITLAB_TOKEN")
+github_token = os.environ.get("GH_API_TOKEN")
+gitlab_token = os.environ.get("GLAB_API_TOKEN")
 
 
 class VCSCollector(BasePipeline):
