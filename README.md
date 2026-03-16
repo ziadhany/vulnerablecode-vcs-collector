@@ -58,3 +58,22 @@ git clone https://github.com/aboutcode-data/vulnerablecode-vcs-collector.git
 
 
 Once cloned, you can find the existing data in the `data/fix-commits` or `data/issues-prs` directory
+
+To run the pipeline and generate new files, Create the `.env` file and add your API tokens:
+
+```json
+GH_API_TOKEN="ghp_xxx"
+GLAB_API_TOKEN="glpat-xxx"
+```
+
+Then, you can run the collectors using Python:
+
+To collect fix commits:
+```bash
+python fix_commits_collector.py
+```
+
+To collect issues and pull requests:
+```bash
+python issues_prs_collector.py
+```
