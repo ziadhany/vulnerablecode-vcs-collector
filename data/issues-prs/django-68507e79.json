@@ -1,0 +1,119 @@
+{
+  "vcs_url": "https://github.com/django/django",
+  "vulnerabilities": {
+    "CVE-2025-64458": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/20332",
+        "https://github.com/django/django/pull/20331"
+      ]
+    },
+    "CVE-2025-48432": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/19550",
+        "https://github.com/django/django/pull/19525"
+      ]
+    },
+    "CVE-2025-32873": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/19446"
+      ]
+    },
+    "CVE-2025-26699": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/19404"
+      ]
+    },
+    "CVE-2024-53907": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/18884"
+      ]
+    },
+    "CVE-2024-53908": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/19061",
+        "https://github.com/django/django/pull/19060"
+      ]
+    },
+    "CVE-2024-11168": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/18872"
+      ]
+    },
+    "CVE-2020-10735": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/18460"
+      ]
+    },
+    "CVE-2024-39329": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/18461"
+      ]
+    },
+    "CVE-2024-39330": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/18371"
+      ]
+    },
+    "CVE-2022-34265": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/15820",
+        "https://github.com/django/django/pull/15832"
+      ]
+    },
+    "CVE-2022-0391": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/15807"
+      ]
+    },
+    "CVE-2021-31542": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/15341",
+        "https://github.com/django/django/pull/15340",
+        "https://github.com/django/django/pull/14384",
+        "https://github.com/django/django/pull/14353",
+        "https://github.com/django/django/pull/14348",
+        "https://github.com/django/django/pull/14346"
+      ]
+    },
+    "CVE-2021-32052": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/14349",
+        "https://github.com/django/django/pull/14361",
+        "https://github.com/django/django/pull/14360",
+        "https://github.com/django/django/pull/14359"
+      ]
+    },
+    "CVE-2020-13254": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/13017"
+      ]
+    },
+    "CVE-2019-16865": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/11962"
+      ]
+    },
+    "CVE-2019-14234": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/django/django/pull/11784"
+      ]
+    }
+  }
+}

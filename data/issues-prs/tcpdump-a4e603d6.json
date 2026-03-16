@@ -1,0 +1,157 @@
+{
+  "vcs_url": "https://github.com/the-tcpdump-group/tcpdump",
+  "vulnerabilities": {
+    "CVE-2018-14881": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/1347"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8037": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/892",
+        "https://github.com/the-tcpdump-group/tcpdump/issues/890"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7985": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/581",
+        "https://github.com/the-tcpdump-group/tcpdump/issues/560",
+        "https://github.com/the-tcpdump-group/tcpdump/issues/580"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-19519": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/763"
+      ],
+      "PRs": [
+        "https://github.com/the-tcpdump-group/tcpdump/pull/978",
+        "https://github.com/the-tcpdump-group/tcpdump/pull/720"
+      ]
+    },
+    "CVE-2018-10105": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/802"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-11541": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/619"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-11108": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/616"
+      ],
+      "PRs": [
+        "https://github.com/the-tcpdump-group/tcpdump/pull/617"
+      ]
+    },
+    "CVE-2016-7931": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/549"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7926": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/561"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7975": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/516"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-5485": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/563"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-5486": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/562"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-5202": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/558"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-5203": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/557"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-5483": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/559"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7984": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/565"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7940": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/547"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7925": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/564"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7992": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/567"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7986": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/553"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7993": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/496"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-3138": {
+      "Issues": [
+        "https://github.com/the-tcpdump-group/tcpdump/issues/446"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-16808": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/the-tcpdump-group/tcpdump/pull/770"
+      ]
+    },
+    "CVE-2014-8767": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/the-tcpdump-group/tcpdump/pull/413"
+      ]
+    }
+  }
+}

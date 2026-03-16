@@ -1,0 +1,24 @@
+{
+  "vcs_url": "https://github.com/mongodb/mongo",
+  "vulnerabilities": {
+    "CVE-2025-14847": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/mongodb/mongo/pull/1628"
+      ]
+    },
+    "CVE-2007-4559": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/mongodb/mongo/pull/1508"
+      ]
+    },
+    "CVE-2024-6221": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/mongodb/mongo/pull/1606",
+        "https://github.com/mongodb/mongo/pull/1602"
+      ]
+    }
+  }
+}

@@ -1,0 +1,924 @@
+{
+  "vcs_url": "https://github.com/moby/moby",
+  "vulnerabilities": {
+    "CVE-2021-3121": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/45756"
+      ],
+      "PRs": [
+        "https://github.com/moby/moby/pull/42254"
+      ]
+    },
+    "CVE-2024-41110": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/48270"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-68121": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/52132"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-24557": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/49947"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-24137": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/51905"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-54410": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/51731",
+        "https://github.com/moby/moby/issues/51730"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-9356": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/9719"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-31133": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/51415"
+      ],
+      "PRs": [
+        "https://github.com/moby/moby/pull/51393",
+        "https://github.com/moby/moby/pull/51394"
+      ]
+    },
+    "CVE-2024-23651": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/47386"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-47108": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/47246"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-5736": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/43396",
+        "https://github.com/moby/moby/issues/38713"
+      ],
+      "PRs": [
+        "https://github.com/moby/moby/pull/41168",
+        "https://github.com/moby/moby/pull/38716",
+        "https://github.com/moby/moby/pull/38873"
+      ]
+    },
+    "CVE-2019-14271": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/42402"
+      ],
+      "PRs": [
+        "https://github.com/moby/moby/pull/51776",
+        "https://github.com/moby/moby/pull/49152",
+        "https://github.com/moby/moby/pull/43185",
+        "https://github.com/moby/moby/pull/39612"
+      ]
+    },
+    "CVE-2016-6595": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/25629"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-5157": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/22664"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-3660": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/18578"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-5278": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/13286"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-3499": {
+      "Issues": [
+        "https://github.com/moby/moby/issues/6836"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-1229": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/52129",
+        "https://github.com/moby/moby/pull/52098"
+      ]
+    },
+    "CVE-2019-19794": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/51914"
+      ]
+    },
+    "CVE-2026-27137": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/52150"
+      ]
+    },
+    "CVE-2026-24686": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/51968"
+      ]
+    },
+    "CVE-2024-40635": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/49909"
+      ]
+    },
+    "CVE-2025-61732": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/52003"
+      ]
+    },
+    "CVE-2026-23992": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/51956"
+      ]
+    },
+    "CVE-2025-61728": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/51860",
+        "https://github.com/moby/moby/pull/51857",
+        "https://github.com/moby/moby/pull/51921"
+      ]
+    },
+    "CVE-2025-47911": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/51142",
+        "https://github.com/moby/moby/pull/51141",
+        "https://github.com/moby/moby/pull/51140",
+        "https://github.com/moby/moby/pull/51138"
+      ]
+    },
+    "CVE-2025-67499": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/51709",
+        "https://github.com/moby/moby/pull/51697",
+        "https://github.com/moby/moby/pull/51699"
+      ]
+    },
+    "CVE-2025-61729": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/51648"
+      ]
+    },
+    "CVE-2025-58181": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/51595"
+      ]
+    },
+    "CVE-2024-45341": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/49312",
+        "https://github.com/moby/moby/pull/49345",
+        "https://github.com/moby/moby/pull/49311"
+      ]
+    },
+    "CVE-2025-61725": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/51133",
+        "https://github.com/moby/moby/pull/51132"
+      ]
+    },
+    "CVE-2025-58183": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/51471"
+      ]
+    },
+    "CVE-2022-0185": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/51130"
+      ]
+    },
+    "CVE-2018-1000007": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/50663"
+      ]
+    },
+    "CVE-2025-22866": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/49394",
+        "https://github.com/moby/moby/pull/49516",
+        "https://github.com/moby/moby/pull/49393",
+        "https://github.com/moby/moby/pull/49400"
+      ]
+    },
+    "CVE-2025-47910": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/50889",
+        "https://github.com/moby/moby/pull/50890"
+      ]
+    },
+    "CVE-2025-4673": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/50153"
+      ]
+    },
+    "CVE-2025-22871": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/49737"
+      ]
+    },
+    "CVE-2025-4674": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/50354",
+        "https://github.com/moby/moby/pull/50353"
+      ]
+    },
+    "CVE-2022-2879": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/49844",
+        "https://github.com/moby/moby/pull/44246",
+        "https://github.com/moby/moby/pull/44247",
+        "https://github.com/moby/moby/pull/44248"
+      ]
+    },
+    "CVE-2025-22868": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/49837"
+      ]
+    },
+    "CVE-2025-30204": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/49790",
+        "https://github.com/moby/moby/pull/49690"
+      ]
+    },
+    "CVE-2025-22870": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/49581",
+        "https://github.com/moby/moby/pull/49580"
+      ]
+    },
+    "CVE-2025-22869": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/49543"
+      ]
+    },
+    "CVE-2024-45338": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/49146"
+      ]
+    },
+    "CVE-2024-45337": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/49070"
+      ]
+    },
+    "CVE-2024-45310": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/48424",
+        "https://github.com/moby/moby/pull/48426",
+        "https://github.com/moby/moby/pull/48425",
+        "https://github.com/moby/moby/pull/48430",
+        "https://github.com/moby/moby/pull/48429"
+      ]
+    },
+    "CVE-2024-34155": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/48442",
+        "https://github.com/moby/moby/pull/48432",
+        "https://github.com/moby/moby/pull/48437",
+        "https://github.com/moby/moby/pull/48436",
+        "https://github.com/moby/moby/pull/48433"
+      ]
+    },
+    "CVE-2020-13401": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/45850"
+      ]
+    },
+    "CVE-2024-24789": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/47903",
+        "https://github.com/moby/moby/pull/47905",
+        "https://github.com/moby/moby/pull/47902",
+        "https://github.com/moby/moby/pull/47904"
+      ]
+    },
+    "CVE-2024-24791": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/48120",
+        "https://github.com/moby/moby/pull/48122",
+        "https://github.com/moby/moby/pull/48123"
+      ]
+    },
+    "CVE-2023-45288": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/47673",
+        "https://github.com/moby/moby/pull/47700",
+        "https://github.com/moby/moby/pull/47672",
+        "https://github.com/moby/moby/pull/47671",
+        "https://github.com/moby/moby/pull/47670"
+      ]
+    },
+    "CVE-2024-24787": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/47807",
+        "https://github.com/moby/moby/pull/47808",
+        "https://github.com/moby/moby/pull/47805",
+        "https://github.com/moby/moby/pull/47806"
+      ]
+    },
+    "CVE-2023-44487": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/46657"
+      ]
+    },
+    "CVE-2023-48795": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/46964"
+      ]
+    },
+    "CVE-2024-24783": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/47503",
+        "https://github.com/moby/moby/pull/47502"
+      ]
+    },
+    "CVE-2024-29018": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/47538"
+      ]
+    },
+    "CVE-2023-39320": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/46453",
+        "https://github.com/moby/moby/pull/46460",
+        "https://github.com/moby/moby/pull/46459"
+      ]
+    },
+    "CVE-2023-39325": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/46623"
+      ]
+    },
+    "CVE-2023-39326": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/46900",
+        "https://github.com/moby/moby/pull/46899",
+        "https://github.com/moby/moby/pull/46787"
+      ]
+    },
+    "CVE-2024-21626": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/47268",
+        "https://github.com/moby/moby/pull/47271",
+        "https://github.com/moby/moby/pull/47269",
+        "https://github.com/moby/moby/pull/47270"
+      ]
+    },
+    "CVE-2018-17419": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/40579",
+        "https://github.com/moby/moby/pull/40617"
+      ]
+    },
+    "CVE-2024-24786": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/47562"
+      ]
+    },
+    "CVE-2023-29406": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/45941",
+        "https://github.com/moby/moby/pull/45995",
+        "https://github.com/moby/moby/pull/45970",
+        "https://github.com/moby/moby/pull/45977",
+        "https://github.com/moby/moby/pull/45972",
+        "https://github.com/moby/moby/pull/45971",
+        "https://github.com/moby/moby/pull/45942",
+        "https://github.com/moby/moby/pull/45962"
+      ]
+    },
+    "CVE-2023-39323": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/46625",
+        "https://github.com/moby/moby/pull/46624",
+        "https://github.com/moby/moby/pull/46622"
+      ]
+    },
+    "CVE-2022-28391": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/45516",
+        "https://github.com/moby/moby/pull/45980",
+        "https://github.com/moby/moby/pull/45520",
+        "https://github.com/moby/moby/pull/45521"
+      ]
+    },
+    "CVE-2023-29402": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/45744",
+        "https://github.com/moby/moby/pull/45750",
+        "https://github.com/moby/moby/pull/45751",
+        "https://github.com/moby/moby/pull/45745"
+      ]
+    },
+    "CVE-2021-3115": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/46217",
+        "https://github.com/moby/moby/pull/46216",
+        "https://github.com/moby/moby/pull/46215",
+        "https://github.com/moby/moby/pull/46091"
+      ]
+    },
+    "CVE-2023-29409": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/46142",
+        "https://github.com/moby/moby/pull/46139",
+        "https://github.com/moby/moby/pull/46141",
+        "https://github.com/moby/moby/pull/46140"
+      ]
+    },
+    "CVE-2023-25809": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/45238",
+        "https://github.com/moby/moby/pull/45239",
+        "https://github.com/moby/moby/pull/45407",
+        "https://github.com/moby/moby/pull/45237",
+        "https://github.com/moby/moby/pull/45236"
+      ]
+    },
+    "CVE-2023-24539": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/45455",
+        "https://github.com/moby/moby/pull/45457",
+        "https://github.com/moby/moby/pull/45456"
+      ]
+    },
+    "CVE-2023-24532": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/45242",
+        "https://github.com/moby/moby/pull/45137",
+        "https://github.com/moby/moby/pull/45135"
+      ]
+    },
+    "CVE-2023-24537": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/45276",
+        "https://github.com/moby/moby/pull/45277",
+        "https://github.com/moby/moby/pull/45275"
+      ]
+    },
+    "CVE-2023-26054": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/45109",
+        "https://github.com/moby/moby/pull/45110"
+      ]
+    },
+    "CVE-2023-25153": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/45022"
+      ]
+    },
+    "CVE-2022-41723": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/45001",
+        "https://github.com/moby/moby/pull/45056"
+      ]
+    },
+    "CVE-2022-41722": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/44999",
+        "https://github.com/moby/moby/pull/45021"
+      ]
+    },
+    "CVE-2022-41721": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/44836",
+        "https://github.com/moby/moby/pull/44843"
+      ]
+    },
+    "CVE-2022-23471": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/44608",
+        "https://github.com/moby/moby/pull/44607"
+      ]
+    },
+    "CVE-2022-41716": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/44388",
+        "https://github.com/moby/moby/pull/44412",
+        "https://github.com/moby/moby/pull/44411"
+      ]
+    },
+    "CVE-2022-41717": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/44593",
+        "https://github.com/moby/moby/pull/44592",
+        "https://github.com/moby/moby/pull/44591",
+        "https://github.com/moby/moby/pull/44605"
+      ]
+    },
+    "CVE-2022-27664": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/44099",
+        "https://github.com/moby/moby/pull/44100",
+        "https://github.com/moby/moby/pull/44101",
+        "https://github.com/moby/moby/pull/44102",
+        "https://github.com/moby/moby/pull/44103"
+      ]
+    },
+    "CVE-2022-39253": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/44324",
+        "https://github.com/moby/moby/pull/44325"
+      ]
+    },
+    "CVE-2022-24675": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43498",
+        "https://github.com/moby/moby/pull/43499"
+      ]
+    },
+    "CVE-2022-29526": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43581",
+        "https://github.com/moby/moby/pull/43582"
+      ]
+    },
+    "CVE-2022-30634": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43676",
+        "https://github.com/moby/moby/pull/43677"
+      ]
+    },
+    "CVE-2022-1705": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43802",
+        "https://github.com/moby/moby/pull/43803",
+        "https://github.com/moby/moby/pull/43805"
+      ]
+    },
+    "CVE-2022-32189": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43905",
+        "https://github.com/moby/moby/pull/43903",
+        "https://github.com/moby/moby/pull/43904"
+      ]
+    },
+    "CVE-2022-24765": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43485",
+        "https://github.com/moby/moby/pull/43486"
+      ]
+    },
+    "CVE-2022-29162": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43589",
+        "https://github.com/moby/moby/pull/43588"
+      ]
+    },
+    "CVE-2022-24921": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43325",
+        "https://github.com/moby/moby/pull/43326"
+      ]
+    },
+    "CVE-2022-31030": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43700",
+        "https://github.com/moby/moby/pull/43701"
+      ]
+    },
+    "CVE-2020-14040": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/41123",
+        "https://github.com/moby/moby/pull/41122"
+      ]
+    },
+    "CVE-2019-16276": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/39999",
+        "https://github.com/moby/moby/pull/40592"
+      ]
+    },
+    "CVE-2022-23806": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43242",
+        "https://github.com/moby/moby/pull/43243"
+      ]
+    },
+    "CVE-2021-41772": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/42990",
+        "https://github.com/moby/moby/pull/42989"
+      ]
+    },
+    "CVE-2022-24769": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43417",
+        "https://github.com/moby/moby/pull/43418"
+      ]
+    },
+    "CVE-2021-39293": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/42855"
+      ]
+    },
+    "CVE-2017-18367": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/39409",
+        "https://github.com/moby/moby/pull/41365"
+      ]
+    },
+    "CVE-2022-27191": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43392"
+      ]
+    },
+    "CVE-2020-15257": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/42015",
+        "https://github.com/moby/moby/pull/41732",
+        "https://github.com/moby/moby/pull/41731"
+      ]
+    },
+    "CVE-2021-41190": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43025",
+        "https://github.com/moby/moby/pull/43023",
+        "https://github.com/moby/moby/pull/43024"
+      ]
+    },
+    "CVE-2022-23648": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43327",
+        "https://github.com/moby/moby/pull/43329"
+      ]
+    },
+    "CVE-2021-32760": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/42656",
+        "https://github.com/moby/moby/pull/42657"
+      ]
+    },
+    "CVE-2021-30465": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/42399",
+        "https://github.com/moby/moby/pull/42398",
+        "https://github.com/moby/moby/pull/42394",
+        "https://github.com/moby/moby/pull/42395"
+      ]
+    },
+    "CVE-2021-41103": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/42902"
+      ]
+    },
+    "CVE-2021-43565": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/43057"
+      ]
+    },
+    "CVE-2021-41091": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/42907"
+      ]
+    },
+    "CVE-2021-34558": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/42631",
+        "https://github.com/moby/moby/pull/42643"
+      ]
+    },
+    "CVE-2021-21285": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/41966"
+      ]
+    },
+    "CVE-2021-21334": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/42124",
+        "https://github.com/moby/moby/pull/42121"
+      ]
+    },
+    "CVE-2021-21284": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/41964"
+      ]
+    },
+    "CVE-2019-9512": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/39798",
+        "https://github.com/moby/moby/pull/39738"
+      ]
+    },
+    "CVE-2020-0601": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/40429",
+        "https://github.com/moby/moby/pull/40433"
+      ]
+    },
+    "CVE-2019-17596": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/40102",
+        "https://github.com/moby/moby/pull/40384"
+      ]
+    },
+    "CVE-2019-19921": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/40404",
+        "https://github.com/moby/moby/pull/40453"
+      ]
+    },
+    "CVE-2018-15664": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/39292",
+        "https://github.com/moby/moby/pull/39351",
+        "https://github.com/moby/moby/pull/39252"
+      ]
+    },
+    "CVE-2019-16884": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/40001",
+        "https://github.com/moby/moby/pull/39995"
+      ]
+    },
+    "CVE-2019-13139": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/38944"
+      ]
+    },
+    "CVE-2019-6486": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/38629"
+      ]
+    },
+    "CVE-2018-16875": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/38369"
+      ]
+    },
+    "CVE-2018-10892": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/37404",
+        "https://github.com/moby/moby/pull/37411"
+      ]
+    },
+    "CVE-2018-8115": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/36985"
+      ]
+    },
+    "CVE-2018-6574": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/36243"
+      ]
+    },
+    "CVE-2017-14992": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/35572",
+        "https://github.com/moby/moby/pull/35424"
+      ]
+    },
+    "CVE-2017-8932": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/33387",
+        "https://github.com/moby/moby/pull/33388"
+      ]
+    },
+    "CVE-2016-1252": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/29807"
+      ]
+    },
+    "CVE-2014-8178": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/moby/moby/pull/16953",
+        "https://github.com/moby/moby/pull/16952"
+      ]
+    }
+  }
+}

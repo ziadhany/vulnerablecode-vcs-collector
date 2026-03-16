@@ -1,0 +1,43 @@
+{
+  "vcs_url": "https://github.com/nginx/nginx",
+  "vulnerabilities": {
+    "CVE-2025-1390": {
+      "Issues": [
+        "https://github.com/nginx/nginx/issues/626"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-27113": {
+      "Issues": [
+        "https://github.com/nginx/nginx/issues/719"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-7425": {
+      "Issues": [
+        "https://github.com/nginx/nginx/issues/1018"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-64720": {
+      "Issues": [
+        "https://github.com/nginx/nginx/issues/1028",
+        "https://github.com/nginx/nginx/issues/1020",
+        "https://github.com/nginx/nginx/issues/1025"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-1974": {
+      "Issues": [
+        "https://github.com/nginx/nginx/issues/754"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-24989": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/nginx/nginx/pull/786"
+      ]
+    }
+  }
+}

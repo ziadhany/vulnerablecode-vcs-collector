@@ -1,0 +1,1057 @@
+{
+  "vcs_url": "https://github.com/python/cpython",
+  "vulnerabilities": {
+    "CVE-2026-2297": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/145506"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/145514",
+        "https://github.com/python/cpython/pull/145516",
+        "https://github.com/python/cpython/pull/145515",
+        "https://github.com/python/cpython/pull/145507",
+        "https://github.com/python/cpython/pull/145512",
+        "https://github.com/python/cpython/pull/145513"
+      ]
+    },
+    "CVE-2007-5770": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/91826"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-6923": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/144125",
+        "https://github.com/python/cpython/issues/124170"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-5752": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/144538",
+        "https://github.com/python/cpython/issues/131860",
+        "https://github.com/python/cpython/issues/112516"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/144539",
+        "https://github.com/python/cpython/pull/131862",
+        "https://github.com/python/cpython/pull/131863",
+        "https://github.com/python/cpython/pull/131861",
+        "https://github.com/python/cpython/pull/112710"
+      ]
+    },
+    "CVE-2026-24515": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/144363"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-15467": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/144775"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-52425": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/119382",
+        "https://github.com/python/cpython/issues/115399"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/115760",
+        "https://github.com/python/cpython/pull/115762",
+        "https://github.com/python/cpython/pull/115761",
+        "https://github.com/python/cpython/pull/115763",
+        "https://github.com/python/cpython/pull/115764",
+        "https://github.com/python/cpython/pull/115525",
+        "https://github.com/python/cpython/pull/115288",
+        "https://github.com/python/cpython/pull/115289",
+        "https://github.com/python/cpython/pull/115164",
+        "https://github.com/python/cpython/pull/115400",
+        "https://github.com/python/cpython/pull/115623",
+        "https://github.com/python/cpython/pull/116275",
+        "https://github.com/python/cpython/pull/116272",
+        "https://github.com/python/cpython/pull/116270",
+        "https://github.com/python/cpython/pull/116268",
+        "https://github.com/python/cpython/pull/116248",
+        "https://github.com/python/cpython/pull/115535",
+        "https://github.com/python/cpython/pull/115536"
+      ]
+    },
+    "CVE-2022-29804": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/100162"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-9375": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/139489"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-10735": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/98547",
+        "https://github.com/python/cpython/issues/96834",
+        "https://github.com/python/cpython/issues/108346",
+        "https://github.com/python/cpython/issues/95778"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/97550",
+        "https://github.com/python/cpython/pull/100306",
+        "https://github.com/python/cpython/pull/100697",
+        "https://github.com/python/cpython/pull/100698",
+        "https://github.com/python/cpython/pull/100699",
+        "https://github.com/python/cpython/pull/100477",
+        "https://github.com/python/cpython/pull/100476",
+        "https://github.com/python/cpython/pull/96499",
+        "https://github.com/python/cpython/pull/96503",
+        "https://github.com/python/cpython/pull/96504",
+        "https://github.com/python/cpython/pull/96502",
+        "https://github.com/python/cpython/pull/96501",
+        "https://github.com/python/cpython/pull/96500"
+      ]
+    },
+    "CVE-2024-8176": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/131261",
+        "https://github.com/python/cpython/issues/131809"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/131361",
+        "https://github.com/python/cpython/pull/131272",
+        "https://github.com/python/cpython/pull/131360",
+        "https://github.com/python/cpython/pull/131364",
+        "https://github.com/python/cpython/pull/131362",
+        "https://github.com/python/cpython/pull/131363"
+      ]
+    },
+    "CVE-2025-47273": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/135374"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-9230": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/139573"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-5535": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/121227"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-12797": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/131423"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-6345": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/131864"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-59375": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/138998"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/139527",
+        "https://github.com/python/cpython/pull/139532",
+        "https://github.com/python/cpython/pull/139529",
+        "https://github.com/python/cpython/pull/139367",
+        "https://github.com/python/cpython/pull/139359"
+      ]
+    },
+    "CVE-2024-9287": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/124651"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-6965": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/137134"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-4517": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/135034"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-4435": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/112887"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/135037"
+      ]
+    },
+    "CVE-2020-14422": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/134062",
+        "https://github.com/python/cpython/issues/85430",
+        "https://github.com/python/cpython/issues/85176"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-40897": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/102202",
+        "https://github.com/python/cpython/issues/119778"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/102208"
+      ]
+    },
+    "CVE-2024-3220": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/130514"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-0938": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/105704"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-11168": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/103848"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-27043": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/102988",
+        "https://github.com/python/cpython/issues/122600"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/111116",
+        "https://github.com/python/cpython/pull/123770",
+        "https://github.com/python/cpython/pull/123769",
+        "https://github.com/python/cpython/pull/123768",
+        "https://github.com/python/cpython/pull/123767",
+        "https://github.com/python/cpython/pull/123766",
+        "https://github.com/python/cpython/pull/106612"
+      ]
+    },
+    "CVE-2023-45853": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/111239"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/114877"
+      ]
+    },
+    "CVE-2023-50782": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/126794"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-50602": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/126623"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-2511": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/123418"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-45490": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/123678"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-2104": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/67693",
+        "https://github.com/python/cpython/issues/44982"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-7592": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/123067"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/123103",
+        "https://github.com/python/cpython/pull/123104",
+        "https://github.com/python/cpython/pull/123105",
+        "https://github.com/python/cpython/pull/123106",
+        "https://github.com/python/cpython/pull/123107",
+        "https://github.com/python/cpython/pull/123108",
+        "https://github.com/python/cpython/pull/123075",
+        "https://github.com/python/cpython/pull/123066"
+      ]
+    },
+    "CVE-2019-9674": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/109858",
+        "https://github.com/python/cpython/issues/80643",
+        "https://github.com/python/cpython/issues/80441",
+        "https://github.com/python/cpython/issues/83522"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-4030": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/118486"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/118737",
+        "https://github.com/python/cpython/pull/118768",
+        "https://github.com/python/cpython/pull/119642"
+      ]
+    },
+    "CVE-2023-6597": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/91133"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-28861": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/87389"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-28757": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/116741"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-4807": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/109991",
+        "https://github.com/python/cpython/issues/109820"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-20406": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/78837"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-6507": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/112334"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/112731",
+        "https://github.com/python/cpython/pull/112617"
+      ]
+    },
+    "CVE-2023-0464": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/103142"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-40217": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/108310"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/110718",
+        "https://github.com/python/cpython/pull/108315",
+        "https://github.com/python/cpython/pull/108316",
+        "https://github.com/python/cpython/pull/108317",
+        "https://github.com/python/cpython/pull/108320",
+        "https://github.com/python/cpython/pull/108318",
+        "https://github.com/python/cpython/pull/108321"
+      ]
+    },
+    "CVE-2022-48560": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/83602"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-48565": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/86217"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-24329": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/102153",
+        "https://github.com/python/cpython/issues/99418",
+        "https://github.com/python/cpython/issues/102293"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/104895",
+        "https://github.com/python/cpython/pull/104896",
+        "https://github.com/python/cpython/pull/102470",
+        "https://github.com/python/cpython/pull/104918",
+        "https://github.com/python/cpython/pull/102508",
+        "https://github.com/python/cpython/pull/104592",
+        "https://github.com/python/cpython/pull/104593",
+        "https://github.com/python/cpython/pull/104575"
+      ]
+    },
+    "CVE-2023-41105": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/111656"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-36632": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/106347"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-42919": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/97514"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-3426": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/87154"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/25067",
+        "https://github.com/python/cpython/pull/25066",
+        "https://github.com/python/cpython/pull/25064",
+        "https://github.com/python/cpython/pull/25065",
+        "https://github.com/python/cpython/pull/25015"
+      ]
+    },
+    "CVE-2022-37454": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/98517"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/98526",
+        "https://github.com/python/cpython/pull/98527",
+        "https://github.com/python/cpython/pull/98528",
+        "https://github.com/python/cpython/pull/98519"
+      ]
+    },
+    "CVE-2015-20107": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/68966",
+        "https://github.com/python/cpython/issues/91871"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/91993",
+        "https://github.com/python/cpython/pull/93014",
+        "https://github.com/python/cpython/pull/91542"
+      ]
+    },
+    "CVE-2023-0286": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/101726"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/101727",
+        "https://github.com/python/cpython/pull/101750",
+        "https://github.com/python/cpython/pull/101752",
+        "https://github.com/python/cpython/pull/101751",
+        "https://github.com/python/cpython/pull/101753",
+        "https://github.com/python/cpython/pull/101749"
+      ]
+    },
+    "CVE-2007-4559": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/73974",
+        "https://github.com/python/cpython/issues/97663"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-2007": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/102387"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-43680": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/98739"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/98786",
+        "https://github.com/python/cpython/pull/98787",
+        "https://github.com/python/cpython/pull/98788",
+        "https://github.com/python/cpython/pull/98785",
+        "https://github.com/python/cpython/pull/98784"
+      ]
+    },
+    "CVE-2022-45061": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/98433"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-40674": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/97005"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-37434": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/98689"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-0391": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/88048"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-27619": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/86110"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-3733": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/87241"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-9740": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/102462",
+        "https://github.com/python/cpython/issues/74643",
+        "https://github.com/python/cpython/issues/80457",
+        "https://github.com/python/cpython/issues/76266"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-23840": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/89232",
+        "https://github.com/python/cpython/issues/89231"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-17522": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/76548"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-9843": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/89233"
+      ],
+      "PRs": []
+    },
+    "CVE-2008-5983": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/50003"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-12900": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/89234",
+        "https://github.com/python/cpython/issues/91075"
+      ],
+      "PRs": []
+    },
+    "CVE-2011-3389": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/58093"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-8970": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/77317"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/6229",
+        "https://github.com/python/cpython/pull/6230"
+      ]
+    },
+    "CVE-2021-3177": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/87104"
+      ],
+      "PRs": []
+    },
+    "CVE-2008-2316": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/48136"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-3711": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/90951"
+      ],
+      "PRs": []
+    },
+    "CVE-2012-0845": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/58209"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-0718": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/73777",
+        "https://github.com/python/cpython/issues/74795"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/2021",
+        "https://github.com/python/cpython/pull/2164"
+      ]
+    },
+    "CVE-2020-15801": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/85476"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/21521",
+        "https://github.com/python/cpython/pull/21524",
+        "https://github.com/python/cpython/pull/21523",
+        "https://github.com/python/cpython/pull/21522"
+      ]
+    },
+    "CVE-2022-26488": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/91104"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/31726",
+        "https://github.com/python/cpython/pull/31729",
+        "https://github.com/python/cpython/pull/31730",
+        "https://github.com/python/cpython/pull/31728",
+        "https://github.com/python/cpython/pull/31727"
+      ]
+    },
+    "CVE-2018-1060": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/77162"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/6035",
+        "https://github.com/python/cpython/pull/6034",
+        "https://github.com/python/cpython/pull/5955",
+        "https://github.com/python/cpython/pull/5971",
+        "https://github.com/python/cpython/pull/5970",
+        "https://github.com/python/cpython/pull/5969"
+      ]
+    },
+    "CVE-2019-9947": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/80087"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8492": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/83684",
+        "https://github.com/python/cpython/issues/83007"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/19304",
+        "https://github.com/python/cpython/pull/19305",
+        "https://github.com/python/cpython/pull/22456",
+        "https://github.com/python/cpython/pull/18284",
+        "https://github.com/python/cpython/pull/19299",
+        "https://github.com/python/cpython/pull/19302",
+        "https://github.com/python/cpython/pull/19301",
+        "https://github.com/python/cpython/pull/19297",
+        "https://github.com/python/cpython/pull/19296",
+        "https://github.com/python/cpython/pull/19292",
+        "https://github.com/python/cpython/pull/19291"
+      ]
+    },
+    "CVE-2021-3572": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/89235"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-10268": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/80687"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-14647": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/78804"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/9482",
+        "https://github.com/python/cpython/pull/9488",
+        "https://github.com/python/cpython/pull/9489",
+        "https://github.com/python/cpython/pull/9490"
+      ]
+    },
+    "CVE-2021-45960": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/90845",
+        "https://github.com/python/cpython/issues/90558"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-18348": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/82757"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/19300",
+        "https://github.com/python/cpython/pull/19052",
+        "https://github.com/python/cpython/pull/19002",
+        "https://github.com/python/cpython/pull/19000",
+        "https://github.com/python/cpython/pull/19001",
+        "https://github.com/python/cpython/pull/19231"
+      ]
+    },
+    "CVE-2008-5031": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/48719"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-15903": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/82355"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/16434",
+        "https://github.com/python/cpython/pull/16410",
+        "https://github.com/python/cpython/pull/16409",
+        "https://github.com/python/cpython/pull/16407",
+        "https://github.com/python/cpython/pull/16408",
+        "https://github.com/python/cpython/pull/16346"
+      ]
+    },
+    "CVE-2014-0224": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/65870"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-4238": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/62909"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-9948": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/80088"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/13513",
+        "https://github.com/python/cpython/pull/13510",
+        "https://github.com/python/cpython/pull/13474",
+        "https://github.com/python/cpython/pull/13505"
+      ]
+    },
+    "CVE-2012-0876": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/58442"
+      ],
+      "PRs": []
+    },
+    "CVE-2007-4965": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/45520"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-10796": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/84220"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-3737": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/88188"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-1000117": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/77182"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-20907": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/83198"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/21485",
+        "https://github.com/python/cpython/pull/21484",
+        "https://github.com/python/cpython/pull/21483",
+        "https://github.com/python/cpython/pull/21482",
+        "https://github.com/python/cpython/pull/21489"
+      ]
+    },
+    "CVE-2021-29921": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/80565"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/27824",
+        "https://github.com/python/cpython/pull/27825",
+        "https://github.com/python/cpython/pull/27826",
+        "https://github.com/python/cpython/pull/27827"
+      ]
+    },
+    "CVE-2019-9636": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/80397"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-20852": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/79302"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-1000158": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/74842"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/4664",
+        "https://github.com/python/cpython/pull/4758"
+      ]
+    },
+    "CVE-2016-2183": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/72037"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8315": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/83582"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/92529"
+      ]
+    },
+    "CVE-2019-10160": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/80923"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-5010": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/79927"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-16056": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/78336"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-0772": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/74770"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-2099": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/62180"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-16935": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/82424"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5699": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/67117"
+      ],
+      "PRs": []
+    },
+    "CVE-2012-2135": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/58784"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5636": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/70359"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-26116": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/83784"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-1000030": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/75711"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-23336": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/87133",
+        "https://github.com/python/cpython/issues/87141"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-15523": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/73964"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/21298",
+        "https://github.com/python/cpython/pull/21297",
+        "https://github.com/python/cpython/pull/21352",
+        "https://github.com/python/cpython/pull/21351"
+      ]
+    },
+    "CVE-2013-0340": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/88560"
+      ],
+      "PRs": [
+        "https://github.com/python/cpython/pull/28042",
+        "https://github.com/python/cpython/pull/28080",
+        "https://github.com/python/cpython/pull/28031",
+        "https://github.com/python/cpython/pull/28032",
+        "https://github.com/python/cpython/pull/28033",
+        "https://github.com/python/cpython/pull/26945"
+      ]
+    },
+    "CVE-2008-1887": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/46839"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-4224": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/python/cpython/pull/146000",
+        "https://github.com/python/cpython/pull/146002",
+        "https://github.com/python/cpython/pull/145999",
+        "https://github.com/python/cpython/pull/145996",
+        "https://github.com/python/cpython/pull/145995"
+      ]
+    },
+    "CVE-2026-1703": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/python/cpython/pull/144401"
+      ]
+    },
+    "CVE-2006-1542": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/python/cpython/pull/141529"
+      ]
+    },
+    "CVE-2016-3189": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/python/cpython/pull/31731",
+        "https://github.com/python/cpython/pull/31734",
+        "https://github.com/python/cpython/pull/31733",
+        "https://github.com/python/cpython/pull/31735",
+        "https://github.com/python/cpython/pull/31732"
+      ]
+    },
+    "CVE-2020-15228": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/python/cpython/pull/23582"
+      ]
+    },
+    "CVE-2024-24576": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/python/cpython/pull/117996"
+      ]
+    },
+    "CVE-2016-1000110": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/python/cpython/pull/108771",
+        "https://github.com/python/cpython/pull/91566"
+      ]
+    },
+    "CVE-2023-32681": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/python/cpython/pull/105368"
+      ]
+    },
+    "CVE-2022-37460": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/python/cpython/pull/96014"
+      ]
+    },
+    "CVE-2018-25032": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/python/cpython/pull/32250",
+        "https://github.com/python/cpython/pull/32251",
+        "https://github.com/python/cpython/pull/32248",
+        "https://github.com/python/cpython/pull/32249"
+      ]
+    },
+    "CVE-2009-3555": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/python/cpython/pull/4763",
+        "https://github.com/python/cpython/pull/4762",
+        "https://github.com/python/cpython/pull/4761"
+      ]
+    },
+    "CVE-2013-1752": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/python/cpython/pull/11120"
+      ]
+    },
+    "CVE-2017-3533": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/python/cpython/pull/1214"
+      ]
+    }
+  }
+}

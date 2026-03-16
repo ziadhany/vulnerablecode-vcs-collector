@@ -1,0 +1,12 @@
+{
+  "vcs_url": "https://github.com/mirror/busybox",
+  "vulnerabilities": {
+    "CVE-2022-28391": {
+      "Issues": [
+        "https://github.com/mirror/busybox/issues/55",
+        "https://github.com/mirror/busybox/issues/61"
+      ],
+      "PRs": []
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "vcs_url": "https://github.com/angular/angular",
+  "vulnerabilities": {
+    "CVE-2026-22610": {
+      "Issues": [
+        "https://github.com/angular/angular/issues/66942"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-69873": {
+      "Issues": [
+        "https://github.com/angular/angular/issues/67085"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-27970": {
+      "Issues": [
+        "https://github.com/angular/angular/issues/67430"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-66035": {
+      "Issues": [
+        "https://github.com/angular/angular/issues/66535"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-35065": {
+      "Issues": [
+        "https://github.com/angular/angular/issues/60482",
+        "https://github.com/angular/angular/issues/48672"
+      ],
+      "PRs": [
+        "https://github.com/angular/angular/pull/60483"
+      ]
+    },
+    "CVE-2024-21490": {
+      "Issues": [
+        "https://github.com/angular/angular/issues/54811",
+        "https://github.com/angular/angular/issues/54807"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-34092": {
+      "Issues": [
+        "https://github.com/angular/angular/issues/54531"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-4231": {
+      "Issues": [
+        "https://github.com/angular/angular/issues/49958"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-30533": {
+      "Issues": [
+        "https://github.com/angular/angular/issues/50200"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-46175": {
+      "Issues": [
+        "https://github.com/angular/angular/issues/48633"
+      ],
+      "PRs": [
+        "https://github.com/angular/angular/pull/48989"
+      ]
+    },
+    "CVE-2019-10747": {
+      "Issues": [
+        "https://github.com/angular/angular/issues/38521"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-25536": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/67050"
+      ]
+    },
+    "CVE-2025-59465": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/66534",
+        "https://github.com/angular/angular/pull/66532"
+      ]
+    },
+    "CVE-2026-24842": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/66972",
+        "https://github.com/angular/angular/pull/66971"
+      ]
+    },
+    "CVE-2025-66478": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/66025"
+      ]
+    },
+    "CVE-2024-51999": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/65809"
+      ]
+    },
+    "CVE-2018-3721": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/34098"
+      ]
+    },
+    "CVE-2019-11358": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/34097"
+      ]
+    },
+    "CVE-2019-10768": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/34096"
+      ]
+    },
+    "CVE-2025-27210": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/62715",
+        "https://github.com/angular/angular/pull/62676"
+      ]
+    },
+    "CVE-2025-54880": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/63236",
+        "https://github.com/angular/angular/pull/63234",
+        "https://github.com/angular/angular/pull/63231"
+      ]
+    },
+    "CVE-2025-7783": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/62814"
+      ]
+    },
+    "CVE-2025-4674": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/63129",
+        "https://github.com/angular/angular/pull/62935"
+      ]
+    },
+    "CVE-2021-3807": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/63920"
+      ]
+    },
+    "CVE-2025-23166": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/61358",
+        "https://github.com/angular/angular/pull/61357"
+      ]
+    },
+    "CVE-2025-4673": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/62515",
+        "https://github.com/angular/angular/pull/62513",
+        "https://github.com/angular/angular/pull/62478"
+      ]
+    },
+    "CVE-2021-1234": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/63087",
+        "https://github.com/angular/angular/pull/63117"
+      ]
+    },
+    "CVE-2025-23083": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/60051"
+      ]
+    },
+    "CVE-2025-22150": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/61523",
+        "https://github.com/angular/angular/pull/61522",
+        "https://github.com/angular/angular/pull/61176",
+        "https://github.com/angular/angular/pull/61171",
+        "https://github.com/angular/angular/pull/61169",
+        "https://github.com/angular/angular/pull/58939"
+      ]
+    },
+    "CVE-2025-22871": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/61700"
+      ]
+    },
+    "CVE-2024-29041": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/55050"
+      ]
+    },
+    "CVE-2022-25858": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/48990"
+      ]
+    },
+    "CVE-2021-44906": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/45425"
+      ]
+    },
+    "CVE-2020-7793": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/43413",
+        "https://github.com/angular/angular/pull/41696"
+      ]
+    },
+    "CVE-2020-11022": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/angular/angular/pull/41653",
+        "https://github.com/angular/angular/pull/41649",
+        "https://github.com/angular/angular/pull/41648",
+        "https://github.com/angular/angular/pull/41640",
+        "https://github.com/angular/angular/pull/41639"
+      ]
+    }
+  }
+}

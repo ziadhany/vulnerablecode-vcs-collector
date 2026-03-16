@@ -1,0 +1,11 @@
+{
+  "vcs_url": "https://github.com/openjdk/jdk",
+  "vulnerabilities": {
+    "CVE-2023-34610": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/openjdk/jdk/pull/24643"
+      ]
+    }
+  }
+}

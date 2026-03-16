@@ -1,0 +1,93 @@
+{
+  "vcs_url": "https://github.com/laravel/framework",
+  "vulnerabilities": {
+    "CVE-2021-21424": {
+      "Issues": [
+        "https://github.com/laravel/framework/issues/46465"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-11386": {
+      "Issues": [
+        "https://github.com/laravel/framework/issues/24443"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-10074": {
+      "Issues": [
+        "https://github.com/laravel/framework/issues/20215"
+      ],
+      "PRs": [
+        "https://github.com/laravel/framework/pull/17131"
+      ]
+    },
+    "CVE-2026-30838": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/laravel/framework/pull/59131"
+      ]
+    },
+    "CVE-2026-25129": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/laravel/framework/pull/58641"
+      ]
+    },
+    "CVE-2025-31125": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/laravel/framework/pull/58470"
+      ]
+    },
+    "CVE-2025-64500": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/laravel/framework/pull/57804",
+        "https://github.com/laravel/framework/pull/57805",
+        "https://github.com/laravel/framework/pull/57775"
+      ]
+    },
+    "CVE-2025-27515": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/laravel/framework/pull/57459"
+      ]
+    },
+    "CVE-2025-22145": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/laravel/framework/pull/54335"
+      ]
+    },
+    "CVE-2024-4067": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/laravel/framework/pull/52664"
+      ]
+    },
+    "CVE-2023-51651": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/laravel/framework/pull/49664"
+      ]
+    },
+    "CVE-2018-1058": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/laravel/framework/pull/35567"
+      ]
+    },
+    "CVE-2019-18887": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/laravel/framework/pull/31048"
+      ]
+    },
+    "CVE-2016-5385": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/laravel/framework/pull/15665"
+      ]
+    }
+  }
+}

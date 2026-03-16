@@ -1,0 +1,99 @@
+{
+  "vcs_url": "https://github.com/php/php-src",
+  "vulnerabilities": {
+    "CVE-2023-43655": {
+      "Issues": [
+        "https://github.com/php/php-src/issues/12344"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-4577": {
+      "Issues": [
+        "https://github.com/php/php-src/issues/20332"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-3566": {
+      "Issues": [
+        "https://github.com/php/php-src/issues/19398"
+      ],
+      "PRs": []
+    },
+    "CVE-2007-2728": {
+      "Issues": [
+        "https://github.com/php/php-src/issues/14050"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-3538": {
+      "Issues": [
+        "https://github.com/php/php-src/issues/17600"
+      ],
+      "PRs": [
+        "https://github.com/php/php-src/pull/17604"
+      ]
+    },
+    "CVE-2024-3096": {
+      "Issues": [
+        "https://github.com/php/php-src/issues/14007"
+      ],
+      "PRs": [
+        "https://github.com/php/php-src/pull/14008"
+      ]
+    },
+    "CVE-2016-7124": {
+      "Issues": [
+        "https://github.com/php/php-src/issues/9936"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-67899": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/php/php-src/pull/20707"
+      ]
+    },
+    "CVE-2014-1943": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/php/php-src/pull/18397",
+        "https://github.com/php/php-src/pull/13369"
+      ]
+    },
+    "CVE-2020-26159": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/php/php-src/pull/6357"
+      ]
+    },
+    "CVE-2015-5522": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/php/php-src/pull/1940"
+      ]
+    },
+    "CVE-2015-3414": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/php/php-src/pull/1300",
+        "https://github.com/php/php-src/pull/1315",
+        "https://github.com/php/php-src/pull/1316",
+        "https://github.com/php/php-src/pull/1318"
+      ]
+    },
+    "CVE-2012-0831": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/php/php-src/pull/12"
+      ]
+    },
+    "CVE-2011-4718": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/php/php-src/pull/366",
+        "https://github.com/php/php-src/pull/368",
+        "https://github.com/php/php-src/pull/367"
+      ]
+    }
+  }
+}

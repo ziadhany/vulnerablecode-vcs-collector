@@ -1,0 +1,219 @@
+{
+  "vcs_url": "https://github.com/facebook/react",
+  "vulnerabilities": {
+    "CVE-2021-44906": {
+      "Issues": [
+        "https://github.com/facebook/react/issues/34554",
+        "https://github.com/facebook/react/issues/26483"
+      ],
+      "PRs": [
+        "https://github.com/facebook/react/pull/25956",
+        "https://github.com/facebook/react/pull/25966"
+      ]
+    },
+    "CVE-2024-29415": {
+      "Issues": [
+        "https://github.com/facebook/react/issues/29724"
+      ],
+      "PRs": [
+        "https://github.com/facebook/react/pull/29725",
+        "https://github.com/facebook/react/pull/29918"
+      ]
+    },
+    "CVE-2020-15168": {
+      "Issues": [
+        "https://github.com/facebook/react/issues/22121"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-1525": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/36042",
+        "https://github.com/facebook/react/pull/36037",
+        "https://github.com/facebook/react/pull/36041"
+      ]
+    },
+    "CVE-2025-59471": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/35653"
+      ]
+    },
+    "CVE-2022-0691": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/35687",
+        "https://github.com/facebook/react/pull/23390",
+        "https://github.com/facebook/react/pull/23377",
+        "https://github.com/facebook/react/pull/23378",
+        "https://github.com/facebook/react/pull/23372",
+        "https://github.com/facebook/react/pull/23371",
+        "https://github.com/facebook/react/pull/23340"
+      ]
+    },
+    "CVE-2022-25912": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/35995"
+      ]
+    },
+    "CVE-2025-55183": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/35353"
+      ]
+    },
+    "CVE-2026-22036": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/35512"
+      ]
+    },
+    "CVE-2023-3732": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/27341"
+      ]
+    },
+    "CVE-2024-4067": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/31186",
+        "https://github.com/facebook/react/pull/30809",
+        "https://github.com/facebook/react/pull/30808"
+      ]
+    },
+    "CVE-2024-39338": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/30694"
+      ]
+    },
+    "CVE-2023-26115": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/29064",
+        "https://github.com/facebook/react/pull/27148",
+        "https://github.com/facebook/react/pull/27149",
+        "https://github.com/facebook/react/pull/27151",
+        "https://github.com/facebook/react/pull/27150",
+        "https://github.com/facebook/react/pull/27131",
+        "https://github.com/facebook/react/pull/27124",
+        "https://github.com/facebook/react/pull/27126",
+        "https://github.com/facebook/react/pull/27123"
+      ]
+    },
+    "CVE-2023-44270": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/29063",
+        "https://github.com/facebook/react/pull/27468"
+      ]
+    },
+    "CVE-2024-30260": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/28747",
+        "https://github.com/facebook/react/pull/28746"
+      ]
+    },
+    "CVE-2023-42282": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/28395",
+        "https://github.com/facebook/react/pull/28396",
+        "https://github.com/facebook/react/pull/28397",
+        "https://github.com/facebook/react/pull/28393",
+        "https://github.com/facebook/react/pull/28394"
+      ]
+    },
+    "CVE-2023-48631": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/27766"
+      ]
+    },
+    "CVE-2024-24758": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/28359",
+        "https://github.com/facebook/react/pull/28358"
+      ]
+    },
+    "CVE-2023-26364": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/27308"
+      ]
+    },
+    "CVE-2023-45143": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/27527",
+        "https://github.com/facebook/react/pull/27526"
+      ]
+    },
+    "CVE-2022-37603": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/26392"
+      ]
+    },
+    "CVE-2022-1482": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/24745"
+      ]
+    },
+    "CVE-2021-42740": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/24787",
+        "https://github.com/facebook/react/pull/24773",
+        "https://github.com/facebook/react/pull/24772"
+      ]
+    },
+    "CVE-2020-7662": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/19091",
+        "https://github.com/facebook/react/pull/19089",
+        "https://github.com/facebook/react/pull/19093",
+        "https://github.com/facebook/react/pull/19090",
+        "https://github.com/facebook/react/pull/19092"
+      ]
+    },
+    "CVE-2022-21213": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/25346"
+      ]
+    },
+    "CVE-2020-15366": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/23290",
+        "https://github.com/facebook/react/pull/23281"
+      ]
+    },
+    "CVE-2021-3807": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/22818"
+      ]
+    },
+    "CVE-2021-30541": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/22548"
+      ]
+    },
+    "CVE-2020-8116": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/facebook/react/pull/21769"
+      ]
+    }
+  }
+}

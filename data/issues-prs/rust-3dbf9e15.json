@@ -1,0 +1,192 @@
+{
+  "vcs_url": "https://github.com/rust-lang/rust",
+  "vulnerabilities": {
+    "CVE-2021-42574": {
+      "Issues": [
+        "https://github.com/rust-lang/rust/issues/151473",
+        "https://github.com/rust-lang/rust/issues/113363"
+      ],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/90462",
+        "https://github.com/rust-lang/rust/pull/90461",
+        "https://github.com/rust-lang/rust/pull/90460"
+      ]
+    },
+    "CVE-2022-21658": {
+      "Issues": [
+        "https://github.com/rust-lang/rust/issues/140533",
+        "https://github.com/rust-lang/rust/issues/93127",
+        "https://github.com/rust-lang/rust/issues/94335"
+      ],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/93112",
+        "https://github.com/rust-lang/rust/pull/93111",
+        "https://github.com/rust-lang/rust/pull/141832",
+        "https://github.com/rust-lang/rust/pull/93110",
+        "https://github.com/rust-lang/rust/pull/93186",
+        "https://github.com/rust-lang/rust/pull/93152",
+        "https://github.com/rust-lang/rust/pull/93260",
+        "https://github.com/rust-lang/rust/pull/93119"
+      ]
+    },
+    "CVE-2020-0551": {
+      "Issues": [
+        "https://github.com/rust-lang/rust/issues/108414"
+      ],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/72655"
+      ]
+    },
+    "CVE-2020-1967": {
+      "Issues": [
+        "https://github.com/rust-lang/rust/issues/72196"
+      ],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/71430",
+        "https://github.com/rust-lang/rust/pull/71868"
+      ]
+    },
+    "CVE-2024-24576": {
+      "Issues": [
+        "https://github.com/rust-lang/rust/issues/123728"
+      ],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/123682",
+        "https://github.com/rust-lang/rust/pull/123683",
+        "https://github.com/rust-lang/rust/pull/123681"
+      ]
+    },
+    "CVE-2021-31162": {
+      "Issues": [
+        "https://github.com/rust-lang/rust/issues/84847"
+      ],
+      "PRs": []
+    },
+    "CVE-2009-1894": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/150828"
+      ]
+    },
+    "CVE-2025-1014": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/141470"
+      ]
+    },
+    "CVE-2025-26519": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/137127",
+        "https://github.com/rust-lang/rust/pull/137181",
+        "https://github.com/rust-lang/rust/pull/137182"
+      ]
+    },
+    "CVE-2022-46176": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/107138",
+        "https://github.com/rust-lang/rust/pull/106687",
+        "https://github.com/rust-lang/rust/pull/106686",
+        "https://github.com/rust-lang/rust/pull/106685",
+        "https://github.com/rust-lang/rust/pull/107139",
+        "https://github.com/rust-lang/rust/pull/106825"
+      ]
+    },
+    "CVE-2024-43402": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/135934",
+        "https://github.com/rust-lang/rust/pull/129961",
+        "https://github.com/rust-lang/rust/pull/129960",
+        "https://github.com/rust-lang/rust/pull/129962"
+      ]
+    },
+    "CVE-2024-8096": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/130938"
+      ]
+    },
+    "CVE-2019-14697": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/73089"
+      ]
+    },
+    "CVE-2023-38497": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/114420",
+        "https://github.com/rust-lang/rust/pull/114410",
+        "https://github.com/rust-lang/rust/pull/114422"
+      ]
+    },
+    "CVE-2023-40030": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/115243"
+      ]
+    },
+    "CVE-2020-26235": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/110186"
+      ]
+    },
+    "CVE-2022-4304": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/110008"
+      ]
+    },
+    "CVE-2022-36113": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/101922"
+      ]
+    },
+    "CVE-2022-1292": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/99768"
+      ]
+    },
+    "CVE-2021-4160": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/93713"
+      ]
+    },
+    "CVE-2020-1088": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/89999"
+      ]
+    },
+    "CVE-2021-3013": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/87704"
+      ]
+    },
+    "CVE-2020-36323": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/84603"
+      ]
+    },
+    "CVE-2018-1000622": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/52194"
+      ]
+    },
+    "CVE-2010-2240": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rust-lang/rust/pull/43072"
+      ]
+    }
+  }
+}

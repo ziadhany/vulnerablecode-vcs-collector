@@ -1,0 +1,382 @@
+{
+  "vcs_url": "https://github.com/redis/redis",
+  "vulnerabilities": {
+    "CVE-2024-31449": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/14630"
+      ],
+      "PRs": [
+        "https://github.com/redis/redis/pull/13588",
+        "https://github.com/redis/redis/pull/13582",
+        "https://github.com/redis/redis/pull/13583",
+        "https://github.com/redis/redis/pull/13581",
+        "https://github.com/redis/redis/pull/13584"
+      ]
+    },
+    "CVE-2025-49112": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/14199"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-32762": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/11629"
+      ],
+      "PRs": [
+        "https://github.com/redis/redis/pull/9587"
+      ]
+    },
+    "CVE-2024-24790": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/13663"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-49844": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/14419",
+        "https://github.com/redis/redis/issues/14431"
+      ],
+      "PRs": [
+        "https://github.com/redis/redis/pull/14485"
+      ]
+    },
+    "CVE-2025-46817": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/14436"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-6020": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/14380"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-27151": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/14090"
+      ],
+      "PRs": [
+        "https://github.com/redis/redis/pull/14139"
+      ]
+    },
+    "CVE-2022-0543": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/10556"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-7105": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/7208"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-46848": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/11562"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-29162": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/11375"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-28805": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/11287",
+        "https://github.com/redis/redis/issues/10628"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-15888": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/11381",
+        "https://github.com/redis/redis/issues/7715"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-3470": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/10980"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-43519": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/9823"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-32626": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/9650"
+      ],
+      "PRs": [
+        "https://github.com/redis/redis/pull/9808",
+        "https://github.com/redis/redis/pull/9591",
+        "https://github.com/redis/redis/pull/9809"
+      ]
+    },
+    "CVE-2021-32675": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/9667"
+      ],
+      "PRs": [
+        "https://github.com/redis/redis/pull/9588"
+      ]
+    },
+    "CVE-2021-21309": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/8732"
+      ],
+      "PRs": [
+        "https://github.com/redis/redis/pull/13506",
+        "https://github.com/redis/redis/pull/8522",
+        "https://github.com/redis/redis/pull/8528",
+        "https://github.com/redis/redis/pull/8527",
+        "https://github.com/redis/redis/pull/8525"
+      ]
+    },
+    "CVE-2014-5461": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/5233"
+      ],
+      "PRs": [
+        "https://github.com/redis/redis/pull/7733"
+      ]
+    },
+    "CVE-2019-10193": {
+      "Issues": [
+        "https://github.com/redis/redis/issues/6214"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-32023": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/14346",
+        "https://github.com/redis/redis/pull/14173",
+        "https://github.com/redis/redis/pull/14174",
+        "https://github.com/redis/redis/pull/14172",
+        "https://github.com/redis/redis/pull/14250",
+        "https://github.com/redis/redis/pull/14158"
+      ]
+    },
+    "CVE-2025-62507": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/14513"
+      ]
+    },
+    "CVE-2024-46981": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/13729",
+        "https://github.com/redis/redis/pull/13637",
+        "https://github.com/redis/redis/pull/13728"
+      ]
+    },
+    "CVE-2025-48367": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/14219"
+      ]
+    },
+    "CVE-2025-21605": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/13993",
+        "https://github.com/redis/redis/pull/13971"
+      ]
+    },
+    "CVE-2022-24736": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/10651",
+        "https://github.com/redis/redis/pull/10654",
+        "https://github.com/redis/redis/pull/10653",
+        "https://github.com/redis/redis/pull/10652"
+      ]
+    },
+    "CVE-2024-51741": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/13737"
+      ]
+    },
+    "CVE-2024-31228": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/13690"
+      ]
+    },
+    "CVE-2021-29477": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/8902",
+        "https://github.com/redis/redis/pull/8903",
+        "https://github.com/redis/redis/pull/8904"
+      ]
+    },
+    "CVE-2023-41056": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/12924",
+        "https://github.com/redis/redis/pull/12922",
+        "https://github.com/redis/redis/pull/12923"
+      ]
+    },
+    "CVE-2023-45145": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/12671",
+        "https://github.com/redis/redis/pull/12664",
+        "https://github.com/redis/redis/pull/12663",
+        "https://github.com/redis/redis/pull/12665"
+      ]
+    },
+    "CVE-2022-24834": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/12398",
+        "https://github.com/redis/redis/pull/12401",
+        "https://github.com/redis/redis/pull/12400",
+        "https://github.com/redis/redis/pull/12399",
+        "https://github.com/redis/redis/pull/12402"
+      ]
+    },
+    "CVE-2023-41053": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/12522",
+        "https://github.com/redis/redis/pull/12553",
+        "https://github.com/redis/redis/pull/12554"
+      ]
+    },
+    "CVE-2023-36824": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/12380"
+      ]
+    },
+    "CVE-2023-28425": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/11940",
+        "https://github.com/redis/redis/pull/11941"
+      ]
+    },
+    "CVE-2023-25155": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/11857",
+        "https://github.com/redis/redis/pull/11846",
+        "https://github.com/redis/redis/pull/11847",
+        "https://github.com/redis/redis/pull/11848"
+      ]
+    },
+    "CVE-2023-28856": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/12058",
+        "https://github.com/redis/redis/pull/12057",
+        "https://github.com/redis/redis/pull/12056"
+      ]
+    },
+    "CVE-2022-36021": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/11858"
+      ]
+    },
+    "CVE-2022-35977": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/11720",
+        "https://github.com/redis/redis/pull/11717",
+        "https://github.com/redis/redis/pull/11718",
+        "https://github.com/redis/redis/pull/11716"
+      ]
+    },
+    "CVE-2023-22458": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/11674"
+      ]
+    },
+    "CVE-2022-35951": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/11301",
+        "https://github.com/redis/redis/pull/11299"
+      ]
+    },
+    "CVE-2022-31144": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/11002",
+        "https://github.com/redis/redis/pull/11003"
+      ]
+    },
+    "CVE-2021-32627": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/9589"
+      ]
+    },
+    "CVE-2021-41099": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/9584",
+        "https://github.com/redis/redis/pull/9558",
+        "https://github.com/redis/redis/pull/9585",
+        "https://github.com/redis/redis/pull/9583"
+      ]
+    },
+    "CVE-2021-32672": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/9590"
+      ]
+    },
+    "CVE-2021-32687": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/9586"
+      ]
+    },
+    "CVE-2020-15228": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/10463"
+      ]
+    },
+    "CVE-2021-32761": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/9267",
+        "https://github.com/redis/redis/pull/9191",
+        "https://github.com/redis/redis/pull/9266",
+        "https://github.com/redis/redis/pull/9264"
+      ]
+    },
+    "CVE-2021-32625": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/9020",
+        "https://github.com/redis/redis/pull/9019"
+      ]
+    },
+    "CVE-2015-8080": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/redis/redis/pull/6875"
+      ]
+    }
+  }
+}

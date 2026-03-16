@@ -1,0 +1,1425 @@
+{
+  "vcs_url": "https://github.com/golang/go",
+  "vulnerabilities": {
+    "CVE-2025-58187": {
+      "Issues": [
+        "https://github.com/golang/go/issues/75835",
+        "https://github.com/golang/go/issues/75681",
+        "https://github.com/golang/go/issues/75715",
+        "https://github.com/golang/go/issues/75714"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-11358": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76017",
+        "https://github.com/golang/go/issues/74882"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-1962": {
+      "Issues": [
+        "https://github.com/golang/go/issues/74577",
+        "https://github.com/golang/go/issues/53708",
+        "https://github.com/golang/go/issues/53707",
+        "https://github.com/golang/go/issues/53616"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-8244": {
+      "Issues": [
+        "https://github.com/golang/go/issues/70007"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-29512": {
+      "Issues": [
+        "https://github.com/golang/go/issues/49462"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-27138": {
+      "Issues": [
+        "https://github.com/golang/go/issues/77953",
+        "https://github.com/golang/go/issues/77974"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-25046": {
+      "Issues": [
+        "https://github.com/golang/go/issues/55356"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-27137": {
+      "Issues": [
+        "https://github.com/golang/go/issues/77952",
+        "https://github.com/golang/go/issues/77973"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-27142": {
+      "Issues": [
+        "https://github.com/golang/go/issues/77972",
+        "https://github.com/golang/go/issues/77971",
+        "https://github.com/golang/go/issues/77954"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-25679": {
+      "Issues": [
+        "https://github.com/golang/go/issues/77970",
+        "https://github.com/golang/go/issues/77969",
+        "https://github.com/golang/go/issues/77578"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-29526": {
+      "Issues": [
+        "https://github.com/golang/go/issues/71936"
+      ],
+      "PRs": [
+        "https://github.com/golang/go/pull/62452"
+      ]
+    },
+    "CVE-2020-7668": {
+      "Issues": [
+        "https://github.com/golang/go/issues/49461"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-44487": {
+      "Issues": [
+        "https://github.com/golang/go/issues/63518",
+        "https://github.com/golang/go/issues/63805",
+        "https://github.com/golang/go/issues/63577"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-47906": {
+      "Issues": [
+        "https://github.com/golang/go/issues/75890"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-68119": {
+      "Issues": [
+        "https://github.com/golang/go/issues/77434",
+        "https://github.com/golang/go/issues/77099",
+        "https://github.com/golang/go/issues/77104",
+        "https://github.com/golang/go/issues/77103"
+      ],
+      "PRs": []
+    },
+    "CVE-9999-0001": {
+      "Issues": [
+        "https://github.com/golang/go/issues/50004"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-21538": {
+      "Issues": [
+        "https://github.com/golang/go/issues/71118"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-47912": {
+      "Issues": [
+        "https://github.com/golang/go/issues/78172",
+        "https://github.com/golang/go/issues/75678",
+        "https://github.com/golang/go/issues/75815",
+        "https://github.com/golang/go/issues/75713",
+        "https://github.com/golang/go/issues/75712"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-68121": {
+      "Issues": [
+        "https://github.com/golang/go/issues/77354",
+        "https://github.com/golang/go/issues/77113",
+        "https://github.com/golang/go/issues/77114",
+        "https://github.com/golang/go/issues/77115"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-68120": {
+      "Issues": [
+        "https://github.com/golang/go/issues/77098"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-17596": {
+      "Issues": [
+        "https://github.com/golang/go/issues/40337",
+        "https://github.com/golang/go/issues/34960"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-45338": {
+      "Issues": [
+        "https://github.com/golang/go/issues/70906"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-22868": {
+      "Issues": [
+        "https://github.com/golang/go/issues/71490"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-22869": {
+      "Issues": [
+        "https://github.com/golang/go/issues/71931"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-41771": {
+      "Issues": [
+        "https://github.com/golang/go/issues/49792"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-61732": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76697",
+        "https://github.com/golang/go/issues/77129",
+        "https://github.com/golang/go/issues/77128"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-27139": {
+      "Issues": [
+        "https://github.com/golang/go/issues/77827"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-4030": {
+      "Issues": [
+        "https://github.com/golang/go/issues/70524"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-22870": {
+      "Issues": [
+        "https://github.com/golang/go/issues/71986",
+        "https://github.com/golang/go/issues/71985",
+        "https://github.com/golang/go/issues/71984"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-58185": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76843",
+        "https://github.com/golang/go/issues/75671",
+        "https://github.com/golang/go/issues/75705",
+        "https://github.com/golang/go/issues/75704"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-61731": {
+      "Issues": [
+        "https://github.com/golang/go/issues/77100",
+        "https://github.com/golang/go/issues/77106",
+        "https://github.com/golang/go/issues/77105"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-61727": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76935",
+        "https://github.com/golang/go/issues/76842",
+        "https://github.com/golang/go/issues/76442",
+        "https://github.com/golang/go/issues/76464",
+        "https://github.com/golang/go/issues/76463"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-22865": {
+      "Issues": [
+        "https://github.com/golang/go/issues/71216"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-61726": {
+      "Issues": [
+        "https://github.com/golang/go/issues/77101",
+        "https://github.com/golang/go/issues/77108",
+        "https://github.com/golang/go/issues/77107"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-61728": {
+      "Issues": [
+        "https://github.com/golang/go/issues/77102",
+        "https://github.com/golang/go/issues/77110",
+        "https://github.com/golang/go/issues/77109"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-58186": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76844",
+        "https://github.com/golang/go/issues/75672",
+        "https://github.com/golang/go/issues/75707",
+        "https://github.com/golang/go/issues/75706"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-45336": {
+      "Issues": [
+        "https://github.com/golang/go/issues/70530",
+        "https://github.com/golang/go/issues/71212",
+        "https://github.com/golang/go/issues/71211",
+        "https://github.com/golang/go/issues/71210"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-22867": {
+      "Issues": [
+        "https://github.com/golang/go/issues/71476"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-47914": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76364",
+        "https://github.com/golang/go/issues/76370"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-58181": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76363"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-45337": {
+      "Issues": [
+        "https://github.com/golang/go/issues/71202",
+        "https://github.com/golang/go/issues/71449",
+        "https://github.com/golang/go/issues/70795"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-61729": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76445",
+        "https://github.com/golang/go/issues/76461",
+        "https://github.com/golang/go/issues/76460"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-47911": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76279",
+        "https://github.com/golang/go/issues/75682"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-11579": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76108"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-45341": {
+      "Issues": [
+        "https://github.com/golang/go/issues/71208",
+        "https://github.com/golang/go/issues/71156",
+        "https://github.com/golang/go/issues/71209",
+        "https://github.com/golang/go/issues/71207"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-58190": {
+      "Issues": [
+        "https://github.com/golang/go/issues/75697"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-3955": {
+      "Issues": [
+        "https://github.com/golang/go/issues/69707"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-58188": {
+      "Issues": [
+        "https://github.com/golang/go/issues/75675",
+        "https://github.com/golang/go/issues/75703",
+        "https://github.com/golang/go/issues/75702"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-61730": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76443"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-61725": {
+      "Issues": [
+        "https://github.com/golang/go/issues/75680",
+        "https://github.com/golang/go/issues/75701",
+        "https://github.com/golang/go/issues/75700"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-61724": {
+      "Issues": [
+        "https://github.com/golang/go/issues/75716",
+        "https://github.com/golang/go/issues/75718",
+        "https://github.com/golang/go/issues/75717"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-61723": {
+      "Issues": [
+        "https://github.com/golang/go/issues/75676",
+        "https://github.com/golang/go/issues/75709",
+        "https://github.com/golang/go/issues/75708"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-1234": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76719"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-58183": {
+      "Issues": [
+        "https://github.com/golang/go/issues/75677",
+        "https://github.com/golang/go/issues/75711",
+        "https://github.com/golang/go/issues/75710"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-47913": {
+      "Issues": [
+        "https://github.com/golang/go/issues/75495"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-24536": {
+      "Issues": [
+        "https://github.com/golang/go/issues/60767",
+        "https://github.com/golang/go/issues/59153",
+        "https://github.com/golang/go/issues/59270",
+        "https://github.com/golang/go/issues/59269"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-34155": {
+      "Issues": [
+        "https://github.com/golang/go/issues/69138",
+        "https://github.com/golang/go/issues/69142",
+        "https://github.com/golang/go/issues/69143"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-34158": {
+      "Issues": [
+        "https://github.com/golang/go/issues/69141",
+        "https://github.com/golang/go/issues/69149",
+        "https://github.com/golang/go/issues/69148"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-34157": {
+      "Issues": [
+        "https://github.com/golang/go/issues/69140",
+        "https://github.com/golang/go/issues/69147",
+        "https://github.com/golang/go/issues/69146"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-34156": {
+      "Issues": [
+        "https://github.com/golang/go/issues/69139",
+        "https://github.com/golang/go/issues/69145",
+        "https://github.com/golang/go/issues/69144"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-58189": {
+      "Issues": [
+        "https://github.com/golang/go/issues/75652"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-45340": {
+      "Issues": [
+        "https://github.com/golang/go/issues/71249"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-39325": {
+      "Issues": [
+        "https://github.com/golang/go/issues/74567",
+        "https://github.com/golang/go/issues/63417",
+        "https://github.com/golang/go/issues/65407",
+        "https://github.com/golang/go/issues/63427",
+        "https://github.com/golang/go/issues/63426"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-34154": {
+      "Issues": [
+        "https://github.com/golang/go/issues/68654"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-4674": {
+      "Issues": [
+        "https://github.com/golang/go/issues/74380",
+        "https://github.com/golang/go/issues/74382",
+        "https://github.com/golang/go/issues/74381"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-47907": {
+      "Issues": [
+        "https://github.com/golang/go/issues/74831",
+        "https://github.com/golang/go/issues/74834",
+        "https://github.com/golang/go/issues/74833",
+        "https://github.com/golang/go/issues/74832"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-21626": {
+      "Issues": [
+        "https://github.com/golang/go/issues/67639"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-4673": {
+      "Issues": [
+        "https://github.com/golang/go/issues/73816",
+        "https://github.com/golang/go/issues/73906",
+        "https://github.com/golang/go/issues/73905"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-29405": {
+      "Issues": [
+        "https://github.com/golang/go/issues/67472",
+        "https://github.com/golang/go/issues/60306",
+        "https://github.com/golang/go/issues/60513",
+        "https://github.com/golang/go/issues/60514"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-22871": {
+      "Issues": [
+        "https://github.com/golang/go/issues/71988"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-3566": {
+      "Issues": [
+        "https://github.com/golang/go/issues/74281"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-39324": {
+      "Issues": [
+        "https://github.com/golang/go/issues/63212",
+        "https://github.com/golang/go/issues/63216",
+        "https://github.com/golang/go/issues/63215"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-11022": {
+      "Issues": [
+        "https://github.com/golang/go/issues/39535"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-24783": {
+      "Issues": [
+        "https://github.com/golang/go/issues/65391",
+        "https://github.com/golang/go/issues/65831",
+        "https://github.com/golang/go/issues/65392",
+        "https://github.com/golang/go/issues/65390"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-45290": {
+      "Issues": [
+        "https://github.com/golang/go/issues/65388",
+        "https://github.com/golang/go/issues/65389",
+        "https://github.com/golang/go/issues/65850",
+        "https://github.com/golang/go/issues/65383"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-45288": {
+      "Issues": [
+        "https://github.com/golang/go/issues/65386",
+        "https://github.com/golang/go/issues/66297",
+        "https://github.com/golang/go/issues/65051",
+        "https://github.com/golang/go/issues/66298",
+        "https://github.com/golang/go/issues/65387"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-45289": {
+      "Issues": [
+        "https://github.com/golang/go/issues/65384",
+        "https://github.com/golang/go/issues/66696",
+        "https://github.com/golang/go/issues/65385",
+        "https://github.com/golang/go/issues/65859",
+        "https://github.com/golang/go/issues/65065"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-22873": {
+      "Issues": [
+        "https://github.com/golang/go/issues/73160",
+        "https://github.com/golang/go/issues/73555",
+        "https://github.com/golang/go/issues/73575",
+        "https://github.com/golang/go/issues/73556"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8565": {
+      "Issues": [
+        "https://github.com/golang/go/issues/68338"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-22874": {
+      "Issues": [
+        "https://github.com/golang/go/issues/73612"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-24790": {
+      "Issues": [
+        "https://github.com/golang/go/issues/67680",
+        "https://github.com/golang/go/issues/67681",
+        "https://github.com/golang/go/issues/67682"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-24789": {
+      "Issues": [
+        "https://github.com/golang/go/issues/67554",
+        "https://github.com/golang/go/issues/67553"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-24787": {
+      "Issues": [
+        "https://github.com/golang/go/issues/67122",
+        "https://github.com/golang/go/issues/67121",
+        "https://github.com/golang/go/issues/67119"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-0913": {
+      "Issues": [
+        "https://github.com/golang/go/issues/73702"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-24534": {
+      "Issues": [
+        "https://github.com/golang/go/issues/67536",
+        "https://github.com/golang/go/issues/58975",
+        "https://github.com/golang/go/issues/59268",
+        "https://github.com/golang/go/issues/59267"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-22872": {
+      "Issues": [
+        "https://github.com/golang/go/issues/73070"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-32149": {
+      "Issues": [
+        "https://github.com/golang/go/issues/56152"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-29409": {
+      "Issues": [
+        "https://github.com/golang/go/issues/61460",
+        "https://github.com/golang/go/issues/61580",
+        "https://github.com/golang/go/issues/61579"
+      ],
+      "PRs": [
+        "https://github.com/golang/go/pull/65651"
+      ]
+    },
+    "CVE-2023-51385": {
+      "Issues": [
+        "https://github.com/golang/go/issues/64880"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-3978": {
+      "Issues": [
+        "https://github.com/golang/go/issues/61615"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-39326": {
+      "Issues": [
+        "https://github.com/golang/go/issues/64435",
+        "https://github.com/golang/go/issues/64434",
+        "https://github.com/golang/go/issues/64433"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-39323": {
+      "Issues": [
+        "https://github.com/golang/go/issues/63211",
+        "https://github.com/golang/go/issues/63213",
+        "https://github.com/golang/go/issues/63214"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-3400": {
+      "Issues": [
+        "https://github.com/golang/go/issues/67002"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-48795": {
+      "Issues": [
+        "https://github.com/golang/go/issues/64784"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-39318": {
+      "Issues": [
+        "https://github.com/golang/go/issues/62196",
+        "https://github.com/golang/go/issues/62395",
+        "https://github.com/golang/go/issues/62396"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-45283": {
+      "Issues": [
+        "https://github.com/golang/go/issues/63713"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-39321": {
+      "Issues": [
+        "https://github.com/golang/go/issues/62266"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-42013": {
+      "Issues": [
+        "https://github.com/golang/go/issues/64866"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-39320": {
+      "Issues": [
+        "https://github.com/golang/go/issues/62393",
+        "https://github.com/golang/go/issues/62198",
+        "https://github.com/golang/go/issues/62394"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-39319": {
+      "Issues": [
+        "https://github.com/golang/go/issues/62197",
+        "https://github.com/golang/go/issues/62397",
+        "https://github.com/golang/go/issues/62398"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-41723": {
+      "Issues": [
+        "https://github.com/golang/go/issues/61466",
+        "https://github.com/golang/go/issues/57855",
+        "https://github.com/golang/go/issues/58355",
+        "https://github.com/golang/go/issues/58356"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-24531": {
+      "Issues": [
+        "https://github.com/golang/go/issues/58508"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-29407": {
+      "Issues": [
+        "https://github.com/golang/go/issues/61581"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-29408": {
+      "Issues": [
+        "https://github.com/golang/go/issues/61582"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-29402": {
+      "Issues": [
+        "https://github.com/golang/go/issues/60167",
+        "https://github.com/golang/go/issues/60515",
+        "https://github.com/golang/go/issues/60516"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-29406": {
+      "Issues": [
+        "https://github.com/golang/go/issues/61431"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-29404": {
+      "Issues": [
+        "https://github.com/golang/go/issues/60305",
+        "https://github.com/golang/go/issues/60512",
+        "https://github.com/golang/go/issues/60511"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-29403": {
+      "Issues": [
+        "https://github.com/golang/go/issues/60272",
+        "https://github.com/golang/go/issues/60518",
+        "https://github.com/golang/go/issues/60517"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-29400": {
+      "Issues": [
+        "https://github.com/golang/go/issues/59816",
+        "https://github.com/golang/go/issues/59815",
+        "https://github.com/golang/go/issues/59722"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-24540": {
+      "Issues": [
+        "https://github.com/golang/go/issues/59813",
+        "https://github.com/golang/go/issues/59814",
+        "https://github.com/golang/go/issues/59721"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-24539": {
+      "Issues": [
+        "https://github.com/golang/go/issues/59812",
+        "https://github.com/golang/go/issues/59811",
+        "https://github.com/golang/go/issues/59720"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-36067": {
+      "Issues": [
+        "https://github.com/golang/go/issues/58980"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-41716": {
+      "Issues": [
+        "https://github.com/golang/go/issues/56284",
+        "https://github.com/golang/go/issues/56328",
+        "https://github.com/golang/go/issues/56327"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-38561": {
+      "Issues": [
+        "https://github.com/golang/go/issues/61704",
+        "https://github.com/golang/go/issues/51575",
+        "https://github.com/golang/go/issues/51591",
+        "https://github.com/golang/go/issues/51565"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-24537": {
+      "Issues": [
+        "https://github.com/golang/go/issues/59180",
+        "https://github.com/golang/go/issues/59274",
+        "https://github.com/golang/go/issues/59273"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-24538": {
+      "Issues": [
+        "https://github.com/golang/go/issues/59234",
+        "https://github.com/golang/go/issues/59272",
+        "https://github.com/golang/go/issues/59271"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-5739": {
+      "Issues": [
+        "https://github.com/golang/go/issues/59356",
+        "https://github.com/golang/go/issues/53035",
+        "https://github.com/golang/go/issues/12741"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-24532": {
+      "Issues": [
+        "https://github.com/golang/go/issues/58647"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-41725": {
+      "Issues": [
+        "https://github.com/golang/go/issues/58362",
+        "https://github.com/golang/go/issues/58363",
+        "https://github.com/golang/go/issues/58006"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-41724": {
+      "Issues": [
+        "https://github.com/golang/go/issues/58359",
+        "https://github.com/golang/go/issues/58358",
+        "https://github.com/golang/go/issues/58001"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-41722": {
+      "Issues": [
+        "https://github.com/golang/go/issues/57275",
+        "https://github.com/golang/go/issues/57276",
+        "https://github.com/golang/go/issues/57274"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-41727": {
+      "Issues": [
+        "https://github.com/golang/go/issues/58404",
+        "https://github.com/golang/go/issues/58403",
+        "https://github.com/golang/go/issues/58003"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-2582": {
+      "Issues": [
+        "https://github.com/golang/go/issues/54488"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-41720": {
+      "Issues": [
+        "https://github.com/golang/go/issues/56694",
+        "https://github.com/golang/go/issues/57006",
+        "https://github.com/golang/go/issues/57005"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-41717": {
+      "Issues": [
+        "https://github.com/golang/go/issues/57009",
+        "https://github.com/golang/go/issues/57008",
+        "https://github.com/golang/go/issues/56350"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-23806": {
+      "Issues": [
+        "https://github.com/golang/go/issues/56472",
+        "https://github.com/golang/go/issues/50974"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-9283": {
+      "Issues": [
+        "https://github.com/golang/go/issues/57318",
+        "https://github.com/golang/go/issues/50013",
+        "https://github.com/golang/go/issues/48079",
+        "https://github.com/golang/go/issues/48943"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-24968": {
+      "Issues": [
+        "https://github.com/golang/go/issues/54899"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-27664": {
+      "Issues": [
+        "https://github.com/golang/go/issues/54985",
+        "https://github.com/golang/go/issues/54658",
+        "https://github.com/golang/go/issues/54376",
+        "https://github.com/golang/go/issues/53977"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-41715": {
+      "Issues": [
+        "https://github.com/golang/go/issues/55950",
+        "https://github.com/golang/go/issues/55951",
+        "https://github.com/golang/go/issues/55949"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-2879": {
+      "Issues": [
+        "https://github.com/golang/go/issues/55926",
+        "https://github.com/golang/go/issues/55925",
+        "https://github.com/golang/go/issues/54853"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-3114": {
+      "Issues": [
+        "https://github.com/golang/go/issues/51653",
+        "https://github.com/golang/go/issues/43786",
+        "https://github.com/golang/go/issues/43787",
+        "https://github.com/golang/go/issues/43788"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-18206": {
+      "Issues": [
+        "https://github.com/golang/go/issues/50006"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-32189": {
+      "Issues": [
+        "https://github.com/golang/go/issues/54480"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-4042": {
+      "Issues": [
+        "https://github.com/golang/go/issues/53897"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-30630": {
+      "Issues": [
+        "https://github.com/golang/go/issues/53415",
+        "https://github.com/golang/go/issues/53720",
+        "https://github.com/golang/go/issues/53719"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-30632": {
+      "Issues": [
+        "https://github.com/golang/go/issues/53714",
+        "https://github.com/golang/go/issues/53713",
+        "https://github.com/golang/go/issues/53416"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-30633": {
+      "Issues": [
+        "https://github.com/golang/go/issues/53716",
+        "https://github.com/golang/go/issues/53715",
+        "https://github.com/golang/go/issues/53611"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-30631": {
+      "Issues": [
+        "https://github.com/golang/go/issues/53168",
+        "https://github.com/golang/go/issues/53718",
+        "https://github.com/golang/go/issues/53717"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-30635": {
+      "Issues": [
+        "https://github.com/golang/go/issues/53615",
+        "https://github.com/golang/go/issues/53710",
+        "https://github.com/golang/go/issues/53709"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-28131": {
+      "Issues": [
+        "https://github.com/golang/go/issues/53712",
+        "https://github.com/golang/go/issues/53711",
+        "https://github.com/golang/go/issues/53614"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-23772": {
+      "Issues": [
+        "https://github.com/golang/go/issues/50699"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-24675": {
+      "Issues": [
+        "https://github.com/golang/go/issues/52036",
+        "https://github.com/golang/go/issues/52037",
+        "https://github.com/golang/go/issues/51853"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-7189": {
+      "Issues": [
+        "https://github.com/golang/go/issues/53085"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-30634": {
+      "Issues": [
+        "https://github.com/golang/go/issues/52561"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-30636": {
+      "Issues": [
+        "https://github.com/golang/go/issues/53082"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-27536": {
+      "Issues": [
+        "https://github.com/golang/go/issues/51763"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-28327": {
+      "Issues": [
+        "https://github.com/golang/go/issues/52077",
+        "https://github.com/golang/go/issues/52076"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-41772": {
+      "Issues": [
+        "https://github.com/golang/go/issues/50022"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-44716": {
+      "Issues": [
+        "https://github.com/golang/go/issues/50058",
+        "https://github.com/golang/go/issues/50065",
+        "https://github.com/golang/go/issues/50064"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-44717": {
+      "Issues": [
+        "https://github.com/golang/go/issues/50067",
+        "https://github.com/golang/go/issues/50066",
+        "https://github.com/golang/go/issues/50057"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-42574": {
+      "Issues": [
+        "https://github.com/golang/go/issues/49257"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-38297": {
+      "Issues": [
+        "https://github.com/golang/go/issues/48797",
+        "https://github.com/golang/go/issues/48799",
+        "https://github.com/golang/go/issues/48800"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-39293": {
+      "Issues": [
+        "https://github.com/golang/go/issues/47801"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-9634": {
+      "Issues": [
+        "https://github.com/golang/go/issues/30642"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-34558": {
+      "Issues": [
+        "https://github.com/golang/go/issues/47145",
+        "https://github.com/golang/go/issues/47144",
+        "https://github.com/golang/go/issues/47143"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-31525": {
+      "Issues": [
+        "https://github.com/golang/go/issues/45710"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-33194": {
+      "Issues": [
+        "https://github.com/golang/go/issues/46288"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-2183": {
+      "Issues": [
+        "https://github.com/golang/go/issues/41476"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-4402": {
+      "Issues": [
+        "https://github.com/golang/go/issues/10751"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-33195": {
+      "Issues": [
+        "https://github.com/golang/go/issues/46241",
+        "https://github.com/golang/go/issues/46504",
+        "https://github.com/golang/go/issues/46531",
+        "https://github.com/golang/go/issues/46530"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-16276": {
+      "Issues": [
+        "https://github.com/golang/go/issues/34540"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-16845": {
+      "Issues": [
+        "https://github.com/golang/go/issues/40618"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-3959": {
+      "Issues": [
+        "https://github.com/golang/go/issues/15184"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-33196": {
+      "Issues": [
+        "https://github.com/golang/go/issues/46242"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-3115": {
+      "Issues": [
+        "https://github.com/golang/go/issues/43783",
+        "https://github.com/golang/go/issues/43785",
+        "https://github.com/golang/go/issues/43784"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-33197": {
+      "Issues": [
+        "https://github.com/golang/go/issues/46313"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-6574": {
+      "Issues": [
+        "https://github.com/golang/go/issues/23672"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-28852": {
+      "Issues": [
+        "https://github.com/golang/go/issues/43983"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-27919": {
+      "Issues": [
+        "https://github.com/golang/go/issues/44916",
+        "https://github.com/golang/go/issues/44917"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-27918": {
+      "Issues": [
+        "https://github.com/golang/go/issues/44913",
+        "https://github.com/golang/go/issues/44915",
+        "https://github.com/golang/go/issues/44914"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-28367": {
+      "Issues": [
+        "https://github.com/golang/go/issues/42555",
+        "https://github.com/golang/go/issues/42557",
+        "https://github.com/golang/go/issues/42556",
+        "https://github.com/golang/go/issues/42558"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-28366": {
+      "Issues": [
+        "https://github.com/golang/go/issues/42559",
+        "https://github.com/golang/go/issues/42560",
+        "https://github.com/golang/go/issues/42562",
+        "https://github.com/golang/go/issues/42561"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-29510": {
+      "Issues": [
+        "https://github.com/golang/go/issues/43211"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-28362": {
+      "Issues": [
+        "https://github.com/golang/go/issues/42552",
+        "https://github.com/golang/go/issues/42554",
+        "https://github.com/golang/go/issues/42553"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-14040": {
+      "Issues": [
+        "https://github.com/golang/go/issues/40597"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-24553": {
+      "Issues": [
+        "https://github.com/golang/go/issues/41165",
+        "https://github.com/golang/go/issues/41164",
+        "https://github.com/golang/go/issues/40928"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-17075": {
+      "Issues": [
+        "https://github.com/golang/go/issues/41419"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-11841": {
+      "Issues": [
+        "https://github.com/golang/go/issues/41200"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-11888": {
+      "Issues": [
+        "https://github.com/golang/go/issues/32000",
+        "https://github.com/golang/go/issues/32081",
+        "https://github.com/golang/go/issues/32082"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-0601": {
+      "Issues": [
+        "https://github.com/golang/go/issues/36834"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-7919": {
+      "Issues": [
+        "https://github.com/golang/go/issues/36837"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-11840": {
+      "Issues": [
+        "https://github.com/golang/go/issues/35798"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-9512": {
+      "Issues": [
+        "https://github.com/golang/go/issues/33606"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-6486": {
+      "Issues": [
+        "https://github.com/golang/go/issues/29903"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-16875": {
+      "Issues": [
+        "https://github.com/golang/go/issues/29233"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-0001": {
+      "Issues": [
+        "https://github.com/golang/go/issues/29537"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-16874": {
+      "Issues": [
+        "https://github.com/golang/go/issues/29231"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-16873": {
+      "Issues": [
+        "https://github.com/golang/go/issues/29230"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-12020": {
+      "Issues": [
+        "https://github.com/golang/go/issues/25940"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-15042": {
+      "Issues": [
+        "https://github.com/golang/go/issues/22134"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-15041": {
+      "Issues": [
+        "https://github.com/golang/go/issues/22125"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7187": {
+      "Issues": [
+        "https://github.com/golang/go/issues/23867"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-8610": {
+      "Issues": [
+        "https://github.com/golang/go/issues/22625",
+        "https://github.com/golang/go/issues/22543"
+      ],
+      "PRs": []
+    },
+    "CVE-2006-3918": {
+      "Issues": [
+        "https://github.com/golang/go/issues/23067"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-1546": {
+      "Issues": [
+        "https://github.com/golang/go/issues/16825"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5386": {
+      "Issues": [
+        "https://github.com/golang/go/issues/16405"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-3671": {
+      "Issues": [
+        "https://github.com/golang/go/issues/8929"
+      ],
+      "PRs": []
+    }
+  }
+}

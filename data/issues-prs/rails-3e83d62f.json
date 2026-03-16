@@ -1,0 +1,433 @@
+{
+  "vcs_url": "https://github.com/rails/rails",
+  "vulnerabilities": {
+    "CVE-2022-21831": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/56830"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-24293": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/56948"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-54133": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/56949"
+      ],
+      "PRs": [
+        "https://github.com/rails/rails/pull/56991",
+        "https://github.com/rails/rails/pull/53906"
+      ]
+    },
+    "CVE-2016-6317": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/42942"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-32224": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/45609"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-47889": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/53338"
+      ],
+      "PRs": [
+        "https://github.com/rails/rails/pull/53350",
+        "https://github.com/rails/rails/pull/53409"
+      ]
+    },
+    "CVE-2024-28103": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/52710"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-34341": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/52009",
+        "https://github.com/rails/rails/issues/51778"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-26143": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/51190"
+      ],
+      "PRs": [
+        "https://github.com/rails/rails/pull/51196"
+      ]
+    },
+    "CVE-2021-3781": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/43982"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-27777": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/45014"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-44528": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/43954",
+        "https://github.com/rails/rails/issues/43879",
+        "https://github.com/rails/rails/issues/43867"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-22881": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/42129"
+      ],
+      "PRs": [
+        "https://github.com/rails/rails/pull/41435"
+      ]
+    },
+    "CVE-2020-8167": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/39351"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-5418": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/35702"
+      ],
+      "PRs": [
+        "https://github.com/rails/rails/pull/35708",
+        "https://github.com/rails/rails/pull/35661",
+        "https://github.com/rails/rails/pull/35688"
+      ]
+    },
+    "CVE-2018-14732": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/35090"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-16476": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/34674"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-9490": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/30180"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-7579": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/28060"
+      ],
+      "PRs": [
+        "https://github.com/rails/rails/pull/27814"
+      ]
+    },
+    "CVE-2010-3933": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/15253"
+      ],
+      "PRs": []
+    },
+    "CVE-2012-2660": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/13420",
+        "https://github.com/rails/rails/issues/9261"
+      ],
+      "PRs": [
+        "https://github.com/rails/rails/pull/16924",
+        "https://github.com/rails/rails/pull/6580"
+      ]
+    },
+    "CVE-2015-3224": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/20582"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-3225": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/20579",
+        "https://github.com/rails/rails/issues/20585"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-3227": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/20583"
+      ],
+      "PRs": [
+        "https://github.com/rails/rails/pull/21532"
+      ]
+    },
+    "CVE-2015-1840": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/20580"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-3226": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/20581"
+      ],
+      "PRs": [
+        "https://github.com/rails/rails/pull/26300"
+      ]
+    },
+    "CVE-2014-7829": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/17649"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-7819": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/17447",
+        "https://github.com/rails/rails/issues/17445"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-7818": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/17444"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-0263": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/16327"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-3514": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/16687"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-4491": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/13196"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-6415": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/13160"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-0333": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/9100",
+        "https://github.com/rails/rails/issues/9122"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-44303": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/56707"
+      ]
+    },
+    "CVE-2025-46812": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/55046"
+      ]
+    },
+    "CVE-2025-26791": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/54990"
+      ]
+    },
+    "CVE-2025-21610": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/54385",
+        "https://github.com/rails/rails/pull/54099"
+      ]
+    },
+    "CVE-2024-41946": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/52498"
+      ]
+    },
+    "CVE-2013-0276": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/48642",
+        "https://github.com/rails/rails/pull/47509"
+      ]
+    },
+    "CVE-2022-3704": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/46467",
+        "https://github.com/rails/rails/pull/46466"
+      ]
+    },
+    "CVE-2019-10744": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/46169"
+      ]
+    },
+    "CVE-2022-22577": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/45859"
+      ]
+    },
+    "CVE-2018-1058": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/35223"
+      ]
+    },
+    "CVE-2020-5267": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/39764"
+      ]
+    },
+    "CVE-2021-22902": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/42177"
+      ]
+    },
+    "CVE-2020-1867": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/39990"
+      ]
+    },
+    "CVE-2020-8163": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/39806"
+      ]
+    },
+    "CVE-2018-5418": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/35791"
+      ]
+    },
+    "CVE-2016-0752": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/35825"
+      ]
+    },
+    "CVE-2018-16468": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/34350"
+      ]
+    },
+    "CVE-2018-3760": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/33208"
+      ]
+    },
+    "CVE-2015-9097": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/30905"
+      ]
+    },
+    "CVE-2016-6316": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/26139"
+      ]
+    },
+    "CVE-2013-0155": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/13215",
+        "https://github.com/rails/rails/pull/13157",
+        "https://github.com/rails/rails/pull/8948",
+        "https://github.com/rails/rails/pull/8870",
+        "https://github.com/rails/rails/pull/9111",
+        "https://github.com/rails/rails/pull/9569",
+        "https://github.com/rails/rails/pull/12251"
+      ]
+    },
+    "CVE-2014-0130": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/17258"
+      ]
+    },
+    "CVE-2014-4671": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/16109"
+      ]
+    },
+    "CVE-2013-0156": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/8902",
+        "https://github.com/rails/rails/pull/9024"
+      ]
+    },
+    "CVE-2012-5664": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/8904"
+      ]
+    },
+    "CVE-2012-2695": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/6719",
+        "https://github.com/rails/rails/pull/6722"
+      ]
+    },
+    "CVE-2012-2661": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/6595"
+      ]
+    },
+    "CVE-2014-2538": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/14437",
+        "https://github.com/rails/rails/pull/14880"
+      ]
+    },
+    "CVE-2013-6417": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/13151"
+      ]
+    },
+    "CVE-2014-3483": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/rails/rails/pull/16020",
+        "https://github.com/rails/rails/pull/16021",
+        "https://github.com/rails/rails/pull/16022"
+      ]
+    }
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "vcs_url": "https://github.com/jenkinsci/jenkins",
+  "vulnerabilities": {
+    "CVE-2021-44228": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/25584",
+        "https://github.com/jenkinsci/jenkins/issues/25585"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-1814": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/17070"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-2976": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/18723"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-22201": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/16390"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-1000027": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/16467"
+      ],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/9238"
+      ]
+    },
+    "CVE-2002-1858": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/16194"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-3566": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/23523"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-1471": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/18569"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-47072": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/16590"
+      ],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/9954"
+      ]
+    },
+    "CVE-2016-1000031": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/25433"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-1003004": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/20294"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-22228": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/16704"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-52046": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/16618"
+      ],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/10103"
+      ]
+    },
+    "CVE-2021-21366": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/18184",
+        "https://github.com/jenkinsci/jenkins/issues/18183"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-6780": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/18788"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-22243": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/16387"
+      ],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/9016"
+      ]
+    },
+    "CVE-2015-9251": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/18787"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-42503": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/18765"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-40167": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/18764"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-31692": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/18461"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-2186": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/11881"
+      ],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/5174"
+      ]
+    },
+    "CVE-2020-2100": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/20827"
+      ],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/4460"
+      ]
+    },
+    "CVE-2015-3253": {
+      "Issues": [
+        "https://github.com/jenkinsci/jenkins/issues/21730"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-59465": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/26116"
+      ]
+    },
+    "CVE-2018-1000192": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/11120"
+      ]
+    },
+    "CVE-2025-13465": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/26158"
+      ]
+    },
+    "CVE-2025-48734": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/10691"
+      ]
+    },
+    "CVE-2024-38827": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/10148"
+      ]
+    },
+    "CVE-2020-36843": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/10420"
+      ]
+    },
+    "CVE-2025-23083": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/10203"
+      ]
+    },
+    "CVE-2024-52549": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/9973"
+      ]
+    },
+    "CVE-2024-4067": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/9656"
+      ]
+    },
+    "CVE-2024-36138": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/9454"
+      ]
+    },
+    "CVE-2024-27980": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/9168"
+      ]
+    },
+    "CVE-2024-27983": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/9138"
+      ]
+    },
+    "CVE-2024-21892": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/8968"
+      ]
+    },
+    "CVE-2023-42282": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/8973"
+      ]
+    },
+    "CVE-2023-44487": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/8626"
+      ]
+    },
+    "CVE-2023-44270": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/8541",
+        "https://github.com/jenkinsci/jenkins/pull/8540"
+      ]
+    },
+    "CVE-2023-32002": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/8433"
+      ]
+    },
+    "CVE-2023-30581": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/8196"
+      ]
+    },
+    "CVE-2023-23918": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/7682"
+      ]
+    },
+    "CVE-2023-1370": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/8165"
+      ]
+    },
+    "CVE-2022-37603": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/7714"
+      ]
+    },
+    "CVE-2022-45047": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/7623"
+      ]
+    },
+    "CVE-2022-40151": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/7548"
+      ]
+    },
+    "CVE-2022-3602": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/7343"
+      ]
+    },
+    "CVE-2022-32212": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/7157"
+      ]
+    },
+    "CVE-2021-44906": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/7563"
+      ]
+    },
+    "CVE-2022-31690": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/7322"
+      ]
+    },
+    "CVE-2022-35954": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/7320"
+      ]
+    },
+    "CVE-2022-22965": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/6445",
+        "https://github.com/jenkinsci/jenkins/pull/6422"
+      ]
+    },
+    "CVE-2019-8331": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/6814"
+      ]
+    },
+    "CVE-2022-22970": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/6565"
+      ]
+    },
+    "CVE-2022-22978": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/6578"
+      ]
+    },
+    "CVE-2017-12621": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/6002"
+      ]
+    },
+    "CVE-2022-22968": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/6474"
+      ]
+    },
+    "CVE-2021-43859": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/6231"
+      ]
+    },
+    "CVE-2021-28165": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/5513"
+      ]
+    },
+    "CVE-2021-22112": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/5299"
+      ]
+    },
+    "CVE-2019-10086": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/5319"
+      ]
+    },
+    "CVE-2020-27223": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/5384"
+      ]
+    },
+    "CVE-2020-11979": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/4958"
+      ]
+    },
+    "CVE-2014-3578": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/4838"
+      ]
+    },
+    "CVE-2015-6420": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/4092"
+      ]
+    },
+    "CVE-2018-8088": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/jenkinsci/jenkins/pull/4049"
+      ]
+    }
+  }
+}

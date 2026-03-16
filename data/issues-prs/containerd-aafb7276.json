@@ -1,0 +1,585 @@
+{
+  "vcs_url": "https://github.com/containerd/containerd",
+  "vulnerabilities": {
+    "CVE-2025-47907": {
+      "Issues": [
+        "https://github.com/containerd/containerd/issues/12246"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-23471": {
+      "Issues": [
+        "https://github.com/containerd/containerd/issues/9435"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-25173": {
+      "Issues": [
+        "https://github.com/containerd/containerd/issues/8901"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-26160": {
+      "Issues": [
+        "https://github.com/containerd/containerd/issues/5470"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-15257": {
+      "Issues": [
+        "https://github.com/containerd/containerd/issues/4805"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-9283": {
+      "Issues": [
+        "https://github.com/containerd/containerd/issues/4082"
+      ],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/4085"
+      ]
+    },
+    "CVE-2019-5736": {
+      "Issues": [
+        "https://github.com/containerd/containerd/issues/3006"
+      ],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/10787",
+        "https://github.com/containerd/containerd/pull/3081",
+        "https://github.com/containerd/containerd/pull/2997",
+        "https://github.com/containerd/containerd/pull/2999",
+        "https://github.com/containerd/containerd/pull/2998",
+        "https://github.com/containerd/containerd/pull/3083",
+        "https://github.com/containerd/containerd/pull/3082",
+        "https://github.com/containerd/containerd/pull/3003",
+        "https://github.com/containerd/containerd/pull/3002"
+      ]
+    },
+    "CVE-2018-1108": {
+      "Issues": [
+        "https://github.com/containerd/containerd/issues/2451"
+      ],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/2454"
+      ]
+    },
+    "CVE-2025-68121": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/12933"
+      ]
+    },
+    "CVE-2026-27137": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/13011",
+        "https://github.com/containerd/containerd/pull/13013",
+        "https://github.com/containerd/containerd/pull/12985"
+      ]
+    },
+    "CVE-2025-61732": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/12869"
+      ]
+    },
+    "CVE-2025-52881": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/12568",
+        "https://github.com/containerd/containerd/pull/12593",
+        "https://github.com/containerd/containerd/pull/12603"
+      ]
+    },
+    "CVE-2025-61728": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/12797",
+        "https://github.com/containerd/containerd/pull/12879"
+      ]
+    },
+    "CVE-2025-31133": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/12475"
+      ]
+    },
+    "CVE-2025-67499": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/12660",
+        "https://github.com/containerd/containerd/pull/12656"
+      ]
+    },
+    "CVE-2025-58181": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/12602"
+      ]
+    },
+    "CVE-2025-22869": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/11482"
+      ]
+    },
+    "CVE-2025-22868": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/11481"
+      ]
+    },
+    "CVE-2025-27144": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/11619"
+      ]
+    },
+    "CVE-2022-30636": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/11178"
+      ]
+    },
+    "CVE-2024-45337": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/11145"
+      ]
+    },
+    "CVE-2023-39323": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/9221",
+        "https://github.com/containerd/containerd/pull/9264",
+        "https://github.com/containerd/containerd/pull/9265"
+      ]
+    },
+    "CVE-2024-34155": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/10678",
+        "https://github.com/containerd/containerd/pull/10680",
+        "https://github.com/containerd/containerd/pull/10679"
+      ]
+    },
+    "CVE-2024-45310": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/10667",
+        "https://github.com/containerd/containerd/pull/10668",
+        "https://github.com/containerd/containerd/pull/10665"
+      ]
+    },
+    "CVE-2022-24778": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/11174",
+        "https://github.com/containerd/containerd/pull/10408",
+        "https://github.com/containerd/containerd/pull/6739"
+      ]
+    },
+    "CVE-2023-2331": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/10413"
+      ]
+    },
+    "CVE-2024-24791": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/10427",
+        "https://github.com/containerd/containerd/pull/10426",
+        "https://github.com/containerd/containerd/pull/10416"
+      ]
+    },
+    "CVE-2023-45288": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/10444",
+        "https://github.com/containerd/containerd/pull/10183",
+        "https://github.com/containerd/containerd/pull/10115",
+        "https://github.com/containerd/containerd/pull/10156",
+        "https://github.com/containerd/containerd/pull/10117",
+        "https://github.com/containerd/containerd/pull/10104",
+        "https://github.com/containerd/containerd/pull/10108",
+        "https://github.com/containerd/containerd/pull/10050"
+      ]
+    },
+    "CVE-2024-24786": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/10017",
+        "https://github.com/containerd/containerd/pull/9967",
+        "https://github.com/containerd/containerd/pull/9970",
+        "https://github.com/containerd/containerd/pull/9974",
+        "https://github.com/containerd/containerd/pull/9975"
+      ]
+    },
+    "CVE-2024-21626": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/9722",
+        "https://github.com/containerd/containerd/pull/9723",
+        "https://github.com/containerd/containerd/pull/9724"
+      ]
+    },
+    "CVE-2023-47108": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/9707",
+        "https://github.com/containerd/containerd/pull/9581"
+      ]
+    },
+    "CVE-2022-1996": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/9385",
+        "https://github.com/containerd/containerd/pull/9394",
+        "https://github.com/containerd/containerd/pull/8412"
+      ]
+    },
+    "CVE-2023-44487": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/10149",
+        "https://github.com/containerd/containerd/pull/9247",
+        "https://github.com/containerd/containerd/pull/9248"
+      ]
+    },
+    "CVE-2023-39326": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/9352",
+        "https://github.com/containerd/containerd/pull/9472",
+        "https://github.com/containerd/containerd/pull/9351"
+      ]
+    },
+    "CVE-2023-39325": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/9276",
+        "https://github.com/containerd/containerd/pull/9250"
+      ]
+    },
+    "CVE-2022-27664": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/7372",
+        "https://github.com/containerd/containerd/pull/7373"
+      ]
+    },
+    "CVE-2023-39320": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/9074",
+        "https://github.com/containerd/containerd/pull/9073",
+        "https://github.com/containerd/containerd/pull/9072"
+      ]
+    },
+    "CVE-2023-29402": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/8715",
+        "https://github.com/containerd/containerd/pull/8716",
+        "https://github.com/containerd/containerd/pull/8714"
+      ]
+    },
+    "CVE-2023-29409": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/8905",
+        "https://github.com/containerd/containerd/pull/8906",
+        "https://github.com/containerd/containerd/pull/8904"
+      ]
+    },
+    "CVE-2023-29406": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/8816",
+        "https://github.com/containerd/containerd/pull/8804",
+        "https://github.com/containerd/containerd/pull/8815"
+      ]
+    },
+    "CVE-2023-24539": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/8469",
+        "https://github.com/containerd/containerd/pull/8471",
+        "https://github.com/containerd/containerd/pull/8470"
+      ]
+    },
+    "CVE-2023-24537": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/8353",
+        "https://github.com/containerd/containerd/pull/8354",
+        "https://github.com/containerd/containerd/pull/8352"
+      ]
+    },
+    "CVE-2023-25153": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/8117",
+        "https://github.com/containerd/containerd/pull/8118"
+      ]
+    },
+    "CVE-2022-2879": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/7476",
+        "https://github.com/containerd/containerd/pull/7474",
+        "https://github.com/containerd/containerd/pull/7475"
+      ]
+    },
+    "CVE-2022-41717": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/7767",
+        "https://github.com/containerd/containerd/pull/7766",
+        "https://github.com/containerd/containerd/pull/7765",
+        "https://github.com/containerd/containerd/pull/7774"
+      ]
+    },
+    "CVE-2022-41716": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/7633",
+        "https://github.com/containerd/containerd/pull/7634",
+        "https://github.com/containerd/containerd/pull/7759"
+      ]
+    },
+    "CVE-2019-2054": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/7693"
+      ]
+    },
+    "CVE-2022-27191": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/6687"
+      ]
+    },
+    "CVE-2022-1705": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/7160",
+        "https://github.com/containerd/containerd/pull/7159",
+        "https://github.com/containerd/containerd/pull/7161"
+      ]
+    },
+    "CVE-2022-32189": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/7245",
+        "https://github.com/containerd/containerd/pull/7244",
+        "https://github.com/containerd/containerd/pull/7243"
+      ]
+    },
+    "CVE-2022-24675": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/6823",
+        "https://github.com/containerd/containerd/pull/6822",
+        "https://github.com/containerd/containerd/pull/6824"
+      ]
+    },
+    "CVE-2022-29526": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/6927",
+        "https://github.com/containerd/containerd/pull/6928",
+        "https://github.com/containerd/containerd/pull/6926"
+      ]
+    },
+    "CVE-2022-30634": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/7014",
+        "https://github.com/containerd/containerd/pull/7013",
+        "https://github.com/containerd/containerd/pull/7012"
+      ]
+    },
+    "CVE-2022-29162": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/6934",
+        "https://github.com/containerd/containerd/pull/6936",
+        "https://github.com/containerd/containerd/pull/6935"
+      ]
+    },
+    "CVE-2022-24921": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/6619",
+        "https://github.com/containerd/containerd/pull/6621",
+        "https://github.com/containerd/containerd/pull/6620"
+      ]
+    },
+    "CVE-2022-23806": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/6556",
+        "https://github.com/containerd/containerd/pull/6527",
+        "https://github.com/containerd/containerd/pull/6555"
+      ]
+    },
+    "CVE-2021-3121": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/5390",
+        "https://github.com/containerd/containerd/pull/5387",
+        "https://github.com/containerd/containerd/pull/4974"
+      ]
+    },
+    "CVE-2021-41190": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/6263"
+      ]
+    },
+    "CVE-2021-41772": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/6211",
+        "https://github.com/containerd/containerd/pull/6212",
+        "https://github.com/containerd/containerd/pull/6210"
+      ]
+    },
+    "CVE-2021-39293": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/6008",
+        "https://github.com/containerd/containerd/pull/6010"
+      ]
+    },
+    "CVE-2021-3115": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/5906"
+      ]
+    },
+    "CVE-2021-30465": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/5514"
+      ]
+    },
+    "CVE-2021-31525": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/5461"
+      ]
+    },
+    "CVE-2020-14040": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/4331",
+        "https://github.com/containerd/containerd/pull/4330",
+        "https://github.com/containerd/containerd/pull/4328"
+      ]
+    },
+    "CVE-2021-32760": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/5796"
+      ]
+    },
+    "CVE-2020-0601": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/3987",
+        "https://github.com/containerd/containerd/pull/3989",
+        "https://github.com/containerd/containerd/pull/3988",
+        "https://github.com/containerd/containerd/pull/4069",
+        "https://github.com/containerd/containerd/pull/4060"
+      ]
+    },
+    "CVE-2019-16884": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/3981",
+        "https://github.com/containerd/containerd/pull/3979",
+        "https://github.com/containerd/containerd/pull/3982",
+        "https://github.com/containerd/containerd/pull/3980",
+        "https://github.com/containerd/containerd/pull/3973",
+        "https://github.com/containerd/containerd/pull/3978",
+        "https://github.com/containerd/containerd/pull/3977",
+        "https://github.com/containerd/containerd/pull/3976",
+        "https://github.com/containerd/containerd/pull/3811",
+        "https://github.com/containerd/containerd/pull/3684",
+        "https://github.com/containerd/containerd/pull/3812",
+        "https://github.com/containerd/containerd/pull/3688",
+        "https://github.com/containerd/containerd/pull/3685"
+      ]
+    },
+    "CVE-2019-19921": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/3984",
+        "https://github.com/containerd/containerd/pull/3996"
+      ]
+    },
+    "CVE-2019-11253": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/3993"
+      ]
+    },
+    "CVE-2019-17596": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/3760",
+        "https://github.com/containerd/containerd/pull/3768",
+        "https://github.com/containerd/containerd/pull/3769"
+      ]
+    },
+    "CVE-2019-9512": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/3581",
+        "https://github.com/containerd/containerd/pull/3531",
+        "https://github.com/containerd/containerd/pull/3532"
+      ]
+    },
+    "CVE-2019-16276": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/3686",
+        "https://github.com/containerd/containerd/pull/3687"
+      ]
+    },
+    "CVE-2018-10892": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/2446",
+        "https://github.com/containerd/containerd/pull/2443"
+      ]
+    },
+    "CVE-2017-18367": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/3539",
+        "https://github.com/containerd/containerd/pull/3538",
+        "https://github.com/containerd/containerd/pull/3375",
+        "https://github.com/containerd/containerd/pull/3371",
+        "https://github.com/containerd/containerd/pull/3372",
+        "https://github.com/containerd/containerd/pull/3376"
+      ]
+    },
+    "CVE-2019-9946": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/3164",
+        "https://github.com/containerd/containerd/pull/3165"
+      ]
+    },
+    "CVE-2018-8115": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/2322"
+      ]
+    }
+  }
+}

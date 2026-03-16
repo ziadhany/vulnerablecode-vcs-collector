@@ -1,0 +1,301 @@
+{
+  "vcs_url": "https://github.com/spring-projects/spring-framework",
+  "vulnerabilities": {
+    "CVE-2024-38816": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/36194"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-38828": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/34835",
+        "https://github.com/spring-projects/spring-framework/issues/34558",
+        "https://github.com/spring-projects/spring-framework/issues/34527",
+        "https://github.com/spring-projects/spring-framework/issues/34104"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-1000027": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/34765",
+        "https://github.com/spring-projects/spring-framework/issues/24434",
+        "https://github.com/spring-projects/spring-framework/issues/34232",
+        "https://github.com/spring-projects/spring-framework/issues/30958",
+        "https://github.com/spring-projects/spring-framework/issues/32624",
+        "https://github.com/spring-projects/spring-framework/issues/32012",
+        "https://github.com/spring-projects/spring-framework/issues/32300",
+        "https://github.com/spring-projects/spring-framework/issues/31062",
+        "https://github.com/spring-projects/spring-framework/issues/31109",
+        "https://github.com/spring-projects/spring-framework/issues/30923",
+        "https://github.com/spring-projects/spring-framework/issues/30640",
+        "https://github.com/spring-projects/spring-framework/issues/30829",
+        "https://github.com/spring-projects/spring-framework/issues/30381",
+        "https://github.com/spring-projects/spring-framework/issues/29695",
+        "https://github.com/spring-projects/spring-framework/issues/29723",
+        "https://github.com/spring-projects/spring-framework/issues/29674",
+        "https://github.com/spring-projects/spring-framework/issues/25104"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-38819": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/34099"
+      ],
+      "PRs": [
+        "https://github.com/spring-projects/spring-framework/pull/34965"
+      ]
+    },
+    "CVE-2024-38809": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/33724"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-22262": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/32699"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-44794": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/31862",
+        "https://github.com/spring-projects/spring-framework/issues/32075"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-22243": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/32388"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-22233": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/32103"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-20861": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/30217"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-1471": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/29649"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-25857": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/29098"
+      ],
+      "PRs": [
+        "https://github.com/spring-projects/spring-framework/pull/29184"
+      ]
+    },
+    "CVE-2020-5408": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/28934",
+        "https://github.com/spring-projects/spring-framework/issues/28935"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-100002": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/28494"
+      ],
+      "PRs": []
+    },
+    "CVE-2010-1622": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/28319"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-22965": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/28320",
+        "https://github.com/spring-projects/spring-framework/issues/28292",
+        "https://github.com/spring-projects/spring-framework/issues/28327"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-36518": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/28289"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-44228": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/27798"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-22096": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/27647",
+        "https://github.com/spring-projects/spring-framework/issues/27632"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-40438": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/27885"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-22118": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/27436"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-1199": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/26821"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-28052": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/26314"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-1270": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/25307",
+        "https://github.com/spring-projects/spring-framework/issues/21398"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-5403": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/24959"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5007": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/19297"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7489": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/21909"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-4852": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/18250"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-5644": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/21918"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-5638": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/19904"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-1926": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/18096"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-1000873": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/22185"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7051": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/21910"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-3427": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/19502"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-5211": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/18124"
+      ],
+      "PRs": [
+        "https://github.com/spring-projects/spring-framework/pull/22676",
+        "https://github.com/spring-projects/spring-framework/pull/22679",
+        "https://github.com/spring-projects/spring-framework/pull/22677",
+        "https://github.com/spring-projects/spring-framework/pull/22622",
+        "https://github.com/spring-projects/spring-framework/pull/22678"
+      ]
+    },
+    "CVE-2017-9096": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/20899"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-3577": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/22216",
+        "https://github.com/spring-projects/spring-framework/issues/16716"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-3625": {
+      "Issues": [
+        "https://github.com/spring-projects/spring-framework/issues/22204",
+        "https://github.com/spring-projects/spring-framework/issues/22203",
+        "https://github.com/spring-projects/spring-framework/issues/16959"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-25710": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/spring-projects/spring-framework/pull/36174"
+      ]
+    },
+    "CVE-2022-46337": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/spring-projects/spring-framework/pull/35961"
+      ]
+    },
+    "CVE-2024-57699": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/spring-projects/spring-framework/pull/35924"
+      ]
+    },
+    "CVE-2024-38820": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/spring-projects/spring-framework/pull/34200"
+      ]
+    },
+    "CVE-2024-34750": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/spring-projects/spring-framework/pull/33165"
+      ]
+    }
+  }
+}

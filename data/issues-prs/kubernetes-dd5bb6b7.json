@@ -1,0 +1,1497 @@
+{
+  "vcs_url": "https://github.com/kubernetes/kubernetes",
+  "vulnerabilities": {
+    "CVE-2020-8561": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/104720"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8554": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/97076",
+        "https://github.com/kubernetes/kubernetes/issues/121907",
+        "https://github.com/kubernetes/kubernetes/issues/97110"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-25740": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/103675",
+        "https://github.com/kubernetes/kubernetes/issues/110238"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8562": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/101493"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-1002105": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/72112",
+        "https://github.com/kubernetes/kubernetes/issues/72113",
+        "https://github.com/kubernetes/kubernetes/issues/72116",
+        "https://github.com/kubernetes/kubernetes/issues/73108",
+        "https://github.com/kubernetes/kubernetes/issues/71411",
+        "https://github.com/kubernetes/kubernetes/issues/71754",
+        "https://github.com/kubernetes/kubernetes/issues/72117",
+        "https://github.com/kubernetes/kubernetes/issues/72115",
+        "https://github.com/kubernetes/kubernetes/issues/71671",
+        "https://github.com/kubernetes/kubernetes/issues/71910"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/72603",
+        "https://github.com/kubernetes/kubernetes/pull/71664"
+      ]
+    },
+    "CVE-2020-8559": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/95086",
+        "https://github.com/kubernetes/kubernetes/issues/92914",
+        "https://github.com/kubernetes/kubernetes/issues/104411",
+        "https://github.com/kubernetes/kubernetes/issues/93129"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/93144",
+        "https://github.com/kubernetes/kubernetes/pull/92941"
+      ]
+    },
+    "CVE-2019-11244": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/80581",
+        "https://github.com/kubernetes/kubernetes/issues/76676"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/77645",
+        "https://github.com/kubernetes/kubernetes/pull/78027",
+        "https://github.com/kubernetes/kubernetes/pull/78028",
+        "https://github.com/kubernetes/kubernetes/pull/78032",
+        "https://github.com/kubernetes/kubernetes/pull/77874"
+      ]
+    },
+    "CVE-2026-3288": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/137560"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-68121": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/137228",
+        "https://github.com/kubernetes/kubernetes/issues/137195"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-1580": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/136677"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-24513": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/136679"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-24514": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/136680"
+      ],
+      "PRs": []
+    },
+    "CVE-2026-24512": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/136678"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-15566": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/136789"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-11249": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/81146",
+        "https://github.com/kubernetes/kubernetes/issues/80984"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/80436",
+        "https://github.com/kubernetes/kubernetes/pull/80871",
+        "https://github.com/kubernetes/kubernetes/pull/80870",
+        "https://github.com/kubernetes/kubernetes/pull/80869"
+      ]
+    },
+    "CVE-2021-33909": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/106083"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-3744": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/124759"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-14269": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/135798"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-61729": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/135786"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-2878": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/118377",
+        "https://github.com/kubernetes/kubernetes/issues/118437",
+        "https://github.com/kubernetes/kubernetes/issues/118419"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-13281": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/135525"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-61725": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/135083"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-52881": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/135274"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-9708": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/134063"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-47907": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/133561"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-47097": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/133712"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-1974": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/131009",
+        "https://github.com/kubernetes/kubernetes/issues/131062"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-27144": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/133478",
+        "https://github.com/kubernetes/kubernetes/issues/133143"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-7445": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/133897"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-5187": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/133471"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-7342": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/133115"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-11250": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/81114",
+        "https://github.com/kubernetes/kubernetes/issues/116462"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/81330"
+      ]
+    },
+    "CVE-2025-22870": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/130872"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/131128"
+      ]
+    },
+    "CVE-2019-11243": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/76797"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-1097": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/131007"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-1098": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/131008"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-24513": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/131005"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-11245": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/78308"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-24514": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/131006"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-4563": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/132151"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-22871": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/131326"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-45338": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/131188",
+        "https://github.com/kubernetes/kubernetes/issues/129490",
+        "https://github.com/kubernetes/kubernetes/issues/129347"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8555": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/99425",
+        "https://github.com/kubernetes/kubernetes/issues/91542"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/97934",
+        "https://github.com/kubernetes/kubernetes/pull/97922",
+        "https://github.com/kubernetes/kubernetes/pull/95206"
+      ]
+    },
+    "CVE-2024-7598": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/126587"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-22868": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/130632"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/130474"
+      ]
+    },
+    "CVE-2024-45337": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/129164"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/130832"
+      ]
+    },
+    "CVE-2025-1767": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/130786"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-29923": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/108074"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/122550",
+        "https://github.com/kubernetes/kubernetes/pull/107552",
+        "https://github.com/kubernetes/kubernetes/pull/104368",
+        "https://github.com/kubernetes/kubernetes/pull/104367"
+      ]
+    },
+    "CVE-2025-0426": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/130016"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-5037": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/126211"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-9042": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/129654"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-10220": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/128885"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-51744": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/128620"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/128621"
+      ]
+    },
+    "CVE-2024-28180": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/128039"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/126236"
+      ]
+    },
+    "CVE-2024-9486": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/128006"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-5043": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/123964",
+        "https://github.com/kubernetes/kubernetes/issues/126816"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-9594": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/128007"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-7646": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/126744"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8553": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/126818"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-25746": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/126813"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-4886": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/126815"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8557": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/93032"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/92916"
+      ]
+    },
+    "CVE-2024-24790": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/126477"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/126226"
+      ]
+    },
+    "CVE-2021-25745": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/126812"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-5044": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/126817"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-25748": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/126814"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-5321": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/126161"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-2727": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/118640"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-25742": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/126811"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-21698": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/121370"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-3177": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/124336"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-37434": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/124377"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-45288": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/124173"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/124174",
+        "https://github.com/kubernetes/kubernetes/pull/124180",
+        "https://github.com/kubernetes/kubernetes/pull/124179",
+        "https://github.com/kubernetes/kubernetes/pull/124178"
+      ]
+    },
+    "CVE-2023-2253": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/122952",
+        "https://github.com/kubernetes/kubernetes/issues/122457",
+        "https://github.com/kubernetes/kubernetes/issues/119227"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/125963"
+      ]
+    },
+    "CVE-2023-48795": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/122424"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/123329",
+        "https://github.com/kubernetes/kubernetes/pull/123047",
+        "https://github.com/kubernetes/kubernetes/pull/123046"
+      ]
+    },
+    "CVE-2022-1664": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/117648"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-3893": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/119594"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-3676": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/119339"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-3955": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/119595"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-5528": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/121879"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-2431": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/118690"
+      ],
+      "PRs": []
+    },
+    "CVE-2003-0069": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/101695"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-3121": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/118678",
+        "https://github.com/kubernetes/kubernetes/issues/101435"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/101306",
+        "https://github.com/kubernetes/kubernetes/pull/101335",
+        "https://github.com/kubernetes/kubernetes/pull/101326",
+        "https://github.com/kubernetes/kubernetes/pull/101327",
+        "https://github.com/kubernetes/kubernetes/pull/101325",
+        "https://github.com/kubernetes/kubernetes/pull/100515",
+        "https://github.com/kubernetes/kubernetes/pull/100514",
+        "https://github.com/kubernetes/kubernetes/pull/100501",
+        "https://github.com/kubernetes/kubernetes/pull/98477",
+        "https://github.com/kubernetes/kubernetes/pull/103270"
+      ]
+    },
+    "CVE-2023-27561": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/117094"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/117095",
+        "https://github.com/kubernetes/kubernetes/pull/117691",
+        "https://github.com/kubernetes/kubernetes/pull/117681",
+        "https://github.com/kubernetes/kubernetes/pull/117682",
+        "https://github.com/kubernetes/kubernetes/pull/117892",
+        "https://github.com/kubernetes/kubernetes/pull/117692",
+        "https://github.com/kubernetes/kubernetes/pull/117242"
+      ]
+    },
+    "CVE-2022-3294": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/113757",
+        "https://github.com/kubernetes/kubernetes/issues/114073"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/114096",
+        "https://github.com/kubernetes/kubernetes/pull/114103",
+        "https://github.com/kubernetes/kubernetes/pull/114104",
+        "https://github.com/kubernetes/kubernetes/pull/114101",
+        "https://github.com/kubernetes/kubernetes/pull/114102",
+        "https://github.com/kubernetes/kubernetes/pull/113917"
+      ]
+    },
+    "CVE-2021-3636": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/115921"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-2183": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/118966"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-3162": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/113756"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/113827",
+        "https://github.com/kubernetes/kubernetes/pull/113915",
+        "https://github.com/kubernetes/kubernetes/pull/113913",
+        "https://github.com/kubernetes/kubernetes/pull/113914"
+      ]
+    },
+    "CVE-2022-41716": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/113536"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/113539"
+      ]
+    },
+    "CVE-2018-1002101": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/65750"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-11251": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/87773"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/82143"
+      ]
+    },
+    "CVE-1999-0511": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/112777"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-27664": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/112758"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/113526",
+        "https://github.com/kubernetes/kubernetes/pull/113459",
+        "https://github.com/kubernetes/kubernetes/pull/113425",
+        "https://github.com/kubernetes/kubernetes/pull/113919",
+        "https://github.com/kubernetes/kubernetes/pull/112693",
+        "https://github.com/kubernetes/kubernetes/pull/112764"
+      ]
+    },
+    "CVE-2022-3172": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/112513"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-1002100": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/47611"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/47605"
+      ]
+    },
+    "CVE-2019-11255": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/85233"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-11253": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/83253",
+        "https://github.com/kubernetes/kubernetes/issues/84571"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/97124",
+        "https://github.com/kubernetes/kubernetes/pull/97215",
+        "https://github.com/kubernetes/kubernetes/pull/83261"
+      ]
+    },
+    "CVE-2021-25749": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/112192"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-43618": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/109377",
+        "https://github.com/kubernetes/kubernetes/issues/109168"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-1002100": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/61297"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-10749": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/91507"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-25032": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/109319"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-11254": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/89535"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-26160": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/100401"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/102755",
+        "https://github.com/kubernetes/kubernetes/pull/100382",
+        "https://github.com/kubernetes/kubernetes/pull/97033"
+      ]
+    },
+    "CVE-2021-43565": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/108464"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/108487",
+        "https://github.com/kubernetes/kubernetes/pull/108666",
+        "https://github.com/kubernetes/kubernetes/pull/107715"
+      ]
+    },
+    "CVE-2020-14040": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/107247",
+        "https://github.com/kubernetes/kubernetes/issues/93324"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/92219"
+      ]
+    },
+    "CVE-2021-38561": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/108463"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/109548"
+      ]
+    },
+    "CVE-2022-27191": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/109544"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/109552"
+      ]
+    },
+    "CVE-2021-25741": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/104980"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-1000056": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/43459"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-1002100": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/74534"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-11248": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/81023"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/81040",
+        "https://github.com/kubernetes/kubernetes/pull/78313",
+        "https://github.com/kubernetes/kubernetes/pull/79182",
+        "https://github.com/kubernetes/kubernetes/pull/79183",
+        "https://github.com/kubernetes/kubernetes/pull/79184"
+      ]
+    },
+    "CVE-2019-11247": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/80983"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/80750",
+        "https://github.com/kubernetes/kubernetes/pull/80852",
+        "https://github.com/kubernetes/kubernetes/pull/80851",
+        "https://github.com/kubernetes/kubernetes/pull/80850"
+      ]
+    },
+    "CVE-2017-1002101": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/60813",
+        "https://github.com/kubernetes/kubernetes/issues/61563"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/61047",
+        "https://github.com/kubernetes/kubernetes/pull/61045",
+        "https://github.com/kubernetes/kubernetes/pull/61046",
+        "https://github.com/kubernetes/kubernetes/pull/61044"
+      ]
+    },
+    "CVE-2017-1002102": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/60814"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/58720"
+      ]
+    },
+    "CVE-2021-25737": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/102106"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-41190": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/106639"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-1002102": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/85867"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8552": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/89378"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8551": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/89377"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8565": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/95623"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-25735": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/100096"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8566": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/95624"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8558": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/92315"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/92938"
+      ]
+    },
+    "CVE-2020-8563": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/95621"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-25743": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/107617"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/112553"
+      ]
+    },
+    "CVE-2019-1010022": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/105530"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8564": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/95622"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-33910": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/104083"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/104142"
+      ]
+    },
+    "CVE-2020-29652": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/103722"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/103730"
+      ]
+    },
+    "CVE-2021-33194": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/103166"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-28852": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/102407"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/102601",
+        "https://github.com/kubernetes/kubernetes/pull/102602",
+        "https://github.com/kubernetes/kubernetes/pull/102409"
+      ]
+    },
+    "CVE-2021-3520": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/102215"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/102377"
+      ]
+    },
+    "CVE-2021-20206": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/101758"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/101759"
+      ]
+    },
+    "CVE-2020-27350": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/97320"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-15257": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/96988"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-15114": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/94304"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-15106": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/94141"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-3810": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/92616",
+        "https://github.com/kubernetes/kubernetes/issues/93114"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/93154",
+        "https://github.com/kubernetes/kubernetes/pull/93152"
+      ]
+    },
+    "CVE-2020-1967": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/90416"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/90507"
+      ]
+    },
+    "CVE-2019-5736": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/94039",
+        "https://github.com/kubernetes/kubernetes/issues/74631",
+        "https://github.com/kubernetes/kubernetes/issues/74331"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-11246": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/88670"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/76788"
+      ]
+    },
+    "CVE-2018-17456": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/71719"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-1543": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/80374"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-17405": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/72571"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-16873": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/72032"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-6486": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/73238"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/73379",
+        "https://github.com/kubernetes/kubernetes/pull/73329",
+        "https://github.com/kubernetes/kubernetes/pull/73326"
+      ]
+    },
+    "CVE-2017-9791": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/52184"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-3736": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/62454"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-9962": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/40061"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/40828",
+        "https://github.com/kubernetes/kubernetes/pull/41218",
+        "https://github.com/kubernetes/kubernetes/pull/41027",
+        "https://github.com/kubernetes/kubernetes/pull/41449"
+      ]
+    },
+    "CVE-2016-1906": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/23860"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-8676": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/137193"
+      ]
+    },
+    "CVE-2025-58181": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/135536"
+      ]
+    },
+    "CVE-2025-67499": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/135687"
+      ]
+    },
+    "CVE-2023-45142": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/128476",
+        "https://github.com/kubernetes/kubernetes/pull/121338",
+        "https://github.com/kubernetes/kubernetes/pull/121559"
+      ]
+    },
+    "CVE-2025-22869": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/133041"
+      ]
+    },
+    "CVE-2024-40635": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/130871"
+      ]
+    },
+    "CVE-2025-30204": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/131034"
+      ]
+    },
+    "CVE-2022-1996": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/112809",
+        "https://github.com/kubernetes/kubernetes/pull/115313"
+      ]
+    },
+    "CVE-2024-24789": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/125342"
+      ]
+    },
+    "CVE-2024-24786": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/126234",
+        "https://github.com/kubernetes/kubernetes/pull/123758",
+        "https://github.com/kubernetes/kubernetes/pull/123763",
+        "https://github.com/kubernetes/kubernetes/pull/127599",
+        "https://github.com/kubernetes/kubernetes/pull/123767",
+        "https://github.com/kubernetes/kubernetes/pull/123764",
+        "https://github.com/kubernetes/kubernetes/pull/123765"
+      ]
+    },
+    "CVE-2023-47108": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/121842"
+      ]
+    },
+    "CVE-2023-44487": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/122176",
+        "https://github.com/kubernetes/kubernetes/pull/121273",
+        "https://github.com/kubernetes/kubernetes/pull/121120",
+        "https://github.com/kubernetes/kubernetes/pull/121201",
+        "https://github.com/kubernetes/kubernetes/pull/121200",
+        "https://github.com/kubernetes/kubernetes/pull/121199",
+        "https://github.com/kubernetes/kubernetes/pull/121364",
+        "https://github.com/kubernetes/kubernetes/pull/121196"
+      ]
+    },
+    "CVE-2024-21626": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/123060"
+      ]
+    },
+    "CVE-2023-3978": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/119814",
+        "https://github.com/kubernetes/kubernetes/pull/119815",
+        "https://github.com/kubernetes/kubernetes/pull/119725"
+      ]
+    },
+    "CVE-2023-39325": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/121117",
+        "https://github.com/kubernetes/kubernetes/pull/121128",
+        "https://github.com/kubernetes/kubernetes/pull/121127",
+        "https://github.com/kubernetes/kubernetes/pull/121125",
+        "https://github.com/kubernetes/kubernetes/pull/121126"
+      ]
+    },
+    "CVE-2023-29403": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/119741"
+      ]
+    },
+    "CVE-2021-30465": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/102147"
+      ]
+    },
+    "CVE-2022-28391": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/118036"
+      ]
+    },
+    "CVE-2022-41723": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/115786",
+        "https://github.com/kubernetes/kubernetes/pull/116939",
+        "https://github.com/kubernetes/kubernetes/pull/116649",
+        "https://github.com/kubernetes/kubernetes/pull/115787",
+        "https://github.com/kubernetes/kubernetes/pull/115790",
+        "https://github.com/kubernetes/kubernetes/pull/115788",
+        "https://github.com/kubernetes/kubernetes/pull/115787"
+      ]
+    },
+    "CVE-2022-2509": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/117643"
+      ]
+    },
+    "CVE-2022-31030": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/110435"
+      ]
+    },
+    "CVE-2022-41717": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/114323",
+        "https://github.com/kubernetes/kubernetes/pull/114319",
+        "https://github.com/kubernetes/kubernetes/pull/114322",
+        "https://github.com/kubernetes/kubernetes/pull/114320",
+        "https://github.com/kubernetes/kubernetes/pull/115641",
+        "https://github.com/kubernetes/kubernetes/pull/115642",
+        "https://github.com/kubernetes/kubernetes/pull/115640",
+        "https://github.com/kubernetes/kubernetes/pull/115638",
+        "https://github.com/kubernetes/kubernetes/pull/113983"
+      ]
+    },
+    "CVE-2022-32149": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/112989"
+      ]
+    },
+    "CVE-2021-44716": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/106952"
+      ]
+    },
+    "CVE-2021-41103": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/106137"
+      ]
+    },
+    "CVE-2021-3711": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/104970"
+      ]
+    },
+    "CVE-2020-29361": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/98401"
+      ]
+    },
+    "CVE-2021-33560": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/103191"
+      ]
+    },
+    "CVE-2019-19794": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/97405"
+      ]
+    },
+    "CVE-2021-23840": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/100976"
+      ]
+    },
+    "CVE-2017-14062": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/101262",
+        "https://github.com/kubernetes/kubernetes/pull/88790",
+        "https://github.com/kubernetes/kubernetes/pull/88789"
+      ]
+    },
+    "CVE-2021-3449": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/100566"
+      ]
+    },
+    "CVE-2020-10763": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/96749"
+      ]
+    },
+    "CVE-2020-9283": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/88381"
+      ]
+    },
+    "CVE-2019-5021": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/77625"
+      ]
+    },
+    "CVE-2019-9512": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/81394",
+        "https://github.com/kubernetes/kubernetes/pull/81522",
+        "https://github.com/kubernetes/kubernetes/pull/81546",
+        "https://github.com/kubernetes/kubernetes/pull/81525"
+      ]
+    },
+    "CVE-2019-1002101": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/75037"
+      ]
+    },
+    "CVE-2018-15688": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/77834",
+        "https://github.com/kubernetes/kubernetes/pull/77832",
+        "https://github.com/kubernetes/kubernetes/pull/77833",
+        "https://github.com/kubernetes/kubernetes/pull/77835"
+      ]
+    },
+    "CVE-2018-16875": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/74430",
+        "https://github.com/kubernetes/kubernetes/pull/72072",
+        "https://github.com/kubernetes/kubernetes/pull/72074",
+        "https://github.com/kubernetes/kubernetes/pull/72035",
+        "https://github.com/kubernetes/kubernetes/pull/72071",
+        "https://github.com/kubernetes/kubernetes/pull/72199"
+      ]
+    },
+    "CVE-2018-18264": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/72496",
+        "https://github.com/kubernetes/kubernetes/pull/72495"
+      ]
+    },
+    "CVE-2019-9946": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/75455"
+      ]
+    },
+    "CVE-2017-16997": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/75562"
+      ]
+    },
+    "CVE-2019-3462": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/73493"
+      ]
+    },
+    "CVE-2016-4448": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/47877",
+        "https://github.com/kubernetes/kubernetes/pull/47545"
+      ]
+    },
+    "CVE-2015-8271": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/48011"
+      ]
+    },
+    "CVE-2016-5417": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/43927",
+        "https://github.com/kubernetes/kubernetes/pull/43928"
+      ]
+    },
+    "CVE-2016-9841": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/47454",
+        "https://github.com/kubernetes/kubernetes/pull/47389"
+      ]
+    },
+    "CVE-2017-1000117": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/63445"
+      ]
+    },
+    "CVE-2017-2616": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/47375"
+      ]
+    },
+    "CVE-2016-8859": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/61602",
+        "https://github.com/kubernetes/kubernetes/pull/61604",
+        "https://github.com/kubernetes/kubernetes/pull/61603",
+        "https://github.com/kubernetes/kubernetes/pull/60679",
+        "https://github.com/kubernetes/kubernetes/pull/42936",
+        "https://github.com/kubernetes/kubernetes/pull/42937",
+        "https://github.com/kubernetes/kubernetes/pull/42933"
+      ]
+    },
+    "CVE-2017-7375": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/50647"
+      ]
+    },
+    "CVE-2016-5195": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/35825"
+      ]
+    },
+    "CVE-2016-0728": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/19957"
+      ]
+    },
+    "CVE-2014-6271": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/1493"
+      ]
+    }
+  }
+}

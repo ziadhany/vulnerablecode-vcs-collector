@@ -1,0 +1,203 @@
+{
+  "vcs_url": "https://github.com/hashicorp/terraform",
+  "vulnerabilities": {
+    "CVE-2025-68121": {
+      "Issues": [
+        "https://github.com/hashicorp/terraform/issues/38158"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-41803": {
+      "Issues": [
+        "https://github.com/hashicorp/terraform/issues/37139"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-45337": {
+      "Issues": [
+        "https://github.com/hashicorp/terraform/issues/36492"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-10006": {
+      "Issues": [
+        "https://github.com/hashicorp/terraform/issues/36067"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-34156": {
+      "Issues": [
+        "https://github.com/hashicorp/terraform/issues/35690"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-6104": {
+      "Issues": [
+        "https://github.com/hashicorp/terraform/issues/35631"
+      ],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/35487",
+        "https://github.com/hashicorp/terraform/pull/35473"
+      ]
+    },
+    "CVE-2024-6257": {
+      "Issues": [
+        "https://github.com/hashicorp/terraform/issues/35445"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-24786": {
+      "Issues": [
+        "https://github.com/hashicorp/terraform/issues/34897",
+        "https://github.com/hashicorp/terraform/issues/34901"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-39253": {
+      "Issues": [
+        "https://github.com/hashicorp/terraform/issues/32326"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-41723": {
+      "Issues": [
+        "https://github.com/hashicorp/terraform/issues/33210"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-8911": {
+      "Issues": [
+        "https://github.com/hashicorp/terraform/issues/32612"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-4238": {
+      "Issues": [
+        "https://github.com/hashicorp/terraform/issues/32606"
+      ],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/32188"
+      ]
+    },
+    "CVE-2018-1098": {
+      "Issues": [
+        "https://github.com/hashicorp/terraform/issues/31741"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-8959": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/37452"
+      ]
+    },
+    "CVE-2025-22872": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/36800"
+      ]
+    },
+    "CVE-2025-29927": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/36755"
+      ]
+    },
+    "CVE-2023-45133": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/36555"
+      ]
+    },
+    "CVE-2023-45288": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/35165",
+        "https://github.com/hashicorp/terraform/pull/35229"
+      ]
+    },
+    "CVE-2024-24791": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/35494",
+        "https://github.com/hashicorp/terraform/pull/35496"
+      ]
+    },
+    "CVE-2023-26115": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/33556"
+      ]
+    },
+    "CVE-2024-3817": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/35041",
+        "https://github.com/hashicorp/terraform/pull/35071"
+      ]
+    },
+    "CVE-2023-44487": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/34120",
+        "https://github.com/hashicorp/terraform/pull/34134"
+      ]
+    },
+    "CVE-2023-24540": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/33246"
+      ]
+    },
+    "CVE-2022-41717": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/33158"
+      ]
+    },
+    "CVE-2023-2251": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/33089"
+      ]
+    },
+    "CVE-2022-27664": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/31908",
+        "https://github.com/hashicorp/terraform/pull/32035"
+      ]
+    },
+    "CVE-2020-26160": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/29736"
+      ]
+    },
+    "CVE-2019-19794": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/29248"
+      ]
+    },
+    "CVE-2020-29529": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/29769"
+      ]
+    },
+    "CVE-2020-16845": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/26762",
+        "https://github.com/hashicorp/terraform/pull/26806"
+      ]
+    },
+    "CVE-2020-9283": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/hashicorp/terraform/pull/24928"
+      ]
+    }
+  }
+}

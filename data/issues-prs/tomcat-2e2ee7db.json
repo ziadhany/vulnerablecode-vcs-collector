@@ -1,0 +1,47 @@
+{
+  "vcs_url": "https://github.com/apache/tomcat",
+  "vulnerabilities": {
+    "CVE-2023-41080": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/apache/tomcat/pull/937"
+      ]
+    },
+    "CVE-2023-24998": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/apache/tomcat/pull/922"
+      ]
+    },
+    "CVE-2010-3718": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/apache/tomcat/pull/920"
+      ]
+    },
+    "CVE-2017-15698": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/apache/tomcat/pull/908"
+      ]
+    },
+    "CVE-2024-56337": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/apache/tomcat/pull/858"
+      ]
+    },
+    "CVE-2024-24549": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/apache/tomcat/pull/762"
+      ]
+    },
+    "CVE-2024-23672": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/apache/tomcat/pull/718"
+      ]
+    }
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "vcs_url": "https://github.com/ansible/ansible",
+  "vulnerabilities": {
+    "CVE-2023-5764": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/82414",
+        "https://github.com/ansible/ansible/issues/82375"
+      ],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/82295",
+        "https://github.com/ansible/ansible/pull/82294",
+        "https://github.com/ansible/ansible/pull/82293"
+      ]
+    },
+    "CVE-2020-25635": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/81289"
+      ],
+      "PRs": []
+    },
+    "CVE-2007-4559": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/78877"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-1736": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/67794",
+        "https://github.com/ansible/ansible/issues/76749"
+      ],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/71324",
+        "https://github.com/ansible/ansible/pull/72127",
+        "https://github.com/ansible/ansible/pull/71514",
+        "https://github.com/ansible/ansible/pull/71516",
+        "https://github.com/ansible/ansible/pull/71515",
+        "https://github.com/ansible/ansible/pull/70827",
+        "https://github.com/ansible/ansible/pull/70825",
+        "https://github.com/ansible/ansible/pull/70976",
+        "https://github.com/ansible/ansible/pull/70824",
+        "https://github.com/ansible/ansible/pull/70221",
+        "https://github.com/ansible/ansible/pull/68970",
+        "https://github.com/ansible/ansible/pull/68977",
+        "https://github.com/ansible/ansible/pull/68976"
+      ]
+    },
+    "CVE-2015-4000": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/11498"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-9636": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/67609"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-10729": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/75153"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-14846": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/74032",
+        "https://github.com/ansible/ansible/issues/73952"
+      ],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/70882",
+        "https://github.com/ansible/ansible/pull/70878",
+        "https://github.com/ansible/ansible/pull/70881",
+        "https://github.com/ansible/ansible/pull/63366",
+        "https://github.com/ansible/ansible/pull/63368",
+        "https://github.com/ansible/ansible/pull/63367"
+      ]
+    },
+    "CVE-2020-10744": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/69782",
+        "https://github.com/ansible/ansible/issues/70896"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-1734": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/70159",
+        "https://github.com/ansible/ansible/issues/67792"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-10684": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/68903"
+      ],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/68446",
+        "https://github.com/ansible/ansible/pull/68445",
+        "https://github.com/ansible/ansible/pull/68444",
+        "https://github.com/ansible/ansible/pull/68431"
+      ]
+    },
+    "CVE-2020-1735": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/67793"
+      ],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/69022",
+        "https://github.com/ansible/ansible/pull/69024",
+        "https://github.com/ansible/ansible/pull/69025",
+        "https://github.com/ansible/ansible/pull/69023"
+      ]
+    },
+    "CVE-2020-1733": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/67791"
+      ],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/68692",
+        "https://github.com/ansible/ansible/pull/68927",
+        "https://github.com/ansible/ansible/pull/68921",
+        "https://github.com/ansible/ansible/pull/68928",
+        "https://github.com/ansible/ansible/pull/68926"
+      ]
+    },
+    "CVE-2020-1739": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/67797"
+      ],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/68913",
+        "https://github.com/ansible/ansible/pull/68911",
+        "https://github.com/ansible/ansible/pull/68912"
+      ]
+    },
+    "CVE-2020-1738": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/67796"
+      ],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/67808"
+      ]
+    },
+    "CVE-2020-1740": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/67798"
+      ],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/68674",
+        "https://github.com/ansible/ansible/pull/68673",
+        "https://github.com/ansible/ansible/pull/68671",
+        "https://github.com/ansible/ansible/pull/68644",
+        "https://github.com/ansible/ansible/pull/67800"
+      ]
+    },
+    "CVE-2020-1737": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/67795"
+      ],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/67937",
+        "https://github.com/ansible/ansible/pull/67935",
+        "https://github.com/ansible/ansible/pull/67938",
+        "https://github.com/ansible/ansible/pull/67799"
+      ]
+    },
+    "CVE-2016-8628": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/41903"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-4966": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/36501"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-9587": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/20151",
+        "https://github.com/ansible/ansible/issues/21699",
+        "https://github.com/ansible/ansible/issues/20224",
+        "https://github.com/ansible/ansible/issues/20290"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-7459": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/23179"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-7466": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/24186"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-3096": {
+      "Issues": [
+        "https://github.com/ansible/ansible/issues/29500",
+        "https://github.com/ansible/ansible/issues/20543"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-11079": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/84330",
+        "https://github.com/ansible/ansible/pull/84431",
+        "https://github.com/ansible/ansible/pull/84339",
+        "https://github.com/ansible/ansible/pull/84353",
+        "https://github.com/ansible/ansible/pull/84354",
+        "https://github.com/ansible/ansible/pull/84299"
+      ]
+    },
+    "CVE-2024-8775": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/84183",
+        "https://github.com/ansible/ansible/pull/84182",
+        "https://github.com/ansible/ansible/pull/84181",
+        "https://github.com/ansible/ansible/pull/84180",
+        "https://github.com/ansible/ansible/pull/84179",
+        "https://github.com/ansible/ansible/pull/84185",
+        "https://github.com/ansible/ansible/pull/84184",
+        "https://github.com/ansible/ansible/pull/84143"
+      ]
+    },
+    "CVE-2024-9902": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/84171",
+        "https://github.com/ansible/ansible/pull/84170",
+        "https://github.com/ansible/ansible/pull/84169",
+        "https://github.com/ansible/ansible/pull/84168",
+        "https://github.com/ansible/ansible/pull/84167",
+        "https://github.com/ansible/ansible/pull/84165"
+      ]
+    },
+    "CVE-2024-0690": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/82565",
+        "https://github.com/ansible/ansible/pull/82568",
+        "https://github.com/ansible/ansible/pull/82566",
+        "https://github.com/ansible/ansible/pull/82567"
+      ]
+    },
+    "CVE-2023-5115": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/81780"
+      ]
+    },
+    "CVE-2021-20178": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/73188",
+        "https://github.com/ansible/ansible/pull/73189"
+      ]
+    },
+    "CVE-2021-20180": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/73243",
+        "https://github.com/ansible/ansible/pull/73242"
+      ]
+    },
+    "CVE-2021-20228": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/73492",
+        "https://github.com/ansible/ansible/pull/73487",
+        "https://github.com/ansible/ansible/pull/73494",
+        "https://github.com/ansible/ansible/pull/73493"
+      ]
+    },
+    "CVE-2022-39253": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/79210",
+        "https://github.com/ansible/ansible/pull/79214",
+        "https://github.com/ansible/ansible/pull/79213",
+        "https://github.com/ansible/ansible/pull/79212"
+      ]
+    },
+    "CVE-2020-10685": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/68470",
+        "https://github.com/ansible/ansible/pull/68469",
+        "https://github.com/ansible/ansible/pull/68468",
+        "https://github.com/ansible/ansible/pull/68433"
+      ]
+    },
+    "CVE-2021-3620": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/75805"
+      ]
+    },
+    "CVE-2021-3583": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/74960",
+        "https://github.com/ansible/ansible/pull/74976",
+        "https://github.com/ansible/ansible/pull/74975",
+        "https://github.com/ansible/ansible/pull/74973"
+      ]
+    },
+    "CVE-2021-3447": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/74115",
+        "https://github.com/ansible/ansible/pull/74116"
+      ]
+    },
+    "CVE-2021-20191": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/73489",
+        "https://github.com/ansible/ansible/pull/73488"
+      ]
+    },
+    "CVE-2019-14864": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/64274",
+        "https://github.com/ansible/ansible/pull/64273",
+        "https://github.com/ansible/ansible/pull/64748"
+      ]
+    },
+    "CVE-2019-14904": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/65692",
+        "https://github.com/ansible/ansible/pull/65693",
+        "https://github.com/ansible/ansible/pull/65694",
+        "https://github.com/ansible/ansible/pull/65686"
+      ]
+    },
+    "CVE-2020-1753": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/71535",
+        "https://github.com/ansible/ansible/pull/71971",
+        "https://github.com/ansible/ansible/pull/68195"
+      ]
+    },
+    "CVE-2020-14332": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/71067",
+        "https://github.com/ansible/ansible/pull/71069",
+        "https://github.com/ansible/ansible/pull/71068",
+        "https://github.com/ansible/ansible/pull/71033"
+      ]
+    },
+    "CVE-2020-14365": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/71537",
+        "https://github.com/ansible/ansible/pull/71541",
+        "https://github.com/ansible/ansible/pull/71540",
+        "https://github.com/ansible/ansible/pull/71539"
+      ]
+    },
+    "CVE-2020-10691": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/68601",
+        "https://github.com/ansible/ansible/pull/68596"
+      ]
+    },
+    "CVE-2020-1746": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/68715",
+        "https://github.com/ansible/ansible/pull/68716",
+        "https://github.com/ansible/ansible/pull/68714",
+        "https://github.com/ansible/ansible/pull/67866"
+      ]
+    },
+    "CVE-2019-3828": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/68782",
+        "https://github.com/ansible/ansible/pull/68781",
+        "https://github.com/ansible/ansible/pull/68780",
+        "https://github.com/ansible/ansible/pull/68720",
+        "https://github.com/ansible/ansible/pull/52133",
+        "https://github.com/ansible/ansible/pull/52175",
+        "https://github.com/ansible/ansible/pull/52174",
+        "https://github.com/ansible/ansible/pull/52173"
+      ]
+    },
+    "CVE-2019-14856": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/63351",
+        "https://github.com/ansible/ansible/pull/63352"
+      ]
+    },
+    "CVE-2019-14858": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/63405"
+      ]
+    },
+    "CVE-2019-10206": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/59553",
+        "https://github.com/ansible/ansible/pull/59554",
+        "https://github.com/ansible/ansible/pull/59552",
+        "https://github.com/ansible/ansible/pull/59246"
+      ]
+    },
+    "CVE-2019-10156": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/57188"
+      ]
+    },
+    "CVE-2018-16859": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/49144",
+        "https://github.com/ansible/ansible/pull/49145",
+        "https://github.com/ansible/ansible/pull/49143",
+        "https://github.com/ansible/ansible/pull/49142"
+      ]
+    },
+    "CVE-2018-7858": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/40485"
+      ]
+    },
+    "CVE-2018-16876": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/49726",
+        "https://github.com/ansible/ansible/pull/49724",
+        "https://github.com/ansible/ansible/pull/49725"
+      ]
+    },
+    "CVE-2018-16837": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/47487",
+        "https://github.com/ansible/ansible/pull/47486",
+        "https://github.com/ansible/ansible/pull/47543",
+        "https://github.com/ansible/ansible/pull/47436",
+        "https://github.com/ansible/ansible/pull/47445"
+      ]
+    },
+    "CVE-2011-4407": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/3835"
+      ]
+    },
+    "CVE-2013-2233": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ansible/ansible/pull/3430"
+      ]
+    }
+  }
+}

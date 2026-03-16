@@ -1,0 +1,120 @@
+{
+  "vcs_url": "https://github.com/ruby/ruby",
+  "vulnerabilities": {
+    "CVE-2024-35176": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/15970"
+      ]
+    },
+    "CVE-2025-43857": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/15969",
+        "https://github.com/ruby/ruby/pull/15971",
+        "https://github.com/ruby/ruby/pull/13215",
+        "https://github.com/ruby/ruby/pull/13214",
+        "https://github.com/ruby/ruby/pull/13213"
+      ]
+    },
+    "CVE-2025-58767": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/14823",
+        "https://github.com/ruby/ruby/pull/14796",
+        "https://github.com/ruby/ruby/pull/14795"
+      ]
+    },
+    "CVE-2025-61594": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/14919",
+        "https://github.com/ruby/ruby/pull/14757",
+        "https://github.com/ruby/ruby/pull/14756",
+        "https://github.com/ruby/ruby/pull/14755"
+      ]
+    },
+    "CVE-2025-24294": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/13818"
+      ]
+    },
+    "CVE-2025-25186": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/12732",
+        "https://github.com/ruby/ruby/pull/12733",
+        "https://github.com/ruby/ruby/pull/12731"
+      ]
+    },
+    "CVE-2024-49761": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/11971",
+        "https://github.com/ruby/ruby/pull/11972"
+      ]
+    },
+    "CVE-2024-39908": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/11172"
+      ]
+    },
+    "CVE-2024-27281": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/10316",
+        "https://github.com/ruby/ruby/pull/10318",
+        "https://github.com/ruby/ruby/pull/10319",
+        "https://github.com/ruby/ruby/pull/10317"
+      ]
+    },
+    "CVE-2024-27280": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/10320"
+      ]
+    },
+    "CVE-2023-36617": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/7995",
+        "https://github.com/ruby/ruby/pull/7997",
+        "https://github.com/ruby/ruby/pull/7996"
+      ]
+    },
+    "CVE-2023-0842": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/7713"
+      ]
+    },
+    "CVE-2020-15228": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/5705"
+      ]
+    },
+    "CVE-2019-11932": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/2540"
+      ]
+    },
+    "CVE-2015-9096": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/1648",
+        "https://github.com/ruby/ruby/pull/1647"
+      ]
+    },
+    "CVE-2013-4164": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/458",
+        "https://github.com/ruby/ruby/pull/457"
+      ]
+    }
+  }
+}
