@@ -58,6 +58,14 @@
       ],
       "PRs": []
     },
+    "CVE-2022-29526": {
+      "Issues": [
+        "https://github.com/golang/go/issues/71936"
+      ],
+      "PRs": [
+        "https://github.com/golang/go/pull/62452"
+      ]
+    },
     "CVE-2026-27142": {
       "Issues": [
         "https://github.com/golang/go/issues/77971",
@@ -74,13 +82,14 @@
       ],
       "PRs": []
     },
-    "CVE-2022-29526": {
+    "CVE-2025-68119": {
       "Issues": [
-        "https://github.com/golang/go/issues/71936"
+        "https://github.com/golang/go/issues/77434",
+        "https://github.com/golang/go/issues/77099",
+        "https://github.com/golang/go/issues/77104",
+        "https://github.com/golang/go/issues/77103"
       ],
-      "PRs": [
-        "https://github.com/golang/go/pull/62452"
-      ]
+      "PRs": []
     },
     "CVE-2020-7668": {
       "Issues": [
@@ -99,15 +108,6 @@
     "CVE-2025-47906": {
       "Issues": [
         "https://github.com/golang/go/issues/75890"
-      ],
-      "PRs": []
-    },
-    "CVE-2025-68119": {
-      "Issues": [
-        "https://github.com/golang/go/issues/77434",
-        "https://github.com/golang/go/issues/77099",
-        "https://github.com/golang/go/issues/77104",
-        "https://github.com/golang/go/issues/77103"
       ],
       "PRs": []
     },
@@ -522,17 +522,17 @@
       ],
       "PRs": []
     },
-    "CVE-2020-11022": {
-      "Issues": [
-        "https://github.com/golang/go/issues/39535"
-      ],
-      "PRs": []
-    },
     "CVE-2023-39324": {
       "Issues": [
         "https://github.com/golang/go/issues/63212",
         "https://github.com/golang/go/issues/63216",
         "https://github.com/golang/go/issues/63215"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-11022": {
+      "Issues": [
+        "https://github.com/golang/go/issues/39535"
       ],
       "PRs": []
     },
@@ -1286,8 +1286,8 @@
     },
     "CVE-2020-24553": {
       "Issues": [
-        "https://github.com/golang/go/issues/41165",
         "https://github.com/golang/go/issues/41164",
+        "https://github.com/golang/go/issues/41165",
         "https://github.com/golang/go/issues/40928"
       ],
       "PRs": []

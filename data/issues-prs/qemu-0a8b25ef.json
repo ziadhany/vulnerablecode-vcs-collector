@@ -1,0 +1,96 @@
+{
+  "vcs_url": "https://gitlab.com/qemu-project/qemu",
+  "vulnerabilities": {
+    "CVE-2023-1386": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/2579",
+        "https://gitlab.com/qemu-project/qemu/-/work_items/3299"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-7409": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/2528"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-0216": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/972"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-4693": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/2535"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-42467": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/1813"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-2962": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/1171"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-3611": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/542"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-3929": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/782"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-6519": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/3090"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-0330": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/1563"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-54566": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/3056"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-14394": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/646"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-8354": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/2548"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-45582": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/3262"
+      ],
+      "PRs": []
+    },
+    "CVE-2021-3682": {
+      "Issues": [
+        "https://gitlab.com/qemu-project/qemu/-/work_items/2759"
+      ],
+      "PRs": []
+    }
+  }
+}

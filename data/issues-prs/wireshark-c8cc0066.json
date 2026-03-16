@@ -1,0 +1,1313 @@
+{
+  "vcs_url": "https://gitlab.com/wireshark/wireshark",
+  "vulnerabilities": {
+    "CVE-2021-44228": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/17783"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-4922": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/8828"
+      ],
+      "PRs": []
+    },
+    "CVE-2008-0166": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/2725"
+      ],
+      "PRs": []
+    },
+    "CVE-2009-1210": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/3390",
+        "https://gitlab.com/wireshark/wireshark/-/work_items/3388"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4083": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12341"
+      ],
+      "PRs": []
+    },
+    "CVE-2024-31449": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/20475"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-11361": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14686"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-4933": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/8742"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-11362": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14615"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-11359": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14703"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-16057": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15022"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-9214": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15536"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-2523": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11938"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-2524": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12002"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4082": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12278"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-9375": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13097"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-6336": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/9139"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5353": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12191"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-15189": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14080"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-18225": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15172"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-16319": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/16020"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-5334": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14297"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-14341": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14742"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-9374": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12953"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-13765": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13929"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-15190": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14077"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-11409": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13603"
+      ],
+      "PRs": [
+        "https://gitlab.com/wireshark/wireshark/-/merge_requests/16775"
+      ]
+    },
+    "CVE-2013-5721": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/9079"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4081": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12260"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-14368": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14841"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-5717": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15337"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-12295": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15778"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-19553": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15961"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-9428": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/16397"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-11406": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13797"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-18227": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15119"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-11407": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13792"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-14339": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14738"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-18226": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15171"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5351": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11585"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4418": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12106"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-6338": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/9228"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-9373": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13072"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-7704": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13453"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7334": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14339"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-19626": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15130"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-15466": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/16029"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-6467": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12083"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5358": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12440"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7176": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12700"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7420": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14403"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-19622": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15250"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-15193": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14056"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-5716": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15217"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-16058": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14884"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-17498": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/16672"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-10897": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15553"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4076": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11591"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-9372": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12851"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-10899": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15546"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4419": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12151"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7180": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12782"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-9376": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13071"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-11354": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14647"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-16056": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14994"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-4928": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/8875",
+        "https://gitlab.com/wireshark/wireshark/-/work_items/8831"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-2283": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/9730"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-4936": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/8904"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-11410": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13796"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-13766": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13847"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-9430": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/16368"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-17997": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14299"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-6014": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13416"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4006": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12268"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-10903": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15568"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-10900": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15612"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4416": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11818"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-4935": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/8722"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-5596": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13344"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-19624": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15280"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-2522": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11828"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-4930": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/8916"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4417": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11825"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5359": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12408"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-9209": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15447"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7336": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14374"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4077": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11799"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-14342": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13741"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-7700": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13478"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-5717": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/8827"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-2281": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/9672"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-6471": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13348"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-7702": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13477"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-13767": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13933"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-6469": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13346"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-7705": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13558"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-9347": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13637"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-2525": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12077",
+        "https://gitlab.com/wireshark/wireshark/-/work_items/20860"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-9350": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13649"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-7703": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13466"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-5718": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15373"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-9351": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13609"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-9431": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/16341"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-6472": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13347"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-9354": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13646"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-11411": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13755"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-11408": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13780"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7320": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14398"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7419": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14443"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-19623": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15132"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-9344": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13701"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-9353": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13675"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-9348": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13608"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-13764": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13925"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-15191": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14068"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-13619": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15870"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-15192": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14049"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7337": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14446"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-7112": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/9388"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-7113": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/9488"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7330": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14428"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-5719": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/9020"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5356": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12395"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7175": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11850"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7417": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14409"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-5597": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13345"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-4932": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/8940"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-6468": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13430"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-14367": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14966"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-9343": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13725"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-4931": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/8923"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-9346": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13631"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-11357": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14678"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-9349": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13685"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-11358": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14689"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-14369": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14869"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-6473": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13431"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-10898": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15585"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-9352": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13599"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-11647": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/16474"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-6470": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13432"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-11356": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14681"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7335": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14442"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-7044": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/16324"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-11360": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14688"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-4929": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/8911"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-14340": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14675"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7178": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12751"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7333": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14449"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-14344": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14672"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-11355": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14673"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5357": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12396"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-7045": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/16258"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7177": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12750"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-6474": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13429"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-19627": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15279"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-7179": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12752"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-14343": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14682"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-2299": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/9843"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-6339": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/9248"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-5721": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14470"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-9429": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/16394"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5355": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12394"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-10895": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15497"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-5718": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/9005"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-2530": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11829"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4078": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11824"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7331": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14444"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7326": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14419"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-7701": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13557"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-10894": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15613"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7325": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14414"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-10902": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15619"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-9208": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15464"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7332": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14445"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-10896": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15617"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7324": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14413"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-2532": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12048"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-9345": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/13633"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-10901": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15620"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-2529": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11985"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7418": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14410"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7329": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14423"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-5336": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14253"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-5335": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14251"
+      ],
+      "PRs": []
+    },
+    "CVE-2015-7830": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11455"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7321": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14379"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7322": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14411"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4080": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12242"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-0668": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/19087"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7421": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14408"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7328": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14421"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-5719": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15374"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7327": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14420"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4085": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12293"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4421": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11822"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-3562": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/19144"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-19625": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14466"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4079": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12206"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-2906": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/19229"
+      ],
+      "PRs": []
+    },
+    "CVE-2013-6340": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/9263"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-2528": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11984"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-7323": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/14412"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-0666": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/19085"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5354": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12356"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-0667": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/19086"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-4415": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11795"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-2527": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11982"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-2526": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/11983"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-19628": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/15281"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5352": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/12175"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-39197": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/18774"
+      ],
+      "PRs": []
+    },
+    "CVE-2023-0361": {
+      "Issues": [
+        "https://gitlab.com/wireshark/wireshark/-/work_items/18949"
+      ],
+      "PRs": []
+    },
+    "CVE-2020-14147": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/wireshark/wireshark/-/merge_requests/17755",
+        "https://gitlab.com/wireshark/wireshark/-/merge_requests/14267"
+      ]
+    },
+    "CVE-2020-1472": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/wireshark/wireshark/-/merge_requests/3877"
+      ]
+    },
+    "CVE-2022-0585": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/wireshark/wireshark/-/merge_requests/23059"
+      ]
+    },
+    "CVE-2006-2451": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/wireshark/wireshark/-/merge_requests/10121"
+      ]
+    }
+  }
+}

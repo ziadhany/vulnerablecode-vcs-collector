@@ -1,0 +1,311 @@
+{
+  "vcs_url": "https://gitlab.com/gitlab-org/gitlab-foss",
+  "vulnerabilities": {
+    "CVE-2019-9511": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/67355"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-11235": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/48185"
+      ],
+      "PRs": []
+    },
+    "CVE-2012-6684": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/19169"
+      ],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/4929"
+      ]
+    },
+    "CVE-2016-4340": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/17430"
+      ],
+      "PRs": []
+    },
+    "CVE-2022-40674": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/80020"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-16471": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/54201"
+      ],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/23171"
+      ]
+    },
+    "CVE-2015-9284": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/64482"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-13574": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/65671"
+      ],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/31505"
+      ]
+    },
+    "CVE-2018-3740": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/44701"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-1000544": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/50930"
+      ],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/21460"
+      ]
+    },
+    "CVE-2019-8331": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/58346",
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/52091"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-9837": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/59106"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-15412": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/42591"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-5697": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/19206"
+      ],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/4951",
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/4926"
+      ]
+    },
+    "CVE-2019-5421": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/59224",
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/59272"
+      ],
+      "PRs": []
+    },
+    "CVE-2014-3660": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/18445"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-5418": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/59823"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-1000201": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/51180"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-5419": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/58963"
+      ],
+      "PRs": []
+    },
+    "CVE-2016-2324": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/17267",
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/14758"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-10379": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/45994"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-1000211": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/49940"
+      ],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/21576"
+      ]
+    },
+    "CVE-2018-1000119": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/44388"
+      ],
+      "PRs": []
+    },
+    "CVE-2017-5029": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/34914"
+      ],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/12109"
+      ]
+    },
+    "CVE-2018-5158": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/55503"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-10746": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/63945"
+      ],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/30223"
+      ]
+    },
+    "CVE-2017-8418": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/34869"
+      ],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/12741"
+      ]
+    },
+    "CVE-2018-1058": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/49089"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-5010": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/59267"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-1002105": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/55410"
+      ],
+      "PRs": []
+    },
+    "CVE-2019-10109": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/63215"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-19569": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/54572"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-14364": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/55501"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-16476": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/55879"
+      ],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/23396"
+      ]
+    },
+    "CVE-2016-4658": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/10218"
+      ]
+    },
+    "CVE-2017-9050": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/14427"
+      ]
+    },
+    "CVE-2017-11428": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/17734"
+      ]
+    },
+    "CVE-2018-3760": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/20109"
+      ]
+    },
+    "CVE-2018-16468": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/23204"
+      ]
+    },
+    "CVE-2017-18258": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/18673"
+      ]
+    },
+    "CVE-2019-11068": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/27560"
+      ]
+    },
+    "CVE-2015-9097": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/13662"
+      ]
+    },
+    "CVE-2018-11233": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/19222"
+      ]
+    },
+    "CVE-2015-5312": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/2154"
+      ]
+    },
+    "CVE-2014-9490": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/22956"
+      ]
+    },
+    "CVE-2019-15657": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/32251"
+      ]
+    },
+    "CVE-2019-5477": {
+      "Issues": [],
+      "PRs": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/31701"
+      ]
+    }
+  }
+}

@@ -11,7 +11,9 @@
       "Issues": [
         "https://github.com/rails/rails/issues/56948"
       ],
-      "PRs": []
+      "PRs": [
+        "https://github.com/rails/rails/pull/56995"
+      ]
     },
     "CVE-2024-54133": {
       "Issues": [
