@@ -22,7 +22,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install required packages
-        run: pip install PyGithub==2.8.1 python-gitlab==8.1.0 aboutcode.pipeline==0.2.1
+        run: pip install PyGithub==2.8.1 packageurl-python==0.17.6 python-gitlab==8.1.0 aboutcode.pipeline==0.2.1
 
       - name: Run sync
         run: python collect_issues_prs.py
@@ -33,5 +33,5 @@ jobs:
           git config user.email "automation@aboutcode.org"
           git add -A
           timestamp=$(date -u)
-          git commit -m "$(echo -e "Sync Collecting Issues and Pull requests related to vulnerabilities.: $timestamp\n\nSigned-off-by: AboutCode Automation <automation@aboutcode.org>")" || exit 0
+          git commit -m "$(echo -e "Sync Collecting Issues and Pull requests related to vulnerabilities: $timestamp\n\nSigned-off-by: AboutCode Automation <automation@aboutcode.org>")" || exit 0
           git push

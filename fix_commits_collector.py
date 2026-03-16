@@ -73,7 +73,6 @@ class CollectVCSFixCommitPipeline(BasePipeline):
     def collect_fix_commits(self):
         """
         Iterate through repository commits and group them by vulnerability identifiers.
-        return a list with (vuln_id, [(commit_id, commit_message)]).
         """
         self.log(
             "Processing git repository fix commits (grouped by vulnerability IDs)."
@@ -81,10 +80,9 @@ class CollectVCSFixCommitPipeline(BasePipeline):
 
         self.collected_items = {
             "vcs_url": self.vcs_url,
-            "vulnerabilities": defaultdict(list),
+            "vulnerabilities": defaultdict(dict),
         }
 
-        already_processed = set()
         for commit in self.repo.iter_commits("--all"):
             matched_ids = self.extract_vulnerability_id(commit)
             if not matched_ids:
@@ -95,11 +93,9 @@ class CollectVCSFixCommitPipeline(BasePipeline):
 
             for vuln_id in matched_ids:
                 vuln_id = vuln_id.upper()
-                if (vuln_id, commit_id) not in already_processed:
-                    self.collected_items["vulnerabilities"][vuln_id].append(
-                        {commit_id: commit_message}
-                    )
-                    already_processed.add((vuln_id, commit_id))
+                self.collected_items["vulnerabilities"][vuln_id][
+                    commit_id
+                ] = commit_message
 
         self.log(
             f"Found {len(self.collected_items)} vulnerabilities with related commits."

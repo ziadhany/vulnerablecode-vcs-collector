@@ -66,9 +66,9 @@ class VCSCollector(BasePipeline):
         raise NotImplementedError
 
     def store_items(self):
-        self.log("Storing collected fix commit results")
-        if not self.collected_items:
-            self.log("No collected fix commit results")
+        self.log("Storing collected Issues and PRs commit results")
+        if not self.collected_items.get("vulnerabilities"):
+            self.log("No collected Issues and PRs results")
             return
 
         vcs_url_hash = hashlib.sha256(self.vcs_url.encode("utf-8")).hexdigest()[:8]
@@ -85,8 +85,10 @@ class GitLabCollector(VCSCollector):
         gl = gitlab.Gitlab("https://gitlab.com/", private_token=gitlab_token)
         project = gl.projects.get(self.repo_name)
         base_query = " ".join(self.SUPPORTED_IDENTIFIERS)
-        self.issues = project.search(scope="issues", search=base_query)
-        self.prs = project.search(scope="merge_requests", search=base_query)
+        self.issues = project.search(scope="issues", search=base_query, iterator=True)
+        self.prs = project.search(
+            scope="merge_requests", search=base_query, iterator=True
+        )
 
     def collect_items(self):
         for i_type, items in [("Issues", self.issues), ("PRs", self.prs)]:
@@ -98,11 +100,11 @@ class GitLabCollector(VCSCollector):
                 for match in matches:
                     cve_id = match.upper()
                     url = item.get("web_url")
-                    if not url or cve_id in seen_urls:
+                    if not url or url in seen_urls:
                         continue
 
                     self.collected_items["vulnerabilities"][cve_id][i_type].append(url)
-                    seen_urls.add(cve_id)
+                    seen_urls.add(url)
 
 
 class GitHubCollector(VCSCollector):
