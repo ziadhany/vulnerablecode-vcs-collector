@@ -11,6 +11,9 @@ permissions:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GH_API_TOKEN }}
+      GITLAB_TOKEN: ${{ secrets.GLAB_API_TOKEN }}
 
     steps:
       - name: Checkout repository
@@ -25,7 +28,7 @@ jobs:
         run: pip install PyGithub==2.8.1 packageurl-python==0.17.6 python-gitlab==8.1.0 aboutcode.pipeline==0.2.1
 
       - name: Run sync
-        run: python collect_issues_prs.py
+        run: python issues_prs_collector.py
 
       - name: Commit and push if it changed
         run: |-
