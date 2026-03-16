@@ -839,6 +839,12 @@
         "https://github.com/kubernetes/kubernetes/pull/80850"
       ]
     },
+    "CVE-2021-25737": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/102106"
+      ],
+      "PRs": []
+    },
     "CVE-2017-1002101": {
       "Issues": [
         "https://github.com/kubernetes/kubernetes/issues/60813",
@@ -858,12 +864,6 @@
       "PRs": [
         "https://github.com/kubernetes/kubernetes/pull/58720"
       ]
-    },
-    "CVE-2021-25737": {
-      "Issues": [
-        "https://github.com/kubernetes/kubernetes/issues/102106"
-      ],
-      "PRs": []
     },
     "CVE-2021-41190": {
       "Issues": [
