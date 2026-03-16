@@ -63,6 +63,15 @@
         "https://github.com/containerd/containerd/pull/2454"
       ]
     },
+    "CVE-2025-52881": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/containerd/containerd/pull/13042",
+        "https://github.com/containerd/containerd/pull/12568",
+        "https://github.com/containerd/containerd/pull/12593",
+        "https://github.com/containerd/containerd/pull/12603"
+      ]
+    },
     "CVE-2025-68121": {
       "Issues": [],
       "PRs": [
@@ -81,14 +90,6 @@
       "Issues": [],
       "PRs": [
         "https://github.com/containerd/containerd/pull/12869"
-      ]
-    },
-    "CVE-2025-52881": {
-      "Issues": [],
-      "PRs": [
-        "https://github.com/containerd/containerd/pull/12568",
-        "https://github.com/containerd/containerd/pull/12593",
-        "https://github.com/containerd/containerd/pull/12603"
       ]
     },
     "CVE-2025-61728": {

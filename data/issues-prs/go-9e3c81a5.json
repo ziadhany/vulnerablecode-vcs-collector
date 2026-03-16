@@ -68,8 +68,8 @@
     },
     "CVE-2026-27142": {
       "Issues": [
-        "https://github.com/golang/go/issues/77971",
         "https://github.com/golang/go/issues/77972",
+        "https://github.com/golang/go/issues/77971",
         "https://github.com/golang/go/issues/77954"
       ],
       "PRs": []
@@ -1286,8 +1286,8 @@
     },
     "CVE-2020-24553": {
       "Issues": [
-        "https://github.com/golang/go/issues/41164",
         "https://github.com/golang/go/issues/41165",
+        "https://github.com/golang/go/issues/41164",
         "https://github.com/golang/go/issues/40928"
       ],
       "PRs": []
