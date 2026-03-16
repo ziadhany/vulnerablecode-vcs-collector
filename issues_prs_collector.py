@@ -17,14 +17,11 @@ from pathlib import Path
 
 import gitlab
 from aboutcode.pipeline import BasePipeline, LoopProgress
+from dotenv import load_dotenv
 from github import Github
 from packageurl.contrib.url2purl import url2purl
-from dotenv import load_dotenv
 
 load_dotenv()
-
-github_token = os.getenv("GH_API_TOKEN")
-gitlab_token = os.getenv("GLAB_API_TOKEN")
 
 class VCSCollector(BasePipeline):
     """
@@ -80,10 +77,14 @@ class VCSCollector(BasePipeline):
         with open(path, "w", encoding="utf-8") as f:
             json.dump(self.collected_items, f, indent=2)
 
-
 class GitLabCollector(VCSCollector):
     def fetch_entries(self):
-        """Fetch GitLab Data Entries"""
+        """Fetch Gitlab Data Entries"""
+        gitlab_token = os.getenv("GLAB_API_TOKEN")
+
+        if not gitlab_token:
+            raise ValueError("GLAB_API_TOKEN environment variable not set")
+
         gl = gitlab.Gitlab("https://gitlab.com/", private_token=gitlab_token)
         project = gl.projects.get(self.repo_name)
         base_query = " ".join(self.SUPPORTED_IDENTIFIERS)
@@ -112,6 +113,10 @@ class GitLabCollector(VCSCollector):
 class GitHubCollector(VCSCollector):
     def fetch_entries(self):
         """Fetch GitHub Data Entries"""
+        github_token = os.getenv("GH_API_TOKEN")
+        if not github_token:
+            raise ValueError("GH_API_TOKEN environment variable not set")
+
         g = Github(login_or_token=github_token)
         base_query = (
             f"repo:{self.repo_name} ({' OR '.join(self.SUPPORTED_IDENTIFIERS)})"
