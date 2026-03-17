@@ -912,15 +912,15 @@
       ],
       "PRs": []
     },
-    "CVE-2018-1000030": {
-      "Issues": [
-        "https://github.com/python/cpython/issues/75711"
-      ],
-      "PRs": []
-    },
     "CVE-2020-26116": {
       "Issues": [
         "https://github.com/python/cpython/issues/83784"
+      ],
+      "PRs": []
+    },
+    "CVE-2018-1000030": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/75711"
       ],
       "PRs": []
     },

@@ -108,8 +108,8 @@
       ],
       "PRs": [
         "https://github.com/ansible/ansible/pull/69022",
-        "https://github.com/ansible/ansible/pull/69025",
         "https://github.com/ansible/ansible/pull/69024",
+        "https://github.com/ansible/ansible/pull/69025",
         "https://github.com/ansible/ansible/pull/69023"
       ]
     },
@@ -245,9 +245,9 @@
       "Issues": [],
       "PRs": [
         "https://github.com/ansible/ansible/pull/82565",
+        "https://github.com/ansible/ansible/pull/82568",
         "https://github.com/ansible/ansible/pull/82566",
-        "https://github.com/ansible/ansible/pull/82567",
-        "https://github.com/ansible/ansible/pull/82568"
+        "https://github.com/ansible/ansible/pull/82567"
       ]
     },
     "CVE-2023-5115": {
