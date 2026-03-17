@@ -913,6 +913,14 @@
       ],
       "PRs": []
     },
+    "CVE-2021-25743": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/107617"
+      ],
+      "PRs": [
+        "https://github.com/kubernetes/kubernetes/pull/112553"
+      ]
+    },
     "CVE-2020-8558": {
       "Issues": [
         "https://github.com/kubernetes/kubernetes/issues/92315"
@@ -926,14 +934,6 @@
         "https://github.com/kubernetes/kubernetes/issues/95621"
       ],
       "PRs": []
-    },
-    "CVE-2021-25743": {
-      "Issues": [
-        "https://github.com/kubernetes/kubernetes/issues/107617"
-      ],
-      "PRs": [
-        "https://github.com/kubernetes/kubernetes/pull/112553"
-      ]
     },
     "CVE-2019-1010022": {
       "Issues": [

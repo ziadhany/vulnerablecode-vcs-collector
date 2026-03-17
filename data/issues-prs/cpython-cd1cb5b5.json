@@ -844,12 +844,6 @@
         "https://github.com/python/cpython/pull/4758"
       ]
     },
-    "CVE-2016-2183": {
-      "Issues": [
-        "https://github.com/python/cpython/issues/72037"
-      ],
-      "PRs": []
-    },
     "CVE-2020-8315": {
       "Issues": [
         "https://github.com/python/cpython/issues/83582"
@@ -857,6 +851,12 @@
       "PRs": [
         "https://github.com/python/cpython/pull/92529"
       ]
+    },
+    "CVE-2016-2183": {
+      "Issues": [
+        "https://github.com/python/cpython/issues/72037"
+      ],
+      "PRs": []
     },
     "CVE-2019-10160": {
       "Issues": [
