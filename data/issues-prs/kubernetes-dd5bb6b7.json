@@ -1,6 +1,12 @@
 {
   "vcs_url": "https://github.com/kubernetes/kubernetes",
   "vulnerabilities": {
+    "CVE-2026-3864": {
+      "Issues": [
+        "https://github.com/kubernetes/kubernetes/issues/137797"
+      ],
+      "PRs": []
+    },
     "CVE-2020-8561": {
       "Issues": [
         "https://github.com/kubernetes/kubernetes/issues/104720"

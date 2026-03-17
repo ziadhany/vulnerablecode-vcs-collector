@@ -152,16 +152,16 @@
         "https://github.com/rails/rails/pull/6580"
       ]
     },
+    "CVE-2015-3224": {
+      "Issues": [
+        "https://github.com/rails/rails/issues/20582"
+      ],
+      "PRs": []
+    },
     "CVE-2015-3225": {
       "Issues": [
         "https://github.com/rails/rails/issues/20579",
         "https://github.com/rails/rails/issues/20585"
-      ],
-      "PRs": []
-    },
-    "CVE-2015-3224": {
-      "Issues": [
-        "https://github.com/rails/rails/issues/20582"
       ],
       "PRs": []
     },

@@ -844,8 +844,8 @@
     "CVE-2023-24537": {
       "Issues": [
         "https://github.com/golang/go/issues/59180",
-        "https://github.com/golang/go/issues/59273",
-        "https://github.com/golang/go/issues/59274"
+        "https://github.com/golang/go/issues/59274",
+        "https://github.com/golang/go/issues/59273"
       ],
       "PRs": []
     },
