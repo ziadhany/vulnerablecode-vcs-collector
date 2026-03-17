@@ -1,6 +1,12 @@
 {
   "vcs_url": "https://github.com/ruby/ruby",
   "vulnerabilities": {
+    "CVE-2019-8322": {
+      "Issues": [],
+      "PRs": [
+        "https://github.com/ruby/ruby/pull/16413"
+      ]
+    },
     "CVE-2024-35176": {
       "Issues": [],
       "PRs": [
