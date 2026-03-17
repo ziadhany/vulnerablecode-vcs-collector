@@ -82,6 +82,12 @@
       ],
       "PRs": []
     },
+    "CVE-2017-15412": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/42591"
+      ],
+      "PRs": []
+    },
     "CVE-2016-5697": {
       "Issues": [
         "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/19206"
@@ -95,12 +101,6 @@
       "Issues": [
         "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/59224",
         "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/59272"
-      ],
-      "PRs": []
-    },
-    "CVE-2017-15412": {
-      "Issues": [
-        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/42591"
       ],
       "PRs": []
     },
@@ -149,6 +149,12 @@
         "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/21576"
       ]
     },
+    "CVE-2018-1000119": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/44388"
+      ],
+      "PRs": []
+    },
     "CVE-2017-5029": {
       "Issues": [
         "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/34914"
@@ -156,12 +162,6 @@
       "PRs": [
         "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/12109"
       ]
-    },
-    "CVE-2018-1000119": {
-      "Issues": [
-        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/44388"
-      ],
-      "PRs": []
     },
     "CVE-2018-5158": {
       "Issues": [
