@@ -1,6 +1,10 @@
 {
   "vcs_url": "https://github.com/ruby/ruby",
   "vulnerabilities": {
+    "CVE-2019-8322": {
+      "3b86c93740bbfd325401bb124c34f599391f34b3": "Add ruby_version_is guard to CVE-2019-8322 spec for changing displayed message",
+      "e0005fdc2734871c4acd7dcf269e1566388794c4": "Backport RubyGems 3.0.3: [Backport #15637]\n\n\t* Fixed following vulnerabilities:\n\t  * CVE-2019-8320: Delete directory using symlink when decompressing tar\n\t  * CVE-2019-8321: Escape sequence injection vulnerability in verbose\n\t  * CVE-2019-8322: Escape sequence injection vulnerability in gem owner\n\t  * CVE-2019-8323: Escape sequence injection vulnerability in API response handling\n\t  * CVE-2019-8324: Installing a malicious gem may lead to arbitrary code execution\n\t  * CVE-2019-8325: Escape sequence injection vulnerability in errors\n\n\t* see also https://blog.rubygems.org/2019/03/05/3.0.3-released.html\n\n\ngit-svn-id: svn+ssh://ci.ruby-lang.org/ruby/branches/ruby_2_6@67182 b2dd03c8-39d4-4d8f-98ff-823fe69b080e"
+    },
     "CVE-2023-2976": {
       "8da2777ddc789c4acf556a78796e603c538104e3": "[ruby/psych] Update SnakeYAML-Engine to 3.0.1\n\nThere are two CVEs in Guava, which is a test-scoped dependency of\nthis library. Guava is not shipped with the library so these CVEs\ndo not affect users, but the dependency may trigger security tools.\nWe update to avoid this false positive.\n\nhttps://www.cve.org/CVERecord?id=CVE-2023-2976\n\nhttps://www.cve.org/CVERecord?id=CVE-2020-8908\n\nFixes ruby/psych#780\n\nhttps://github.com/ruby/psych/commit/599f89d0fd"
     },
@@ -97,9 +101,6 @@
       "e0005fdc2734871c4acd7dcf269e1566388794c4": "Backport RubyGems 3.0.3: [Backport #15637]\n\n\t* Fixed following vulnerabilities:\n\t  * CVE-2019-8320: Delete directory using symlink when decompressing tar\n\t  * CVE-2019-8321: Escape sequence injection vulnerability in verbose\n\t  * CVE-2019-8322: Escape sequence injection vulnerability in gem owner\n\t  * CVE-2019-8323: Escape sequence injection vulnerability in API response handling\n\t  * CVE-2019-8324: Installing a malicious gem may lead to arbitrary code execution\n\t  * CVE-2019-8325: Escape sequence injection vulnerability in errors\n\n\t* see also https://blog.rubygems.org/2019/03/05/3.0.3-released.html\n\n\ngit-svn-id: svn+ssh://ci.ruby-lang.org/ruby/branches/ruby_2_6@67182 b2dd03c8-39d4-4d8f-98ff-823fe69b080e"
     },
     "CVE-2019-8321": {
-      "e0005fdc2734871c4acd7dcf269e1566388794c4": "Backport RubyGems 3.0.3: [Backport #15637]\n\n\t* Fixed following vulnerabilities:\n\t  * CVE-2019-8320: Delete directory using symlink when decompressing tar\n\t  * CVE-2019-8321: Escape sequence injection vulnerability in verbose\n\t  * CVE-2019-8322: Escape sequence injection vulnerability in gem owner\n\t  * CVE-2019-8323: Escape sequence injection vulnerability in API response handling\n\t  * CVE-2019-8324: Installing a malicious gem may lead to arbitrary code execution\n\t  * CVE-2019-8325: Escape sequence injection vulnerability in errors\n\n\t* see also https://blog.rubygems.org/2019/03/05/3.0.3-released.html\n\n\ngit-svn-id: svn+ssh://ci.ruby-lang.org/ruby/branches/ruby_2_6@67182 b2dd03c8-39d4-4d8f-98ff-823fe69b080e"
-    },
-    "CVE-2019-8322": {
       "e0005fdc2734871c4acd7dcf269e1566388794c4": "Backport RubyGems 3.0.3: [Backport #15637]\n\n\t* Fixed following vulnerabilities:\n\t  * CVE-2019-8320: Delete directory using symlink when decompressing tar\n\t  * CVE-2019-8321: Escape sequence injection vulnerability in verbose\n\t  * CVE-2019-8322: Escape sequence injection vulnerability in gem owner\n\t  * CVE-2019-8323: Escape sequence injection vulnerability in API response handling\n\t  * CVE-2019-8324: Installing a malicious gem may lead to arbitrary code execution\n\t  * CVE-2019-8325: Escape sequence injection vulnerability in errors\n\n\t* see also https://blog.rubygems.org/2019/03/05/3.0.3-released.html\n\n\ngit-svn-id: svn+ssh://ci.ruby-lang.org/ruby/branches/ruby_2_6@67182 b2dd03c8-39d4-4d8f-98ff-823fe69b080e"
     },
     "CVE-2019-8323": {
