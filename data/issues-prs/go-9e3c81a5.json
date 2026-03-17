@@ -242,17 +242,17 @@
       ],
       "PRs": []
     },
-    "CVE-2025-22865": {
-      "Issues": [
-        "https://github.com/golang/go/issues/71216"
-      ],
-      "PRs": []
-    },
     "CVE-2025-61728": {
       "Issues": [
         "https://github.com/golang/go/issues/77102",
         "https://github.com/golang/go/issues/77110",
         "https://github.com/golang/go/issues/77109"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-22865": {
+      "Issues": [
+        "https://github.com/golang/go/issues/71216"
       ],
       "PRs": []
     },
