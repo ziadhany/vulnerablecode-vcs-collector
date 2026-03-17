@@ -149,12 +149,6 @@
         "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/21576"
       ]
     },
-    "CVE-2018-1000119": {
-      "Issues": [
-        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/44388"
-      ],
-      "PRs": []
-    },
     "CVE-2017-5029": {
       "Issues": [
         "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/34914"
@@ -162,6 +156,12 @@
       "PRs": [
         "https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/12109"
       ]
+    },
+    "CVE-2018-1000119": {
+      "Issues": [
+        "https://gitlab.com/gitlab-org/gitlab-foss/-/work_items/44388"
+      ],
+      "PRs": []
     },
     "CVE-2018-5158": {
       "Issues": [

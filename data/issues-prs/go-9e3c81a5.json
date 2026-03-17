@@ -155,21 +155,15 @@
       ],
       "PRs": []
     },
-    "CVE-2024-45338": {
-      "Issues": [
-        "https://github.com/golang/go/issues/70906"
-      ],
-      "PRs": []
-    },
     "CVE-2025-22868": {
       "Issues": [
         "https://github.com/golang/go/issues/71490"
       ],
       "PRs": []
     },
-    "CVE-2025-22869": {
+    "CVE-2024-45338": {
       "Issues": [
-        "https://github.com/golang/go/issues/71931"
+        "https://github.com/golang/go/issues/70906"
       ],
       "PRs": []
     },
@@ -179,17 +173,23 @@
       ],
       "PRs": []
     },
-    "CVE-2025-61732": {
+    "CVE-2025-22869": {
       "Issues": [
-        "https://github.com/golang/go/issues/76697",
-        "https://github.com/golang/go/issues/77129",
-        "https://github.com/golang/go/issues/77128"
+        "https://github.com/golang/go/issues/71931"
       ],
       "PRs": []
     },
     "CVE-2026-27139": {
       "Issues": [
         "https://github.com/golang/go/issues/77827"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-61732": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76697",
+        "https://github.com/golang/go/issues/77129",
+        "https://github.com/golang/go/issues/77128"
       ],
       "PRs": []
     },
@@ -204,15 +204,6 @@
         "https://github.com/golang/go/issues/71986",
         "https://github.com/golang/go/issues/71985",
         "https://github.com/golang/go/issues/71984"
-      ],
-      "PRs": []
-    },
-    "CVE-2025-58185": {
-      "Issues": [
-        "https://github.com/golang/go/issues/76843",
-        "https://github.com/golang/go/issues/75671",
-        "https://github.com/golang/go/issues/75705",
-        "https://github.com/golang/go/issues/75704"
       ],
       "PRs": []
     },
@@ -231,6 +222,15 @@
         "https://github.com/golang/go/issues/77100",
         "https://github.com/golang/go/issues/77106",
         "https://github.com/golang/go/issues/77105"
+      ],
+      "PRs": []
+    },
+    "CVE-2025-58185": {
+      "Issues": [
+        "https://github.com/golang/go/issues/76843",
+        "https://github.com/golang/go/issues/75671",
+        "https://github.com/golang/go/issues/75705",
+        "https://github.com/golang/go/issues/75704"
       ],
       "PRs": []
     },
@@ -844,8 +844,8 @@
     "CVE-2023-24537": {
       "Issues": [
         "https://github.com/golang/go/issues/59180",
-        "https://github.com/golang/go/issues/59273",
-        "https://github.com/golang/go/issues/59274"
+        "https://github.com/golang/go/issues/59274",
+        "https://github.com/golang/go/issues/59273"
       ],
       "PRs": []
     },
