@@ -1,0 +1,85 @@
+#
+# Copyright (c) nexB Inc. and others. All rights reserved.
+# SPDX-License-Identifier: Apache-2.0
+# See http://www.apache.org/licenses/LICENSE-2.0 for the license text.
+# See https://aboutcode.org for more information about nexB OSS projects.
+#
+
+import sys
+from datetime import datetime, timezone
+from aboutcode.pipeline import BasePipeline
+from dotenv import load_dotenv
+import os
+import json
+from github import Github, Auth
+from fetchcode.vcs import fetch_via_vcs
+
+load_dotenv()
+
+class PocsCollector(BasePipeline):
+    @classmethod
+    def steps(cls):
+        return (
+            cls.collect_items,
+        )
+
+    def log(self, message):
+        now_local = datetime.now(timezone.utc).astimezone()
+        timestamp = now_local.strftime("%Y-%m-%d %H:%M:%S.%f")[:-3]
+        message = f"{timestamp} {message}"
+        print(message)
+
+    def get_cve_list(self):
+        vcs_response = fetch_via_vcs("git+https://github.com/CVEProject/cvelistV5")
+        for file_path in vcs_response.glob("**/*.json"):
+            if file_path.is_file() and file_path.name.startswith("CVE-"):
+                yield file_path.stem
+
+    def get_pocs_repo_urls(self, cve_id):
+        """Searches GitHub and returns a list of POCS URLs"""
+        query = (
+            f'{cve_id} in:name,description '
+            f'fork:false '
+        )
+        results = g.search_repositories(query=query)
+        pocs_urls = set()
+        count = 0
+
+        if results.totalCount == 0:
+            return []
+
+        for item in results:
+            pocs_urls.add(item.html_url)
+            count += 1
+
+        return sorted(list(pocs_urls))
+
+    def collect_items(self):
+        for cve_id in self.get_cve_list():
+            pocs_repo_urls = self.get_pocs_repo_urls(cve_id)
+            if not pocs_repo_urls:
+                continue
+
+            parts = cve_id.split("-")
+            path = os.path.join("data/pocs", parts[1], f"{cve_id}.json")
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            data = {
+                "cve_id": cve_id,
+                "repositories": list(pocs_repo_urls),
+                "count": len(pocs_repo_urls),
+            }
+
+            with open(path, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=2)
+
+if __name__ == "__main__":
+    github_token = os.getenv("GH_API_TOKEN")
+    if not github_token:
+        raise ValueError("GH_API_TOKEN environment variable not set properly")
+
+    auth = Auth.Token(github_token)
+    g = Github(auth=auth)
+    collector = PocsCollector()
+    status_code, error_msg = collector.execute()
+    print(error_msg)
+    sys.exit(0)
