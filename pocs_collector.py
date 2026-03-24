@@ -7,6 +7,8 @@
 
 import sys
 from datetime import datetime, timezone
+from pathlib import Path
+
 from aboutcode.pipeline import BasePipeline
 from dotenv import load_dotenv
 import os
@@ -31,7 +33,7 @@ class PocsCollector(BasePipeline):
 
     def get_cve_list(self):
         vcs_response = fetch_via_vcs("git+https://github.com/CVEProject/cvelistV5")
-        for file_path in vcs_response.glob("**/*.json"):
+        for file_path in Path(vcs_response.dest_dir).glob("**/*.json"):
             if file_path.is_file() and file_path.name.startswith("CVE-"):
                 yield file_path.stem
 
