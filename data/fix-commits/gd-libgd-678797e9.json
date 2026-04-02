@@ -1,0 +1,15 @@
+{
+  "vcs_url": "https://bitbucket.org/libgd/gd-libgd",
+  "vulnerabilities": {
+    "CVE-2014-2497": {
+      "463c3bd09bfe8e924e19acad7a2a6af16953a704": "CVE-2014-2497, NULL pointer dereference, fix #126"
+    },
+    "CVE-2009-3546": {
+      "f4ee9d6c0c0cbc5f4ee976987d369e465eb97bf4": "CVE-2009-3546: buffer overflow or buffer over-read attacks via a crafted GD file"
+    },
+    "CVE-2007-0455": {
+      "d322c2c37fafebc4cb36d1552a53fa91a53a74ef": "- MFB:\n - prevent double lock/unlock for the tween colors cache\n - use gdFree not free\n - #40, possible Buffer overflow in the gdImageStringFTEx function\n   in gdft.c (CVE-2007-0455) (Kees Cook)",
+      "1de613c14bcc46c9f023a3826e0330fca905f4e5": "- MFB:\n - prevent double lock/unlock for the tween colors cache\n - use gdFree not free\n - #40, possible Buffer overflow in the gdImageStringFTEx function\n   in gdft.c (CVE-2007-0455) (Kees Cook)"
+    }
+  }
+}

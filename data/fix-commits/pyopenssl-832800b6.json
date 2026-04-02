@@ -1,0 +1,8 @@
+{
+  "vcs_url": "https://github.com/pyca/pyopenssl",
+  "vulnerabilities": {
+    "CVE-2013-4073": {
+      "de1a6825575f89b896b71156d6dfe14964184326": "CVE-2013-4073 is sort of related, but it doesn\\t really explain what's being fixed here."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "vcs_url": "https://github.com/apache/avro",
+  "vulnerabilities": {
+    "CVE-2019-11358": {
+      "8c2c0da3b0dcbaf6463bbbad01918f4ee8455300": "Upgrade jquery to 3.7.1 due to CVE-2019-11358 (#3579)\n\n* Upgrade jquery to 3.5.0 due to CVE-2019-11358\n\n* bump jquery to 3.7.1"
+    },
+    "CVE-2011-4969": {
+      "cb8610e551a3b542af1cb231b2711f008c76d7d7": "Upgrade jquery to 1.6.3 due to CVE-2011-4969 (#3012)\n\n* Upgrade jquery to 1.6.2 due to CVE-2011-4969\r\n\r\n* Upgrade jquery to 1.6.3 due to CVE-2011-4969\r\n\r\n* PR #3012: Exclude jquery-1.6.3 from RAT checks\r\n\r\nSigned-off-by: Martin Tzvetanov Grigorov <mgrigorov@apache.org>\r\n\r\n---------\r\n\r\nSigned-off-by: Martin Tzvetanov Grigorov <mgrigorov@apache.org>\r\nCo-authored-by: Martin Tzvetanov Grigorov <mgrigorov@apache.org>"
+    },
+    "CVE-2023-42503": {
+      "9480d15f96b1da4fa936d2c52ffccb1fbc79ef23": "fix CVE-2023-42503 by using Apache Commons Compress 1.24.0 (#2560)",
+      "369ae568f1017b54fc00bd2f49fd2ebe94fb1b2e": "fix CVE-2023-42503 by using Apache Commons Compress 1.24.0 (#2560)"
+    },
+    "CVE-2019-12086": {
+      "4fe259547614b68b65989fd7c6cd69eb9fa25544": "AVRO-2398 Bump Jackson to 2.9.9 (#523)\n\nThis fixes CVE-2019-12086 on Databind:\r\nhttps://github.com/FasterXML/jackson/wiki/Jackson-Release-2.9.9"
+    }
+  }
+}

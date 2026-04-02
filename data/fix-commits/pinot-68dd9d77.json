@@ -1,0 +1,21 @@
+{
+  "vcs_url": "https://github.com/apache/pinot",
+  "vulnerabilities": {
+    "CVE-2022-1471": {
+      "e658f86a8ac9010079abe7960a66c8c20032d48b": "update libtasn1 lib to fix CVE-2022-1471 (#10775)"
+    },
+    "CVE-2021-45046": {
+      "e84d0d4f1f3d2f80be7be068a1a481bf0620336f": "Upgrade log4j to 2.16.0 for CVE-2021-45046 (#7903)",
+      "8349bbecdeeda416faa64338b943fe608e0a613f": "Upgrade log4j to 2.16.0 for CVE-2021-45046 (#7903)",
+      "9ed6498cdf9d32a65ebcbcce9158acab64a8c0d7": "Upgrade log4j to 2.16.0 for CVE-2021-45046 (#7903)"
+    },
+    "CVE-2019-17495": {
+      "1dfbf1d84d0e07d4d09249547f17f7c1d74b6311": "Upgrade swagger-ui version for CVE-2019-17495 (#7902)",
+      "50e1613503cd74b26cf78873efcbdd6e8516bd8f": "Upgrade swagger-ui version for CVE-2019-17495 (#7902)"
+    },
+    "CVE-2021-44228": {
+      "1579bd054daadf50c1feea5b8d7b3ab9005aafd2": "update log4j 2 to avoid CVE-2021-44228 (#7889)",
+      "af2858aff26e169f348605e61d0c5e21ddd73dd9": "update log4j 2 to avoid CVE-2021-44228 (#7889)"
+    }
+  }
+}

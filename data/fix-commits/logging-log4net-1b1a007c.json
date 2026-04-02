@@ -1,0 +1,8 @@
+{
+  "vcs_url": "https://github.com/apache/logging-log4net",
+  "vulnerabilities": {
+    "CVE-2006-0743": {
+      "ea3faab25fe5f1d4dbda9f5da8dcfa6fc3d9e1b8": "Fix for LOG4NET-67. CVE-2006-0743 Security vulnerability in LocalSyslogAppender"
+    }
+  }
+}
