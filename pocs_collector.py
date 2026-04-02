@@ -55,7 +55,7 @@ class PocsCollector(BasePipeline):
             f'{cve_id} in:name,description '
             f'fork:false '
         )
-        results = g.search_repositories(query=query)
+        results = github.search_repositories(query=query)
         pocs_urls = set()
         count = 0
 
@@ -63,9 +63,11 @@ class PocsCollector(BasePipeline):
             return []
 
         for item in results:
+            if not (cve_id in item.description or cve_id in item.name):
+                continue
+
             pocs_urls.add(item.html_url)
             count += 1
-
         return sorted(list(pocs_urls))
 
     def collect_items(self):
@@ -100,7 +102,7 @@ if __name__ == "__main__":
         raise ValueError("GH_API_TOKEN environment variable not set properly")
 
     auth = Auth.Token(github_token)
-    g = Github(auth=auth)
+    github = Github(auth=auth)
     collector = PocsCollector()
     status_code, error_msg = collector.execute()
     print(error_msg)
