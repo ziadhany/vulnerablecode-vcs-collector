@@ -77,3 +77,16 @@ To collect issues and pull requests:
 ```bash
 python issues_prs_collector.py
 ```
+
+## Testing
+
+Ensure you have `pytest` installed by running this command:
+```bash
+pip install pytest
+```
+
+Then, you can run the tests using this command:
+```bash
+python -m pytest test/ -v
+```
+
